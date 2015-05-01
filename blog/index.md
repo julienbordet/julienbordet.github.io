@@ -3,8 +3,6 @@ title: Blog
 layout: page
 ---
 
-# Data Analysis Visually EnfoRced
-
 <div id="posts">
 
     {% for post in site.posts offset: 0 limit: 10 %}
