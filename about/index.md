@@ -32,7 +32,7 @@ Trop souvent le dirigeant conçoit seul sa vision, et se met en croisade pour la
 
 ## Centres d'intérêt
 
-Au delà du professionne, j'ai trois centres d'intérêt principaux :
+Au delà du professionnel, j'ai trois centres d'intérêt principaux :
  
 - La musique, et particulièrement le piano, que je pratique depuis quelques années.
 - La photographie, à laquelle je m'essaye en amateur
