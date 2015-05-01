@@ -14,13 +14,13 @@ layout: page
     	</p>
     	{% endif %}
         <p>{{ post.excerpt }} </p>
-        <p>	<a class="graybutton" href="{{ post.url }}">Continue reading</a></p>
+        <p>	<a class="graybutton" href="{{ post.url }}">Suite</a></p>
         <br/>
         <hr/>
     {% endfor %}
 
 	<p>
-	<a class="greenbutton" href="/blog/archive/" title="an archive of all posts">See all posts &rarr;</a>
+	<a class="greenbutton" href="/blog/archive/" title="an archive of all posts">Voir tous les posts &rarr;</a>
 	</p>
 	
 </div>

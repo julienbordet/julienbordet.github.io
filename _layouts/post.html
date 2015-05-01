@@ -9,6 +9,22 @@ layout: page
 	
 	{{ content }}
 
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'julienbordet';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
+
 </div>
 
 <hr>
@@ -38,14 +54,14 @@ layout: page
 
 <div class="previous_next">
 	{% if page.previous %}
-	  <a href="{{ page.previous.url }}" title="Previous post">&larr; previous</a>
+	  <a href="{{ page.previous.url }}" title="Post précédent">&larr; précédent</a>
 	{% endif %}
 	&nbsp;&nbsp;
 	{% if page.next %}
-	  <a href="{{ page.next.url }}" title="Next post">next &rarr;</a>
+	  <a href="{{ page.next.url }}" title="Post suivant">Suivant &rarr;</a>
 	{% endif %}
 	<br>
 	<p>
-	<a class="greenbutton" href="/blog/archive/" title="an archive of all posts">See all posts &rarr;</a>
+	<a class="greenbutton" href="/blog/archive/" title="archives de l'ensemble des posts">Voir tous les posts</a>
 	</p>
 </div>
