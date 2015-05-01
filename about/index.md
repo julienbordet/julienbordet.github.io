@@ -3,109 +3,53 @@ title: About
 layout: page
 ---
 
-# About Me
+# A propos
 
-#### I'm a statistical programmer and data science consultant for NGO's, small start-ups, academic scholars, and research labs in general. I'm also a lecturer of Statistics courses.
+#### Je suis consultant en stratégie dans un cabinet de conseil international à la ville, pianiste, photographe et scientifique amateur aux champs.
 
 
-<a class="graybutton" href="/about/GastonSanchez_resumecode.pdf">resume</a>
+<a class="graybutton" href="/about/CV-Julien_Bordet.pdf">CV</a>
 &nbsp;&nbsp;
-<a class="graybutton" href="http://www.linkedin.com/in/sanchezgaston" target="_blank">linkedin</a>
-&nbsp;&nbsp;
-<a class="graybutton" href="https://github.com/gastonstat" target="_blank">github</a>
-
+<a class="graybutton" href="https://www.linkedin.com/in/julienbordet" target="_blank">linkedin</a>
 <hr/>
 
+## Synthèse
 
-## Summary
+Après une formation scientifique sanctionnée par un diplôme d'ingénieur Systèmes d'Information, j'ai commencé à travailler dans le conseil en SI.
 
-In the last 9+ years I've been spending my time working on a number of projects, 
-most of them with the central theme of exploring, analyzing and visualizing data 
-in a context of multiple variables and high dimensionality. 
+En 2008, je décide de passer un MBA International  et réoriente ma carrière vers les problématiques de stratégie d'entreprise et de transformation. J'accompagne mes clients, dans le domaine du transport et de l'énergie, dans la définition des orientations et leur mise en oeuvre.
 
-This means that I've been revisiting the core concepts behind methods for 
-association-relationship between multiple sets of variables (i.e. multiblock data) 
-using different approaches from a broad range of disciplines (e.g. psychometrics, 
-chemometrics, sensometrics, econometrics, ecology and biometrics).
+Au coeur de mes valeurs, deux convictions :
 
-In particular, I've done a lot of programming and development of software for statistical 
-computations, graphics, and data analysis. Behind all the stuff that I’ve done there is a single idea and goal: 
-**to build a succinct summary of the data I'm analyzing**.
+> Il existe pour chaque problème complexe une solution simple, directe et fausse.
+―H. L. Mencken
 
+Le monde est complexe et change très rapidement, et les idées simplistes, aussi séduisantes qu'elles soient, n'éclairent pas la décision. Une approche à la fois rigoureuse et créative est donc indispensable.
 
-## Overall Interests
+> On ne transforme par une entreprise, un groupe, en le faisant contre les hommes et les femmes qui le compose.
 
-There are 3 major topics that I'm hooked to:
+Trop souvent le dirigeant conçoit seul sa vision, et se met en croisade pour la porter et la réaliser. Mais le succès ne repose pas sur un seul individu, et les transformations qui réussissent sont celles qui partent du bas de la pyramide.
+
+## Centres d'intérêt
+
+Au delà du professionne, j'ai trois centres d'intérêt principaux :
  
-- I really like [working](/work) with analytical tools 
-and methods, especially those designed for very practical applications.
-- I'm fascinated with the use of graphical displays to understand data with 
-visualization.
-- I'm a passionate R user as well as a 
-[developer](/software) of statistical software in R.
-
-
-## Blog
-
-Occasionally, I like to talk about data analysis, visualization, statistics, R and 
-related stuff in my blog [Data Analysis Visually EnfoRced](/blog).
-
-
-## Trifecta
-
-What I like about my "job" is that:
-
-1. It can be applied to practically all sciences and disciplines;
-2. Consequently, it has allowed me to open the doors of many different fields;
-3. But most important, it has given me the fortune to work with very smart and talented 
-people from all over the world (from whom I've learned so much).
-
+- La musique, et particulièrement le piano, que je pratique depuis quelques années.
+- La photographie, à laquelle je m'essaye en amateur
+- La physique, et particulièrement la cosmologie. Mon rêve de petit garçon était de devenir astrophysicien
 
 ## Contact
 
-The easiest way to get in touch with me is by email. Feel free to drop me a line 
-if you're interested in:
+Il est possible de me contacter à l'adresse suivante 
 
-- Training Workshops
-- Consulting
-- Seminars
-- Joint Research
-
-```gaston.stat at gmail.com```
-
-
-
-## Wishlist
-
-This site remains ad-free and its content takes hundreds of hours a month to research and write. 
-If you find any joy and value in it, please consider supporting me. You can help me get 
-useful resources from my <a href="http://amzn.com/w/A8P707HJ94QI" target="_blank">wishlist</a>.
+```julien.bordet at gmail.com```
 
 <hr>
 
-# About this website
+# A propos de ce site
 
-This website is my personal space where I try to declutter my ideas and put my 
-projects in order. This is easier said than done.
-  
-- It only happens after many iterations and refinements
-- During days and nights in front of a computer
-- Fueled by dozens of cups of coffee and tea
-- Sometimes listening to music, sometimes in silence
-
-<p>
-<img class="centered" src="http://farm4.staticflickr.com/3765/11406802826_77d023acc1_o.jpg" alt="colophon"/> 
-</p>
+Ce site est un espace personnel, sur lequel je publie différents choses : des idées, des photos, des réflexions.
 
 ## Colophon
 
-I design and develop this site using [Jekyll](https://github.com/mojombo/jekyll), following 
-this [styleguide](/styleguide). 
-Hosting by [github pages](https://pages.github.com). Source available on 
-[github](https://github.com/gastonstat/gastonstat.github.io). 
-
-
-Unless specified otherwise, content on this site is licensed under a 
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-
+(Design du site développement par Gaston Sanchez)

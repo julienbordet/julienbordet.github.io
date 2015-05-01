@@ -1,5 +1,5 @@
-author: Gaston Sanchez
-description: My personal website and blog about data analysis, applied statistics, R
+author: Julien Bordet
+description: Blog personnel
 highlighter: pygments
 permalink: /blog/:categories/:year/:month/:day/:title.html
 markdown: kramdown
