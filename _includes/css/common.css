@@ -133,10 +133,10 @@ body {
 }
 
 h1 {
-  font: 36px 'Open Sans', Helvetica, Arial, sans-serif;
+  font: 30px 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 2.2em;
   font-weight: 400;
-  color: #aaa;
+  color: #000;
   margin-top: 0.2em;
   margin-bottom: 0.2em;
 }
