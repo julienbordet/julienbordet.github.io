@@ -147,6 +147,7 @@ h2 {
   color: #444;
   margin-top: 1em;
   margin-bottom: 0.2em;
+  border-bottom: 2px solid #ddd
 }
 
 h3 {
@@ -155,6 +156,7 @@ h3 {
   color: #444;
   margin-top: 1.2em;
   margin-bottom: 0.2em;
+  border-bottom: 2px solid #ddd
 }
 
 h4 {
