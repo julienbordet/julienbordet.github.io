@@ -126,8 +126,8 @@ html, body {
 body {
   font-family: 'Open Sans', Helvetica, Georgia, serif;
   font-weight: 300;
-  font-size: 18px;
-  font-size: 1.4em;
+  font-size: 16px;
+  font-size: 1.2em;
   color: #444;
 /*  text-align: center; */
 }
