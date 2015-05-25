@@ -4,6 +4,8 @@ description: Blog personnel de Julien Bordet
 url: http://www.bordet.info
 highlighter: pygments
 permalink: /blog/:categories/:year/:month/:day/:title.html
+
 markdown: kramdown
+
 exclude: ["Rmd", ".DS_Store", "README.md"]
 excerpt_separator: <!--more-->

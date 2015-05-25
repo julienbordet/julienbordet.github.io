@@ -66,6 +66,10 @@ html, body {
   margin-top: 5px;
 }
 
+.headpicture {
+  width: 700px;
+}
+
 .full {
   width: 100%;
   max-height: 700px;
