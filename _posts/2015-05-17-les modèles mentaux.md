@@ -64,6 +64,7 @@ L'induction est généralisation d’un raisonnement et apporte une connaissance
 
 ### Ingénierie
 * **Pensée systémique** et **boucles de rétroaction**. Domaine passionnant et large, qui mériterait un article entier ou un livre[^2].
+	* Un exemple de l'application de ce modèle à une compréhension du monde : un écosystème et la biodiversité associée doit être considéré comme un système. Dégrader de manière significative l'un de ses composants peut conduire à une dégration de l'ensemble, *via*  une boucle de rétroaction négative. Concevoir qu'il est possible d'agir sur un écosystème sans en considérer les conséquences globales est typique du biais d'optimisme.
 * **Redondance** : ne pas oublier de « prendre de la marge » dans les conceptions d'ingénieur
 
 ### Economie
