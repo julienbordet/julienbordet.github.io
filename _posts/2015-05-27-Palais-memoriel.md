@@ -96,7 +96,7 @@ L'objectif de ce billet était d'expliquer globalement le principe de la méthod
 En parallèle de la rédaction de ces quelques articles, j'ai commencé à mettre en place cette stratégie, qui, on le verra, demande un peu d'investissement avant de produire les premiers résultats. Je posterai probablement un autre billet pour partager mon expérience.
 
 #### Références ####
-* Joshua Foer (2012). *Moonwlaking with Einstein*.
+* Joshua Foer (2012). *Moonwalking with Einstein*.
 
 #### Copyright ####
 Illustration en tête d'article  : Copyright [Allan Ajifo](http://aboutmodafinil.com)
