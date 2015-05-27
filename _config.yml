@@ -4,7 +4,6 @@ description: Bloc note de Julien Bordet
 url: http://www.bordet.info
 highlighter: pygments
 permalink: /blog/:year/:month/:day/:title.html
-future:false
 
 markdown: kramdown
 

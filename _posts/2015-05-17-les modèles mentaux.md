@@ -94,6 +94,6 @@ L'induction est généralisation d’un raisonnement et apporte une connaissance
 * **Système 1 / Système 2** (Daniel Kahneman)
 
 
-#### Notes de bas de page
+#### Notes
 [^1]: Un exemple de masse critique dans la construction d'une bombe atomique : c'est la quantité minimum de matière fissible pour entrainer une réaction nucléaire de fission auto-entretenue. 
 [^2]: Lire notamment *Thinking in Systems : a primer* - Donella H. Meadows
