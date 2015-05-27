@@ -33,11 +33,11 @@ Son objectif ? Permettre de se rappeler un grand nombre de choses, d'objet, d'é
 
 ### Le fonctionnement de la mémoire ###
 
-{: style="font-size: 60%; text-align: center"} 
-<img src="/images/blog/rainman.jpg" width="400px" />
-
 
 Certains sont dotés d'une mémoire phénoménale. On dit que Kim Peek, l'homme qui a inspiré le personnage joué par Dustin Hoffman dans *Rain Man*, était capable de se souvenir mot pour mot des 12 000 livres qu'il a lu dans sa vie. Si cela semble désespérant pour le commun des mortels, le mémoire est plutôt, à de très rares exception près, plus une histoire de technique qu'une histoire de capacité phénoménale.
+
+{: style="font-size: 60%; text-align: center"} 
+<img src="/images/blog/rainman.jpg" width="400px" />
 
 Dans son livre ["Moonwalking with Einstein"](http://www.amazon.fr/Moonwalking-Einstein-Science-Remembering-Everything/dp/0141032138/ref=sr_1_1?ie=UTF8&qid=1432288845&sr=8-1&keywords=Moonwalking+with+Einstein), Joshua Foer découvre et va même jusqu'à participer à un championnat national de mémoire. Ses échanges avec les participants lui font prendre conscience que tout est une affaire de technique beaucoup plu que de capacité. En résumé, tout le monde peut le faire, et une grande capacité de mémorisation n'est pas limité qu'à une petite fraction de la population.
 
