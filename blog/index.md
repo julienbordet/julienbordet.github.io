@@ -11,8 +11,8 @@ layout: page
 	    {% if post.image %}
 	    <p>
 	    	<a href="{{ post.url }}"><img class="centered" src="/images/blog/{{post.image}}" alt=""></a>
-    	</p>
-    	{% endif %}
+	    </p>
+	    {% endif %}
         <p>{{ post.excerpt }} </p>
         <p>	<a class="graybutton" href="{{ post.url }}">Suite</a></p>
         <br/>

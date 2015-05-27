@@ -15,6 +15,10 @@
         <meta property="og:description" content="" />
         <meta property="og:url" content="{{site.url}}{{ page.url }}" />
         <meta property="og:site_name" content="Bloc-note" />
+        {% if page.image %}
+        <meta property="og:image" content="/images/blog/{{ page.image }}" />
+        {% endif %}
+
 
         <meta name="viewport" content="width=640px, initial-scale=1.0, maximum-scale=1.0">	
         <!-- favicon -->
