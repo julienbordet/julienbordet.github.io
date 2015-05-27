@@ -14,7 +14,7 @@ Copyright [Allan Ajifo](http://aboutmodafinil.com)
 
 Qui n'a jamais ressenti la frustration de savoir qu'on a su quelque chose... mais de l'avoir oublié. La liste de courses, la liste des invités, le nom d'un client, où nous avons mis les clés... Notre mémoire nous joue des tours, et cependant, elle recèle un potentiel formidable.
 
-Avec un peu de travail et de volonté, il est possible d'améliorer très fortement ses performances. L'objectif de ce billet est justement de faire un point sur une technique appelée "palais mémoriel" ou "méthode des loci", conçues justement pour nous aider à moins oublier.
+Avec un peu de travail et de volonté, il est possible d'améliorer très fortement ses performances. L'objectif de ce billet est justement de faire un point sur une technique appelée "palais mémoriel" ou "méthode des loci", conçue justement pour nous aider à moins oublier.
 
 <!--more-->
 
