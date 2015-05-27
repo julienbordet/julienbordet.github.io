@@ -10,11 +10,10 @@
         <meta name="description" content="Bloc note consacré au leadership, à la créativité et à l'analyse des grandes tendances du XXIè siècle" />
 
         <meta property="og:locale" content="fr_FR" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Bloc-note" />
-        <meta property="og:description" content="Bloc note consacré au leadership, à la créativité et à l'analyse des grandes tendances du XXIè siècle" />
-	<meta property="og:url" content="http://www.bordet.info" />
-	<meta property="og:site_name" content="Bloc-note" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:url" content="{{site.url}}{{ page.url }}" />
+        <meta property="og:site_name" content="Bloc-note" />
 
         <meta name="viewport" content="width=640px, initial-scale=1.0, maximum-scale=1.0">	
         <!-- favicon -->
@@ -27,7 +26,6 @@
         <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 	</head>
 	<body>
-
 
 		{{content}}
 
