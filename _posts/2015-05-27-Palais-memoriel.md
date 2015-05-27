@@ -98,8 +98,10 @@ En parallèle de la rédaction de ces quelques articles, j'ai commencé à mettr
 #### Références ####
 * Joshua Foer (2012). *Moonwlaking with Einstein*.
 
+#### Copyright ####
+Illustration en tête d'article  : Copyright [Allan Ajifo](http://aboutmodafinil.com)
+
+
 #### Notes ####
 [^1]: si vous souhaiter retenir ce nom, il est très fortement recommandé d'y associer un image vive. Par exemple un trader rentrant dans une salle de réunion, le sourire aux lèvres, et annonçant aux collègues réunis "Et bing, ça repart à la hausse".
 
-#### Copyright ####
-Illustration en tête d'article  : Copyright [Allan Ajifo](http://aboutmodafinil.com)
