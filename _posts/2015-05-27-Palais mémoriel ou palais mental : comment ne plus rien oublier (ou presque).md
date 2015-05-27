@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Méthode des loci ou comment ne plus rien oublier (ou presque)"
+title: "Palais mémoriel ou palais mental : comment ne plus rien oublier (ou presque)"
 date: 2015-05-27
 category: mémoire
 tags: [mémoire]
