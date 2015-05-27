@@ -3,7 +3,7 @@ layout: post
 title: "Les modèles mentaux"
 date: 2015-05-17
 category: psychologie
-tags: [psychologie]
+tags: [psychologie, modèle, physique, biologie, système, ingénierie, mathématiques]
 ---
 
 Acquérir de nouvelles connaissances, ce n'est pas uniquement *savoir* de nouvelles choses. C'est comprendre, tisser des liens avec des connaissances précédentes, tisser des liens et établir des relations. Mais comment, face à la multitude de domaines du savoir, établir ces liens ?
