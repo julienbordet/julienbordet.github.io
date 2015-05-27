@@ -1,9 +1,9 @@
 author: Julien Bordet
-name : Blog de Julien Bordet
-description: Blog personnel de Julien Bordet
+name : Bloc note de Julien Bordet
+description: Bloc note de Julien Bordet
 url: http://www.bordet.info
 highlighter: pygments
-permalink: /blog/:categories/:year/:month/:day/:title.html
+permalink: /blog/:year/:month/:day/:title.html
 
 markdown: kramdown
 
