@@ -3,7 +3,7 @@ layout: post
 title: "L'économie des robots : quelle place pour les humains ? -  quelques pistes"
 date: 2015-01-12
 category: économie
-tags: [économie, intelligence artificielle, robots, ludisme, travail, capitalisme]
+tags: [économie, intelligence artificielle, robots, luddisme, travail, capitalisme]
 image: robot-hand.jpg
 ---
 *Cet article est la seconde partie d’une analyse sur l’impact du développement technologique sur l’économie, et notamment sur le monde du travail, la question de fond étant : le développement des machines et des nouvelles technologies va-t-il priver les êtres humains d’emploi et remettre en cause leur modèle de développement. Cet article est consacré au diagnostic, le suivant, à venir, aux pistes de solution.*

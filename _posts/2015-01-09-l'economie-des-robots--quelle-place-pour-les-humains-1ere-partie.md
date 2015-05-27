@@ -3,7 +3,7 @@ layout: post
 title: "L'économie des robots : quelle place pour les humains ? -  un diagnostic"
 date: 2015-01-09
 category: économie
-tags: [économie, intelligence artificielle, robots, ludisme, travail, capitalisme]
+tags: [économie, intelligence artificielle, robots, luddisme, travail, capitalisme]
 image: robot-hand.jpg
 ---
 
