@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Méthode des loci ou comment ne plus rien oublier (ou presque)"
-date: 2015-05-27
+date: 2015-06-27
 category: mémoire
 tags: [mémoire]
-published:false
 ---
 
 {: style="font-size: 60%; text-align: center"} 
