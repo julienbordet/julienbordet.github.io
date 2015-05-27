@@ -7,9 +7,6 @@ tags: [mémoire]
 image: cerveau.jpg
 ---
 
-{: style="font-size: 60%; text-align: center"}
-Copyright [Allan Ajifo](http://aboutmodafinil.com)
-
 Qui n'a jamais ressenti la frustration de savoir qu'on a su quelque chose... mais de l'avoir oublié. La liste de courses, la liste des invités, le nom d'un client, où nous avons mis les clés... Notre mémoire nous joue des tours, et cependant, elle recèle un potentiel formidable.
 
 Avec un peu de travail et de volonté, il est possible d'améliorer très fortement ses performances. L'objectif de ce billet est justement de faire un point sur une technique appelée "palais mémoriel" ou "méthode des loci", conçue justement pour nous aider à moins oublier.
@@ -103,3 +100,6 @@ En parallèle de la rédaction de ces quelques articles, j'ai commencé à mettr
 
 #### Notes ####
 [^1]: si vous souhaiter retenir ce nom, il est très fortement recommandé d'y associer un image vive. Par exemple un trader rentrant dans une salle de réunion, le sourire aux lèvres, et annonçant aux collègues réunis "Et bing, ça repart à la hausse".
+
+#### Copyright ####
+Illustration en tête d'article  : Copyright [Allan Ajifo](http://aboutmodafinil.com)
