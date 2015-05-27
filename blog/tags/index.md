@@ -3,8 +3,6 @@ title: Tags
 layout: page
 ---
 
-# Data Analysis Visually EnfoRced
-
 ### Tags
 
 <div id='tag_cloud'>

@@ -3,8 +3,6 @@ title: Categories
 layout: page
 ---
 
-# Data Analysis Visually EnfoRced
-
 ### Categories
 
 <div id='tag_cloud'>
