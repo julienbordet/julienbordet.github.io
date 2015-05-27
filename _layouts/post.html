@@ -6,6 +6,10 @@ layout: page
 	<h2> {{ page.title }} </h2>
 	<!-- <span class="date">Posted on {{ page.date | date_to_string }}</span> -->
 	<h5>Posted on {{ page.date | date: "%B %d, %Y" }}</h5>
+
+        {% if page.image %}
+           <img src="/images/blog/{{page.image}}" width="450px" />
+        {% endif %}
 	
 	{{ content }}
 

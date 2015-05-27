@@ -7,9 +7,6 @@ tags: [mémoire]
 image: cerveau.jpg
 ---
 
-{: style="font-size: 60%; text-align: center"} 
-<img src="/images/blog/cerveau.jpg" width="400px" />
-
 {: style="font-size: 60%; text-align: center"}
 Copyright [Allan Ajifo](http://aboutmodafinil.com)
 
