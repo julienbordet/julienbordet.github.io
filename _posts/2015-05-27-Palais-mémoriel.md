@@ -3,7 +3,7 @@ layout: post
 title: "Palais mémoriel ou palais mental : comment ne plus rien oublier (ou presque)"
 date: 2015-05-27
 category: mémoire
-tags: [mémoire, psychologie]
+tags: [mémoire]
 ---
 
 {: style="font-size: 60%; text-align: center"} 
