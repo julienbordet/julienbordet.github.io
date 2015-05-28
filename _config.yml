@@ -9,3 +9,5 @@ markdown: kramdown
 
 exclude: ["Rmd", ".DS_Store", "README.md"]
 excerpt_separator: <!--more-->
+gems:
+  - jekyll-sitemap
