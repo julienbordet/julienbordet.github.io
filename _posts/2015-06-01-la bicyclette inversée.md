@@ -25,3 +25,6 @@ Les conclusions sont particulièrement intéressantes :
 
 #### Note ####
 [^1] Les dernières recherches sur le cerveau montrent néanmoins que le cerveau d'un adulte conserve, bien entendu, une vraie capacité d'apprentissage et d'adaptation. Mais l'enfance reste une période privilégiée de ce point de vue.
+
+### Copyright ###
+Crédit photo : "Left side of Flying Pigeon" by 齐健 from Peking, People's Republic - Down the Hutong. Licensed under CC BY 2.0 via Wikimedia Commons
