@@ -3,7 +3,7 @@ layout: post
 title: "La bicyclette inversée"
 date: 2015-06-01
 category: fastlink
-tags: [cerveau, neurologie, apprentissage]
+tags: [cerveau, neuroscience, apprentissage]
 image: vélo.jpg
 ---
 
