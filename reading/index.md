@@ -8,6 +8,8 @@ layout: page
 Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 
 ### Juin 2015 ###
+**On Intelligence** : Jeff Hawkins propose un livre absolument passionnant sur le fonctionnement du cerveau, et l'implication de cette compréhension sur l'Intelligence Artificielle. Il s'agit bien plus d'un livre consacré à une analyse cognitive du cerveau plutôt qu'à la projection de l'impact des Intelligences Artificielles. A ce titre, il est à recommander pour tout ceux qui s'intéressent à la compréhension de ce qui fait l'intelligence. Au coeur de sa réflexion, une organisation hiérarchique du cerveau, avec des objets de plus en plus abstraits au fur et à mesure qu'on remonte cette hiérarchie, une capacité à concevoir des séquences et des "représentations invariantes" (ne dépendant pas du détail des perceptions) qui permette au cerveau de construire un modèle du monde extérieur et de prévoir en permanence la manière dont il devrait se comporter.
+
 **Superintelligence** : Nick Bostrom étudie le problème d'une future superintelligence (artificielle, selon toute probabilité) selon un angle intéressant, celui du contrôle. Dans la mesure où cette intelligence serait doté d'une volonté propre, comme s'assurer d'une comportement conforme au souhait et au bien de l'humanité ? Quelles valeurs lui inculqués, et par quelles moyens ? Un livre intéressant, bien que parfois un peu lourd, cédant parfois à une écriture trop peu rigoureuse, et manquant de matière sur le fond, à savoir le "comment" de l'intelligence artificielle.
 
 ### Mai 2015 ###
