@@ -14,7 +14,7 @@ Jeff Hawkins, co-fondateur de Palm Pilot, est aussi passionné par le fonctionne
 ### Le néocortex, coeur de l'intelligence ###
 
 {: style="font-size: 60%; text-align: center"} 
-<img src="/images/blog/neocortex.jpg" width="350px" />
+<img src="/images/blog/neocortex.png" width="350px" />
 
 Le néocortex, c'est cette couche "supérieure" du cerveau, construite autour des zones plus "primitives". C'est le siège des traitements cognitifs complexes, et de l'intelligence avancée, telle qu'elle est développée par les mammifères et les humains. 
 
