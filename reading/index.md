@@ -7,6 +7,10 @@ layout: page
 <img src="/images/blog/library.jpg" width="700px" />
 Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 
+### Juillet 2015 ###
+**The Laws of Thermodynamics** : Conseillé par [FarnamStreetblog](http://www.farnamstreetblog.com/), une publication web passionnante que je lis régulièrement, ce petit traité sur la thermodynamique ("la science de la chaleur et des machines thermiques") pourrait sembler très technique. Il s'agit en fait d'une explication simple de ses principes, déclinée pas à pas en en décrivant les lois fondamentales. Les applications de cette science sont bien plus nombreuses qu'on pourrait l'imaginer, à la fois bien sûr dans les classiques radiateurs et réfrigérateurs, mais aussi dans les domaines de la biologie ou de la chimie. La notion d'entropie est un principe fondamental de la nature, parfois complexe, mais qui mérite d'y consacrer quelque temps. Un bon rappel pour ceux qui ont un background scientifique, ou une bonne introduction pour ceux qui débutent sur le sujet.
+
+
 ### Juin 2015 ###
 **On Intelligence** : Jeff Hawkins propose un livre absolument passionnant sur le fonctionnement du cerveau, et l'implication de cette compréhension sur l'Intelligence Artificielle. Il s'agit bien plus d'un livre consacré à une analyse cognitive du cerveau plutôt qu'à la projection de l'impact des Intelligences Artificielles. A ce titre, il est à recommander pour tout ceux qui s'intéressent à la compréhension de ce qui fait l'intelligence. Au coeur de sa réflexion, une organisation hiérarchique du cerveau, avec des objets de plus en plus abstraits au fur et à mesure qu'on remonte cette hiérarchie, une capacité à concevoir des séquences et des "représentations invariantes" (ne dépendant pas du détail des perceptions) qui permette au cerveau de construire un modèle du monde extérieur et de prévoir en permanence la manière dont il devrait se comporter.
 
