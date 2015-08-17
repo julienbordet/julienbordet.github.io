@@ -35,7 +35,7 @@ Quelques billets sur ce blog tenteront par la suite de donner quelques exemples 
 	* Tout action entraine une réaction de même intensité dans la direction opposée 
 * **Quantité de mouvement** : la quantité <span>$$\vec p = m \vec v$$</span> est conservée dans les chocs élastiques
 * **Mécanique quantique** : le monde de l'infiniment petit n'est pas déterministe, mais gouverné par des lois de probabilité.
-* **masse critique**, qui entraine une réaction en chaîne. C’est le point qui lorsqu’il est atteint entraine un phénomène critique et irréversible.[^1]
+* **[Masse critique](http://www.bordet.info/blog/2015/08/17/Modèle-la-masse-critique.html)**, qui entraine une réaction en chaîne. C’est le point qui lorsqu’il est atteint entraine un phénomène critique et irréversible.[^1]
 * **Point d'équilibre**
 * **Relativité Générale** : c'est la géométrie elle-même de l'espace qui est courbe.
 
