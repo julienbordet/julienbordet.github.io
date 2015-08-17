@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modèles : la masse critique, principe et intérêt"
+title: "Modèles mentaux : la masse critique, principe et intérêt"
 date: 2015-08-17
 category: [modèle]
 tags: [modèle, physique, masse critique, modélisation, mathématiques]
