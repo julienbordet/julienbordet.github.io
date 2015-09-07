@@ -30,3 +30,5 @@ Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 
 ### Avril 2015 ###
 **L'âme du monde** : Frédéric Lenoir, dans ce petit roman, imagine une rencontre entre des représentants de quelques unes des principales religions. Leur objectif : transmettre  l'ensemble des croyances et des valeurs sur lesquels ils s'accordent à deux adolescents, face à la menace de la destruction du monde. Un peu trop rapide et superficiel pour être très convaincant.
+
+**The Martian** : Andy Weir, dans ce roman de science-fiction, raconte comment un homme envoyé sur Mars avec une équipe d'astronaute doit y survire seul pendant plusieurs années après l'abandon de la mission et le départ de la planète de ses co-équipiers. L'un des intérêts majeurs du roman, raconté à la première personne, est l'effort réalisé par l'auteur sur la vraissemblance des moyens utilisés pour survivre. Ce qui n'empêche pas l'oeuvre d'être passionnante. 
