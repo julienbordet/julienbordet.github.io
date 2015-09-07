@@ -15,13 +15,13 @@ On Quora, the original question was :
 
 It is a little more complicated than what people usually know about it. Solutions have been found, but they are not very useful.
 
+<!--more-->
+
 ###Longer story###
 
 I asked myself the same question, while reading "The Three-Body Problem", a very good Science-Fiction novel by Liu Cixin.
 
 The issue can be summarized as: how to predict the motion of 3 bodies interacting with each other through gravitation?  The problem had been solved since Newton for 2 bodies : the gravitation law allowed one to find the position vectors \\(\vec{r}_1(t)\\) and \\(\vec{r}_2(t)\\) as simple functions with only \\(t\\) (time) as a parameter, given initial conditions of course.
-
-<!--more-->
 
 But the N-bodies (with N >2) problem happens to be much more complicated.
 
