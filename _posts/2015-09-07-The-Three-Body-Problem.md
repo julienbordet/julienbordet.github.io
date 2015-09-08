@@ -6,7 +6,7 @@ category: [physique]
 tags: [physique, anglais, physics]
 image: Restricted_3-Body.jpg
 ---
-*Un petit poste en anglais, issu d'une de mes contributions sur le site [Quora](http://www.quora.com/Julien-Bordet/answers)*
+*Un petit post en anglais, issu d'une de mes contributions sur le site [Quora](http://www.quora.com/Julien-Bordet/answers)*
 
 On Quora, the original question was :
 
@@ -63,4 +63,4 @@ So lots of research has been done during the XXth century to find more useful nu
 
 ####References####
 1. Henkel, M., 2002 : *Sur la solution de Sundman du probleme des trois corps*, [arXiv:physics/0203001](http://arxiv.org/abs/0203001) [physics.hist-ph]
-2. Musielak, Z.E., 2015 : *The three-body problem*, [arXiv:1508.02312](http://arxiv.org/abs/1508.02312) [astro-ph.EP]
+2. Musielak, Z.E., 2015 : *The three-body problem*, [arXiv:1508.02312](http://arxiv.org/abs/1508.02312) [astro-ph.EP
