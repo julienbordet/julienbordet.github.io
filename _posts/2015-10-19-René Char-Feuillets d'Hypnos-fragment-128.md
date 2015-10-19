@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why has the three-body problem not been solved?"
+title: "René Char : Feuillets d'Hypnos, fragment 128"
 date: 2015-10-19
 category: [littérature]
 tags: [poésie, rené char]
