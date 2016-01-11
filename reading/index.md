@@ -7,10 +7,28 @@ layout: page
 <img src="/images/blog/library.jpg" width="700px" />
 Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 
+### Novembre 2015 ###
+** Elon Musk : Tesla, SpaceX and the quest for a fantastic future** : Biographie du personnage fascinant d'Elon Musk, concentré de détermination et de très haute intelligence, à l'origine de Paypal, SpaceX, Tesla et peut-être bientôt d'Hyperloop. Ashlee Vance décrit à la fois un entrepreneur fascinant mais aussi en permanence dans le contrôle et complètement dédié à son travail. On trouve chez Elon Musk un croisement de capacité cognitive, de volonté et de vision qui sont des éléments clés du succès. Dans le même temps le lecteur se rend bien compte que 99,99% des humains ne pourraient tout simplement pas vivre cette vie.
+
+### Octobre 2015 ###
+** Feuillets d'Hypnos** : un recueil de courts poèmes de René Char, écrits alors qu'il était dans le maquis. Plusieurs chefs d’œuvre, et une sensibilité qui me parle.
+
+**Fictions : Funes ou la mémoire / La Mort et la Boussole** : dans le cadre de mon exploration des capacités du cerveau humain, la nouvelle décrivant le personnage de Funès, disposant suite à un accident d'une mémoire extraordinaire qui lui fait se souvenir d'absolument tout, semblait intéressante. Néanmoins, il s'agit plutôt d'une expérience littéraire, même si le fantastique est présent, et la longueur de la nouvelle ne permet pas d'explorer le sujet en profondeur.
+
+**The Three-Body Problem** : mon premier roman de science-fiction écrit par un auteur chinois, Liu Cixin. Une histoire intéressante bien qu'avec des longueurs.
+
+### Septembre 2015 ###
+**Matin Brun** : une très courte nouvelle illustrant les dangers de la pensée unique, terreau de la dictature, et la manière dont elle peut être introduite *l'air de rien*, sans qu'on y prête attention.
+
+**Stories of Your Life and Others** : un recueil de nouvelles de science-fiction écrit par Ted Chiang. Une petite dizaine de nouvelles, de qualités inégales, mais avec plusieurs vraies petites. Je citerai 
+ - Towers of Babylon : où comment la tour de Babylone a atteint la voute du Ciel et au delà)
+ - Understand : un médicament expérimental améliore de manière drastique l'intelligence, excellent et sensiblement mieux que Flowers for Algernon)
+ - Story of your Life : où comment l'humanité parvient à rentrer en contact avec les extraterrestres arrivés sur la planète, et en quoi cela changera la vision de la narratrice. Brillant.
+
 ### Août 2015 ###
 **Le Songe d'une nuit d'été** : le grand classique de Shakespeare
 
-**A Student's Guide to Lagrangians and Hamiltonians** : une synthèse d'outil phare de la physique, mais étonnament complètement oublié par mon cursus d'école d'ingénieur.
+**A Student 's Guide to Lagrangians and Hamiltonians** : une synthèse d'outil phare de la physique, mais étonnament complètement oublié par mon cursus d'école d'ingénieur.
 
 ### Juillet 2015 ###
 **Embrasser le ciel immense** : Daniel Tammet, un des "autistes savants" les plus médiatiques, expose sa vision du fonctionnement du cerveau humain, entre beauté des mots, créativité, mathématiques, perspections visuelles et consommation de l'information. L'une de ses thèses principales : le fonctionnement des cerveaux "ultra efficient" n'est fondamentalement pas différents de celui des cerveaux "normaux". Le livre aurait pu être intéressant, mais est décevant à deux niveaux : d'abord il ne donne que peu de clé pour comprendre le fonctionnement "particulier" des autistes savants. Ensuite, Daniel Tammet se contente bien souvent d'enchaîner les citations d'étude concernant le fonctionnement du cerveau. D'autres l'ont fait avant lui (et on retrouve les mêmes études), de manière bien plus convainquante : Daniel Kahneman (*Thinking Fast and Slow*), Jeff Hawkins (*On Intelligence*), Daniel Feier (*Moonwalking with Einstein*). La différence entre ces livres et celui de Daniel Tammet est l'absence de conception nouvelle sur le fonctionnement du cerveau, de liant entre les différents éléments exposés. Le livre est donc probablement à recommander à ceux qui découvrent le sujet de l'intelligence, mais si on cherche un témoignage unique de quelqu'un disposant d'une position "spéciale", ou des avancées sur le fonctionnement du cerveau, on passera son chemin.
@@ -31,4 +49,8 @@ Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 ### Avril 2015 ###
 **L'âme du monde** : Frédéric Lenoir, dans ce petit roman, imagine une rencontre entre des représentants de quelques unes des principales religions. Leur objectif : transmettre  l'ensemble des croyances et des valeurs sur lesquels ils s'accordent à deux adolescents, face à la menace de la destruction du monde. Un peu trop rapide et superficiel pour être très convaincant.
 
-**The Martian** : Andy Weir, dans ce roman de science-fiction, raconte comment un homme envoyé sur Mars avec une équipe d'astronaute doit y survire seul pendant plusieurs années après l'abandon de la mission et le départ de la planète de ses co-équipiers. L'un des intérêts majeurs du roman, raconté à la première personne, est l'effort réalisé par l'auteur sur la vraissemblance des moyens utilisés pour survivre. Ce qui n'empêche pas l'oeuvre d'être passionnante. 
+### Février 2015###
+**The Martian** : le roman de science-fiction à l'origine du film sorti à l'automne avec Matt Damon. Un astronaute présent sur Mars se retrouve, à la suite d'une procédure de départ d'urgence de son équipe, seul sur Mars. Il décrit dans son journal son quotidien pour survivre sur une planète inhospitalière. Absolument à recommander, à la fois pour la crédibilité et la recherche effectuée par l'auteur, la qualité de l'histoire et le ton humoristique et moqueur.
+
+###Janvier 2015 ###
+**Guerre et Paix** : l'immense classique de Tolstoï. A la fois passionnant dans la trame narrative, historique et le style d'écriture. Des récits de bataille napoléoniennes tout à fait épiques. Par ailleurs la fascination des Russes pour Napoléon, alors même qu'il est l'ennemi, est tout à fait fascinante. On retrouve cela dans Dovstoïeski.
