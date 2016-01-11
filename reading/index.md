@@ -8,10 +8,10 @@ layout: page
 Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 
 ### Novembre 2015 ###
-** Elon Musk : Tesla, SpaceX and the quest for a fantastic future** : Biographie du personnage fascinant d'Elon Musk, concentré de détermination et de très haute intelligence, à l'origine de Paypal, SpaceX, Tesla et peut-être bientôt d'Hyperloop. Ashlee Vance décrit à la fois un entrepreneur fascinant mais aussi en permanence dans le contrôle et complètement dédié à son travail. On trouve chez Elon Musk un croisement de capacité cognitive, de volonté et de vision qui sont des éléments clés du succès. Dans le même temps le lecteur se rend bien compte que 99,99% des humains ne pourraient tout simplement pas vivre cette vie.
+**Elon Musk : Tesla, SpaceX and the quest for a fantastic future** : Biographie du personnage fascinant d'Elon Musk, concentré de détermination et de très haute intelligence, à l'origine de Paypal, SpaceX, Tesla et peut-être bientôt d'Hyperloop. Ashlee Vance décrit à la fois un entrepreneur fascinant mais aussi en permanence dans le contrôle et complètement dédié à son travail. On trouve chez Elon Musk un croisement de capacité cognitive, de volonté et de vision qui sont des éléments clés du succès. Dans le même temps le lecteur se rend bien compte que 99,99% des humains ne pourraient tout simplement pas vivre cette vie.
 
 ### Octobre 2015 ###
-** Feuillets d'Hypnos** : un recueil de courts poèmes de René Char, écrits alors qu'il était dans le maquis. Plusieurs chefs d’œuvre, et une sensibilité qui me parle.
+**Feuillets d'Hypnos** : un recueil de courts poèmes de René Char, écrits alors qu'il était dans le maquis. Plusieurs chefs d’œuvre, et une sensibilité qui me parle.
 
 **Fictions : Funes ou la mémoire / La Mort et la Boussole** : dans le cadre de mon exploration des capacités du cerveau humain, la nouvelle décrivant le personnage de Funès, disposant suite à un accident d'une mémoire extraordinaire qui lui fait se souvenir d'absolument tout, semblait intéressante. Néanmoins, il s'agit plutôt d'une expérience littéraire, même si le fantastique est présent, et la longueur de la nouvelle ne permet pas d'explorer le sujet en profondeur.
 
