@@ -20,7 +20,8 @@ Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 ### Septembre 2015 ###
 **Matin Brun** : une très courte nouvelle illustrant les dangers de la pensée unique, terreau de la dictature, et la manière dont elle peut être introduite *l'air de rien*, sans qu'on y prête attention.
 
-**Stories of Your Life and Others** : un recueil de nouvelles de science-fiction écrit par Ted Chiang. Une petite dizaine de nouvelles, de qualités inégales, mais avec plusieurs vraies petites. Je citerai 
+**Stories of Your Life and Others** : un recueil de nouvelles de science-fiction écrit par Ted Chiang. Une petite dizaine de nouvelles, de qualités inégales, mais avec plusieurs vraies petites. Je citerais
+
  - Towers of Babylon : où comment la tour de Babylone a atteint la voute du Ciel et au delà)
  - Understand : un médicament expérimental améliore de manière drastique l'intelligence, excellent et sensiblement mieux que Flowers for Algernon)
  - Story of your Life : où comment l'humanité parvient à rentrer en contact avec les extraterrestres arrivés sur la planète, et en quoi cela changera la vision de la narratrice. Brillant.
