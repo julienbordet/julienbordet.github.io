@@ -7,6 +7,9 @@ layout: page
 <img src="/images/blog/library.jpg" width="700px" />
 Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 
+### Janvier 2016 ###
+**Crime et Châtiment** : le classique de Dostoïevski, où les tourments du jeune Raskolnikov à Saint-Peterbourg, en proie à une très grande misère et qui va se résoudre à commettre l'irréparable. Ce roman explore les méandres de l'esprit humain, avec un héros qui va découvrir qu'il n'est pas l'être supérieur qu'il espérait, et vaciller face à la folie qui le guette. Au fond d'une misère crasse, les personnages tentent de surnager, face à la cruauté du monde dans lequel ils vivent. Certaines scènes sont absolument extraordinaires, et poignante, comme lorsque Raskolnikov avoue son crime à Sofia, et que celle-ci lui lit l'épisode biblique de Lazare, ou lorsque Avdotia Romanovna cède définitivement à la folie. Un roman à ne pas lire lorsqu'on a le moral fragile, tant la misère humaine et morale dominent la majeure partie de l'oeuvre. 
+
 ### Novembre 2015 ###
 **Elon Musk : Tesla, SpaceX and the quest for a fantastic future** : Biographie du personnage fascinant d'Elon Musk, concentré de détermination et de très haute intelligence, à l'origine de Paypal, SpaceX, Tesla et peut-être bientôt d'Hyperloop. Ashlee Vance décrit à la fois un entrepreneur fascinant mais aussi en permanence dans le contrôle et complètement dédié à son travail. On trouve chez Elon Musk un croisement de capacité cognitive, de volonté et de vision qui sont des éléments clés du succès. Dans le même temps le lecteur se rend bien compte que 99,99% des humains ne pourraient tout simplement pas vivre cette vie.
 
