@@ -28,6 +28,9 @@ Quelques mois avant le démarrage des sanctions économiques, en 2006, l'aéropo
 
 Les monarchies du Golfe disposent d'avantages concurrentielles sérieux pour se poser en plateforme aérienne de transit :
 
+{: style="font-size: 60%; text-align: center"} 
+<img src="/images/blog/tehran-circles.gif" width="350px" />
+
 - une position géographique idéale entre à l'Ouest, l'Europe et la côte Est des Etats-Unis et du Canada, et à l'est l'Asie et l'Océanie, dans un contexte d'explosion des besoins de transport aérien vers et depuis l'Asie
 - une capacité à investir dans des infrastructures de très haut niveau, financées par les revenus du pétrole
 - une capacité à définir une vision long-terme, autour d'une stratégie de diversification permettant l'anticipation d'un "après-pétrole" à venir.
