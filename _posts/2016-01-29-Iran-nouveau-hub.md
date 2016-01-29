@@ -26,16 +26,15 @@ La levée des sanctions est donc pour le secteur aérien iranien une occasion en
 
 Quelques mois avant le démarrage des sanctions économiques, en 2006, l'aéroport de Dubaï voisin accueillait environ 25 millions de passagers. 10 ans plus tard, ce nombre a quasiment triplé, avec 75 millions de passagers. Dubaï est aujourd'hui le premier aéroport pour les passagers internationaux en transit, devant Heathrow. L'aéroport d'Abu Dhabi a pour sa part presque quadruplé sa fréquentation. Celle de Doha a quasiment doublé.
 
-{: style="font-size: 60%; text-align: center"} 
-<img src="/images/blog/tehran-circles.gif" width="450px" />
-
 Les monarchies du Golfe disposent d'avantages concurrentielles sérieux pour se poser en plateforme aérienne de transit :
-
 
 - une position géographique idéale entre à l'Ouest, l'Europe et la côte Est des Etats-Unis et du Canada, et à l'est l'Asie et l'Océanie, dans un contexte d'explosion des besoins de transport aérien vers et depuis l'Asie
 - une capacité à investir dans des infrastructures de très haut niveau, financées par les revenus du pétrole
 - une capacité à définir une vision long-terme, autour d'une stratégie de diversification permettant l'anticipation d'un "après-pétrole" à venir.
 - une volonté de développer le trafic via des compagnies aériennes nationales (Emirates, Etihad, Qatar Airways) dont la vocation est plus de développement l'activité économique et le prestige de leur pays d'attache plutôt que le profit, avec des Etats aux poches profondes comme actionnaires.
+
+{: style="font-size: 60%; text-align: center"} 
+<img src="/images/blog/tehran-circles.gif" width="450px" />
 
 Face à cette situation, l'Iran pourrait offrir une alternative crédible. Tout d'abord, Téhéran est situé à environ 1000 km au Nord des 3 plateformes de la péninsule arabe. D'un point de vue géographique, c'est un emplacement plus facile, car plus proche du plus court chemin entre l'Europe et l'Asie. Les routes s'en trouvent d'autant optimisées, et donc rentabilisées.
 
