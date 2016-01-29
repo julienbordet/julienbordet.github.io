@@ -49,6 +49,6 @@ Cette ouverture politique continue sera par ailleurs une condition nécessaire p
 
 Enfin, il conviendra bien sûr de disposer d'une infrastructure à la hauteur du défi, ce qui est très loin d'être le cas aujourd'hui. Aéroport de Paris et Bouygues vienne se signer avec Téhéran un accord de principe pour un projet d'extension de l'aéroport de la capitale, dont on peut imaginer qu'à ce stade il concerne uniquement l'extension des capacités à vocation domestique. Mais nul doute que l'exploitant des 2 principaux aéroports français serait ravi d'accompagner son nouveau partenaire dans une aventure plus large.
 
-Le pays n'a à ce stade pas annoncé une ambition de constituer un véritable hub, et de nombreux obstacles se dressent devant lui. Néanmoins, à moyen-terme un tel positionnement serait stratégiquement intéressant pour son développement. Nul doute que ses dirigeants regardent d'ores-et-déjà le dossier de près.
+Le pays n'a à ce stade pas annoncé une ambition de constituer un véritable hub, et de nombreux obstacles se dressent devant lui. Néanmoins, à moyen-terme un tel positionnement serait stratégiquement intéressant pour son développement. Il est certain que ses dirigeants regardent d'ores-et-déjà le dossier de près.
 
 *Crédit photo : Wikipedia*
