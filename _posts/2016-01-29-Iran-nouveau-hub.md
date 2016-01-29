@@ -14,6 +14,7 @@ Les attentes sont fortes de la part d'une population en attente de développemen
 Le secteur aérien devrait pour sa part largement bénéficier de ce "rattrapage", s'appuyant à la fois sur un fort besoin interne et une position géographique à fort potentiel.
 
 <!--more-->
+**Des besoins immenses, un contrat commercial historique**
 
 Le 28 janvier, la France et l'Iran annonce en grand pompe un protocole d'accord signé par la compagnie aérienne nationale pour la commande de 118 Airbus, dont 12 A380, 16 A350-1000 et 45 A330.  C'est un contrat historique pour le constructeur Européen, qui bénéficie à cette occasion d'une relance de son projet A380 dont on pouvait craindre qu'il ne s'essouffle, le bilan après 10 de commercialisation étant sensiblement inférieur aux objectifs.
 
@@ -39,12 +40,15 @@ Ensuite, l'Iran pourrait lui aussi bénéficier à moyen-terme de la manne pétr
 Enfin, l'Iran devrait représenter à moyen terme une économie dynamique, la plus importante de la Région, et attirer ainsi une activité économique venant en soutien naturel d'une stratégie de hub. C'est sur cette stratégie que tente ainsi actuellement de jouer la Turquie, qui elle aussi se verrait bien en plateforme d'interconnexion entre l'Europe et l'Asie.
 
 **Mais de nombreux obstacles**
+
 Dans l'anticipation des tendances au Moyen-Orient, principal foyer d'instabilité géopolitique actuel, il convient bien entendu d'être prudent. 
 
 Tout d'abord, la réalisation de cette ambition passe bien entendu par la démonstration d'une réelle stabilité politique, et donc la confirmation que l'ouverture politique actuelle se prolongera bien dans le temps. Les élections de la fin du mois de février constitueront le premier test.
 
 Cette ouverture politique continue sera par ailleurs une condition nécessaire pour la levée définitive des sanctions, et notamment celles contraignant aujourd'hui l'accès au financement indispensable sur des projets de cet envergure.
 
-Enfin, il conviendra bien sûr de disposer d'infrastructure à la hauteur du défi. Aéroport de Paris et Bouygues vienne se signer avec Téhéran un accord de principe pour un projet d'extension de l'aéroport de la capitale, dont on peut imaginer qu'à ce stade il concerne uniquement l'extension des capacités à vocation domestique. Mais nul doute que l'exploitant des 2 principaux aéroports français serait ravi d'accompagner son nouveau partenaire dans une aventure plus large.
+Enfin, il conviendra bien sûr de disposer d'une infrastructure à la hauteur du défi, ce qui est très loin d'être le cas aujourd'hui. Aéroport de Paris et Bouygues vienne se signer avec Téhéran un accord de principe pour un projet d'extension de l'aéroport de la capitale, dont on peut imaginer qu'à ce stade il concerne uniquement l'extension des capacités à vocation domestique. Mais nul doute que l'exploitant des 2 principaux aéroports français serait ravi d'accompagner son nouveau partenaire dans une aventure plus large.
+
+Le pays n'a à ce stade pas annoncé une ambition de constituer un véritable hub, et de nombreux obstacles se dressent devant lui. Néanmoins, à moyen-terme un tel positionnement serait stratégiquement intéressant pour son développement. Nul doute que ses dirigeants regardent d'ores-et-déjà le dossier de près.
 
 *Crédit photo : Wikipedia*
