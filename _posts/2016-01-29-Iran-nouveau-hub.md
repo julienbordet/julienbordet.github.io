@@ -26,10 +26,11 @@ La levée des sanctions est donc pour le secteur aérien iranien une occasion en
 
 Quelques mois avant le démarrage des sanctions économiques, en 2006, l'aéroport de Dubaï voisin accueillait environ 25 millions de passagers. 10 ans plus tard, ce nombre a quasiment triplé, avec 75 millions de passagers. Dubaï est aujourd'hui le premier aéroport pour les passagers internationaux en transit, devant Heathrow. L'aéroport d'Abu Dhabi a pour sa part presque quadruplé sa fréquentation. Celle de Doha a quasiment doublé.
 
+{: style="font-size: 60%; text-align: center"} 
+<img src="/images/blog/tehran-circles.gif" width="450px" />
+
 Les monarchies du Golfe disposent d'avantages concurrentielles sérieux pour se poser en plateforme aérienne de transit :
 
-{: style="font-size: 60%; text-align: center"} 
-<img src="/images/blog/tehran-circles.gif" width="350px" />
 
 - une position géographique idéale entre à l'Ouest, l'Europe et la côte Est des Etats-Unis et du Canada, et à l'est l'Asie et l'Océanie, dans un contexte d'explosion des besoins de transport aérien vers et depuis l'Asie
 - une capacité à investir dans des infrastructures de très haut niveau, financées par les revenus du pétrole
