@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Réforme de l'orthographe : beaucoup de bruit pour rien"
