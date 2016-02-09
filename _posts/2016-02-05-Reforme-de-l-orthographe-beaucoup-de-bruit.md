@@ -6,7 +6,7 @@ category: [actualité]
 tags: [actualité, orthographe]
 ---
 
-Quelques éléments de réflexion sur la bruit médiatique en cours concernant la réforme de l'ortographe, la suppression des accents circonflexes et autres échauffements médiatiques.
+Quelques éléments de réflexion sur la bruit médiatique en cours concernant la réforme de l'orthographe, la suppression des accents circonflexes et autres échauffements médiatiques.
 
 Sur le fond, franchement cette histoire est extrêmement symptomatique de la bêtise crasse à la fois des médias, qui racontent n'importe quoi, des politiques, qui en rajoutent par pure démagogie, et des français, qui prennent les informations brutes sans distanciation.
 
