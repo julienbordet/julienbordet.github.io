@@ -104,7 +104,6 @@ C'est ainsi qu'a pu être découverte la fameuse accélération de l'expansion d
 Dis autrement, la luminosité visible des objets de plus fort décalage vers le rouge doit être plus grande que ce qu'on attendait. Et c'est ce qu'on a mesuré !
 
 ####Conclusion####
-
 Ce qui me semble important de retenir de ce court article, c'est qu'il existe un importante différence entre l'expansion "théorique" de l'Univers, et ce qu'on observe en regardant autour de nous, du fait que les signaux ont dû traverser un Univers en cours d'expansion.
 
 Cette compréhension permet par la suite d'interpréter les observations de décalage vers le rouge et de luminosité, pour par exemple en déduire en regardant "dans le passé"... que l'expansion s'accélère.
