@@ -1,14 +1,11 @@
 ---
-title: Blog
+title: Physique
 layout: page
 ---
 
 <div id="posts">
 
-    {% for post in site.posts offset: 0 limit: 10 %}
-
-      {% unless post.category == "physique" %}
-
+    {% for post in site.categories.physique offset: 0 limit: 10 %}
     	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	    <h5>{{ post.date | date: "%B %d, %Y" }}</h5>
 	    {% if post.image %}
@@ -20,14 +17,10 @@ layout: page
         <p>	<a class="graybutton" href="{{ post.url }}">Suite</a></p>
         <br/>
         <hr/>
-
-      {% endunless %}
-
     {% endfor %}
 
-
 	<p>
-	<a class="greenbutton" href="/blog/archive/" title="an archive of all posts">Voir tous les posts &rarr;</a>
+	<a class="greenbutton" href="/physique/archive/" title="an archive of all posts">Voir tous les posts &rarr;</a>
 	</p>
 	
 </div>
