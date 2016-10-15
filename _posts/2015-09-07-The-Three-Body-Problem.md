@@ -18,7 +18,7 @@ It is a little more complicated than what people usually know about it. Solution
 
 <!--more-->
 
-###Longer story###
+### Longer story ###
 
 I asked myself the same question, while reading "The Three-Body Problem", a very good Science-Fiction novel by Liu Cixin.
 
@@ -30,7 +30,7 @@ Lots of work had been done from the XVIIIth century on, by very famous mathemati
 
 But until the beginning of the XXth century, no general solution was found. In 1885, a competiton was launched by the King Oscar II from Sweden, in order to find a general solution for the problem, showing a great interest at that time about the problem. Poincaré was awarded that prize for the well known result about non-integrability of the system of equations for the three-body problem.
 
-###Poincaré result###
+### Poincaré result ###
 
 Poincaré, as stated before, showed that one cannot solve the Three-Body Problem through the usual integration method. It is quite simple to understand why. 
 
@@ -42,7 +42,7 @@ One finds that there two more integrals of motion (for a total of 12), but Poinc
 
 That showed that the problem has no usual solution from second order differential equations, and simple \\(\vec{r}_i(t)\\) functions.
 
-###Sundman solutions###
+### Sundman solutions ###
 
 But that does not mean that there exists no exact solution for the 3-body problem.
 
@@ -55,12 +55,12 @@ Sundman was sucessful in finding exact solutions in the form:
 
 However, despite their beauty, it happens that these solutions converge very slowly: "it requires millions of terms to find the motion of one body for insignificantly short durations of time" [2]
 
-###Summary###
+### Summary ###
 
 It has been proven that there are not "usual" (integral) solutions for the problem. Sundman found exact solutions, but those are not very useful. 
 
 So lots of research has been done during the XXth century to find more useful numerical solutions. Physicists have discovered interesting and practicable solutions, but research is still going on to find "better" solutions.
 
-####References####
+#### References ####
 1. Henkel, M., 2002 : *Sur la solution de Sundman du probleme des trois corps*, [arXiv:physics/0203001](http://arxiv.org/abs/0203001) [physics.hist-ph]
 2. Musielak, Z.E., 2015 : *The three-body problem*, [arXiv:1508.02312](http://arxiv.org/abs/1508.02312) [astro-ph.EP
