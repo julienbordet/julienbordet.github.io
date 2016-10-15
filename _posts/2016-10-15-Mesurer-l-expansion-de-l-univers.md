@@ -13,7 +13,7 @@ La question posée était intéressante, et je la reformule ici : "comment est-i
 <!--more-->
 
 
-###Qu'est ce que l'expansion de l'Univers###
+### Qu'est ce que l'expansion de l'Univers ###
 
 Pour répondre à la question, commençons par définir ce qu'est l'expansion de l'Univers.
 
@@ -35,7 +35,7 @@ Pour visualiser le phénomène, on utilise généralement l'image de plusieurs p
 
 Une autre image est celle du cake aux fruits confits qui cuit dans un four : au fur à et mesure que le gateau cuit, la distance entre tous les morceaux de fruits augmente de manière uniforme.
 
-###Expansion de l'Univers et vitesse des galaxies###
+### Expansion de l'Univers et vitesse des galaxies ###
 
 On observe que plus la distance initiale \\(l_0\\) est grande, plus l'impact du coefficient multiplicateur \\(a\\) va être important. Si une galaxie est initialement à 1 million d'années-lumière et que le facteur d'expansion est de 2, elle sera au bout d'un temps \\(t\\) à 2 millions d'années-lumière. Mais si la galaxie est à 1 milliards d'année lumière, elle sera au bout du temps \\(t\\) à 2 milliards d'années-lumière. Vu d'un observateur distant, cette galaxie se sera déplacer 1000 fois plus vite !
 
@@ -45,7 +45,7 @@ $$v = H_0 \  l$$
 
 ou \\(H_0\\) est la constante de Hubble, qui n'a de constante que le nom : en fait, sa valeur est fixée en ce moment dans l'ensemble de l'Univers, mais elle varie au cours du temps, en fonction de la forme de l'expansion. 
 
-###Des galaxies dépassant la vitesse de la lumière ?###
+### Des galaxies dépassant la vitesse de la lumière ? ###
 
 Puisqu'on a vu que la vitesse d'éloignement des galaxies est proportionnelle à leur distance, ne pourrait-on pas avoir, pour des galaxies très lointaines, des vitesses supérieures à celle de la lumière ? N'est-ce pas "interdit" par la théorie de la relativité restreinte de notre ami Einstein ?
 
@@ -55,9 +55,9 @@ Effectivement, pour les galaxies les plus lointaines, la vitesse apparente pourr
 
 En effet, dans les faits, ce n'est pas la galaxie elle-même qui se déplace dans l'espace-temps. C'est l'espace-temps lui-même entre les galaxies qui s'étend : ces dernières ne sont donc pas en excès de vitesse...
 
-###Mesurer l'expansion depuis la Terre###
+### Mesurer l'expansion depuis la Terre ###
 
-####Une distance observée différente de la distance réelle####
+#### Une distance observée différente de la distance réelle ####
 
 Tout ceci semble relativement simple, une fois qu'on a adopté la gymnastique, mais la vulgarisation s'arrête généralement là. Mais, lorsqu'on y réfléchit, on se retrouve face à une difficulté : comment, depuis la Terre, mesurer cette expansion sachant que lorsqu'on regarde dans le ciel, on regarde dans le passé ? 
 
@@ -71,7 +71,7 @@ Logique : si on ne l'arrêtait pas, l'expansion continuerait pendant le trajet, 
 
 Nous ne pouvons donc jamais mesurer directement cette distance, car les rayons électromagnétiques que nous recevons sont transformés par l'expansion _durant leur trajet_.
 
-####Le décalage vers le rouge####
+#### Le décalage vers le rouge ####
 
 Pour mesurer les vitesses d'éloignement, on utilise généralement, en astrophysique, le "décalage vers le rouge".
 
