@@ -87,7 +87,11 @@ avec \\(R_0\\) la distance actuelle de la Terre à la Lune, pour \\(t = 0\\). Si
 
 Une valeur de 2 cm est tout à fait dans les cordes de nos instruments de mesure, puisque nous savons actuellement que notre satellite s'éloigne d'environ 3,8 cm / an. La majeure partie de cet éloignement est donc dû à l'effet de l'expansion de l'Univers !
 
-On voit donc qu'il est possible, à l'échelle locale, de mesurer les effets de l'expansion de l'Univers, mais que dans le même temps les effets sur la gravitation sont complètement négligeables.
+Il faut absolument noter que notre capacité à mesurer la distance avec notre satellite est "exceptionnelle", pour les raisons exposées ci-dessus. Nous ne pouvons atteindre ce degré de précision qu'avec la Lune, et donc, pour les autres astres du système solaire, il est clair que l'effet de l'expansion de l'Univers ne sera pas détectable. 
+
+A titre d'exemple, le même calcul pour le couple Terre-Soleil donne 8m, pour une distance de 150 000 000 km, soit \\( 5 * 10^{-9} % \\) % !
+
+Au final, on voit donc qu'il est possible, à l'échelle locale, de mesurer les effets de l'expansion de l'Univers, mais que dans le même temps les effets sur la gravitation sont complètement négligeables.
 
 #### Remarques ####
 
