@@ -67,7 +67,7 @@ et donc \\(\frac{\ddot a }{a} \approx 3 \times 10^{-36} s^{-2}\\).
 
 ### Application sur le couple Terre-Lune ###
 
-Si temporairement on ne considère que le couple Terre-Lune, séparé par une distance d'environ \\(d\\) de 360 000 km, obtient donc un facteur d'accélération de l'ordre de \\(10^{-27}\\) ! Si on le compare à l'accélération issue de la gravitation exercées par la Terre sur la Lune :
+Si temporairement on ne considère que le couple Terre-Lune, séparé par une distance d'environ \\(d\\) de 360 000 km, obtient donc un facteur d'accélération de l'ordre de \\(10^{-27}\\) ! Si on le compare à l'accélération issue de la gravitation exercée par la Terre sur la Lune :
 
 \\[a_{\textrm{grav}} = \frac{G M_T}{d^2} \approx 3 \times 10^{-3} m.s^{-2} \\]
 
