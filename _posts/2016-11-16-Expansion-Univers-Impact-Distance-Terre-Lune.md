@@ -7,7 +7,7 @@ tags: [physique,cosmologie, relativité générale, énergie noire]
 image: Lune.jpg
 ---
 
-L'Univers, à large échelle, s'étend. C'est ce qu'à découvert Hubble dans les années 30. Mais ces résultats sont-ils valables à une échelle plus "locale", par exemple au sein du système solaire ? La Terre et la Lune s'éloignent-ils ? C'est l'objet de ce petit billet.
+L'Univers, à large échelle, est en expansion. C'est ce qu'à découvert Hubble dans les années 30. Mais ces résultats sont-ils valables à une échelle plus "locale", par exemple au sein du système solaire ? Par exemple : la Terre et la Lune s'éloignent-ils ? C'est ce que nous allons explorer dans ce billet.
 
 <!--more-->
 
