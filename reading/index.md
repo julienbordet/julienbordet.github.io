@@ -7,6 +7,29 @@ layout: page
 <img src="/images/blog/library.jpg" width="700px" />
 Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 
+### Octobre 2016 ###
+**Night Without Stars** : J'adore Peter F. Hamilton, dont je ne suis pas loin d'avoir lu tous les livres. La suite de "Chronicles of the Fallers".
+
+### Septembre 2016 ###
+**The Prisoner's dilemma** : j'ai acheté ce livre (William Poundstone) pour vraiment comprendre pourquoi tout le monde était si subjugué par la théorie des jeux et le dilemme du prisonnier. J'en ressors avec une vision plus claire : comme je le soupçonnais, ça ne sert à rien. L'hypothèse des joueurs rationnels empêche tout application pratique, que ce soit dans les négociations ou pour comprendre les mécanismes sociaux. Quelques applications qui font sens à la fin du XXème siècle, notamment dans les algorithmes "génétiques".
+
+**Spycraft Secrets - An Espionage A-Z** : quelques éléments sur l'espionnage, principalement durant la Guerre froide, par Nigel West. Le mode "dictionnaire" rend le livre indigeste.
+
+### Juillet 2016 ###
+**La Nuit** : le récit de la vie dans les camps de concentration par Elie Wiesel. Effrayant.
+
+### Juin 2016###
+**The Equation that Couldn't be Solved** : l'exploration de l'impact des symétries sur les mathématiques et la physique. Un livre qui aurait pu être intéressant, mais qui est globalement décevant, car un peu sans queue ni tête. Difficile de suivre le fil conducteur qui permet de passer d’un sujet à l’autre. Invoquer la symétrie ne suffit pas à rendre le livre cohérent. Par ailleurs, le partie pris de grande vulgarisation ne permet pas de rentrer réellement dans les sujets et de comprendre les véritables enjeux de la symétrie.
+
+### Mars 2016 ###
+**Faust** : le grand classique de la littérature allemande
+**Macbeth** : un autre grand classique, de la littérature anglais 
+
+### Février 2016 ###
+**The case for Mars** : Robert Zubrin explique pourquoi la conquête de Mars est, selon lui, à porter de main. Un livre qui résonne à la lumière du projet d'Elon Musk
+
+**The Praxis, Dread Empire's Fall / The Sundering / Conventions of War** : Walter Jon Williams écrit de la science fiction comme je les aime, en mode space Opera. Une particularité intéressante : les voyages interstellars respectent les lois de la relativité : pas de voyage supra-luminique, utilisation de la gravitation des planètes pour réaliser des manoeuvres de changement de trajectoire, durée de voyage qui se comptent en mois voire en années, exploration des effets de l'accélération sur le corps des voyageurs. Au final, cette navigation spatiale a un goût de retour en arrière, comme à l'époque où l'exploration du globe par la Mer impliquait des voyages long et périlleux.
+
 ### Janvier 2016 ###
 **Le temps des décisions** : le récit de Hillary Clinton, candidate aux primaires démocrates américaines, de sa part au Secrétariat d'Etat, le ministère des affaires étrangères américain. Bien que la tendance soit parfois à l'autopromotion durant cette période à l'actualité brûlante aux US, elle dévoile l'envers du décors avec autodérision et un style plutôt alerte.
 
