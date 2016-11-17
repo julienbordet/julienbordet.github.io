@@ -1,5 +1,14 @@
 ---
 published: true
+layout: post
+date: 2016-11-17T15:30:00.000Z
+category:
+  - physique
+tags:
+  - physique
+  - cosmologie
+  - relativité générale
+  - livre
 ---
 Revue de livre : A la recherche de l'Univers invisible : matière noire, énergie noire, trous noirs - David Elbaz
 
