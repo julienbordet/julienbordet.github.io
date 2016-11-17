@@ -6,8 +6,6 @@ category: [physique]
 tags: [physique,cosmologie, relativité générale, énergie noire]
 image: Elbaz.jpg
 ---
-Revue de livre : A la recherche de l'Univers invisible : matière noire, énergie noire, trous noirs - David Elbaz
-
 [Le lien sur le site de l'éditeur](http://www.odilejacob.fr/catalogue/sciences/astronomie-astrophysique-cosmologie/a-la-recherche-de-lunivers-invisible_9782738134776.php)
 
 David Elbaz est astrophysicien et chef du laboratoire Cosmologie et Evolution des Galaxies au Service d'Astrophysique du CEA Saclay. Ce n'est, heureusement, pas un illuminé qui ne sait pas de quoi il parle, comme on en trouve malheureusement beaucoup parmi les publications de vulgarisation dans le domaine de la cosmologie et de la physique théorique.
