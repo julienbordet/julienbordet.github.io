@@ -11,7 +11,7 @@ David Elbaz est astrophysicien et chef du laboratoire Cosmologie et Evolution de
 
 Dans ce livre, David Elbaz propose de faire un tour d'horizon des connaissances en cosmologie à l'heure actuelle, dans un domaine qui a énormément bougé, y compris depuis 20 ans.
 
-<--more-->
+<!--more-->
 
 ### Des objets mystérieux : matière noire, énergie noire, trou noir ###
 
