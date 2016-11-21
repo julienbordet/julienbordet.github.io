@@ -82,6 +82,7 @@ Mais ces ondes subissent un phénomène similaire à l'effet Doppler, qui fait q
 De manière similaire, lorsque l'émetteur de la lumière s'éloigne, les longueurs d'onde observées sont plus grandes (correspondant, pour la sirène, à un son plus grave) et la lumière est "décalée vers le rouge" (qui a effectivement une longueur d'onde plus grande que le bleu) . Lorsque l'émetteur s'approche, la lumière est "décalée vers le bleu".
 
 Le décalage vers le rouge observé depuis la Terre peut avoir deux origines : 
+
 * soit leur vitesses d'éloignement ou de rapprochement propre (par exemple la Galaxie d'Andromède, la galaxie la plus proche de la notre, s'approche de nous a une vitesse de 430 000 km / h), 
 * soit l'expansion de l'Univers, qui produit un décalage vers le rouge (éloignement) et qui devient largement dominant lorsqu'on considère des objets très distants.
 
