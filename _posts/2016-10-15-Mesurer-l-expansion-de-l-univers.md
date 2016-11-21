@@ -88,11 +88,11 @@ Le décalage vers le rouge observé depuis la Terre peut avoir deux origines :
 
 Même si les effets sont similaires, ces deux décalages vers le rouge sont de nature différente : dans le premier cas, il est directement dû à la vitesse de la galaxie, mais dans le second, il est dû à l'expansion de l'Univers **tout au long du trajet du photon**.
 
-Et c'est là que c'est intéressant : ce décalage est un signe direct de l'expansion de l'Univers qui a eu lieu entrele moment de son émission (\\(t_e \\)) et sa réception sur la Terre (\\(t_r\\)). On peut d'ailleurs le quantifier par l'équation suivante, dans laquel le paramètre \\(z\\) correspond au décalage.
+Et c'est là que c'est intéressant : ce décalage est un signe direct de l'expansion de l'Univers qui a eu lieu entre le moment de son émission (\\(t_e \\)) et sa réception sur la Terre (\\(t_r\\)). On peut d'ailleurs le quantifier par l'équation suivante, dans laquel le paramètre \\(z\\) correspond au décalage.
 
 $$1+z = \frac{a(t_r)}{a(t_e)}$$
 
-Comme la facteur de référence du facteur \((a\)) est arbitraire (puisqu'on mesure l'expansion de l'Univers par rapport à un instant donné, on peut choisir \\(a(t_r) = a(maintenant) = 1\\). Et donc :
+Comme la facteur de référence du facteur \((a\\) est arbitraire (puisqu'on mesure l'expansion de l'Univers par rapport à un instant donné, on peut choisir \\(a(t_r) = a(maintenant) = 1\\). Et donc :
 
 $$a(t_e) = 1/(1+z)$$
 
