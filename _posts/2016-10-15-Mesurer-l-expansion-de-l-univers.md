@@ -92,7 +92,7 @@ Et c'est là que c'est intéressant : ce décalage est un signe direct de l'expa
 
 $$1+z = \frac{a(t_r)}{a(t_e)}$$
 
-Comme la facteur de référence du facteur \((a\\) est arbitraire (puisqu'on mesure l'expansion de l'Univers par rapport à un instant donné, on peut choisir \\(a(t_r) = a(maintenant) = 1\\). Et donc :
+Comme la facteur de référence du facteur \\(a\\) est arbitraire (puisqu'on mesure l'expansion de l'Univers par rapport à un instant donné, on peut choisir \\(a(t_r) = a(maintenant) = 1\\). Et donc :
 
 $$a(t_e) = 1/(1+z)$$
 
