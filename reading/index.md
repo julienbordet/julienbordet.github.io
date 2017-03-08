@@ -1,11 +1,23 @@
 ---
 title: Lectures
 layout: page
+published: true
 ---
 
 {: style="font-size: 60%; text-align: center	"} 
 <img src="/images/blog/library.jpg" width="700px" />
 Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
+
+
+
+### Février 2016 ###
+**Lexicon** : par Max Barry
+
+### Janvier 2016 ###
+**Géopolitique de l'Iran** : par Bernard Hourcade, grand spécialiste du monde iranien. Passionnant et particulièrement à jour, ce livre fournit un éclairage sur l'histoire et l'actualité de ce grand pays qu'est l'Iran.
+
+### Novembre 2016 ###
+**The Goal** : Recommandé par un collègue, ce livre d'Eli Goldratt donne, sous la forme d'un roman, une introduction à système de production de Toyota, qui a émergé dans les années 80, à l'époque où les producteurs automobiles japonais sont partis à l'assaut du marché américain. C'est un livre passionnant, qui se lit effectivement comme un divertissement, mais qui introduit des notions fondamentales telles que la théorie des contraintes, les goulots d'étranglement et leurs applications concrètes pour augmenter la productivité d'une usine.
 
 ### Octobre 2016 ###
 **Night Without Stars** : J'adore Peter F. Hamilton, dont je ne suis pas loin d'avoir lu tous les livres. La suite de "Chronicles of the Fallers".
