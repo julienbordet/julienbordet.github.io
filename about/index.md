@@ -5,7 +5,7 @@ layout: page
 
 # A propos
 
-#### Je suis consultant en stratégie dans un cabinet de conseil international à la ville, pianiste, photographe et scientifique amateur aux champs.
+#### Je suis Directeur Administratif et Financier dans une PME en croissance à la ville, pianiste, photographe et scientifique amateur aux champs.
 
 
 <a class="graybutton" href="/about/CV-Julien_Bordet.pdf">CV</a>
