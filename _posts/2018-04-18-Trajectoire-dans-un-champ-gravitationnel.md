@@ -14,7 +14,7 @@ Le fichier Jupyter associé est disponible [ici](https://github.com/julienbordet
 
 L'objectif de ce petit notebook jupyter est de montrer qu'il est aisé de calculer la trajectoire d'un corps dans un potentiel gravitationnel quelconque.
 
-Pour rappel, le potentiel gravitationnel global $\phi$ va être égal à la somme de chacun des potentiels gravitationnels individuels \\(\phi_i\\) : \\(\phi = \sum \phi_i\\).
+Pour rappel, le potentiel gravitationnel global \\(\phi\\) va être égal à la somme de chacun des potentiels gravitationnels individuels \\(\phi_i\\) : \\(\phi = \sum \phi_i\\).
 
 Le champ gravitationnel résultant va alors se calculer comme
 
