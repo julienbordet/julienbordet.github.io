@@ -14,15 +14,13 @@ Le fichier Jupyter associé est disponible [ici](https://github.com/julienbordet
 
 L'objectif de ce petit notebook jupyter est de montrer qu'il est aisé de calculer la trajectoire d'un corps dans un potentiel gravitationnel quelconque.
 
-Pour rappel, le potentiel gravitationnel global $\phi$ va être égal à la somme de chacun des potentiels gravitationnels individuels $\phi_i$ : $\phi = \sum \phi_i$.
+Pour rappel, le potentiel gravitationnel global $\phi$ va être égal à la somme de chacun des potentiels gravitationnels individuels \\(\phi_i\\) : \\(\phi = \sum \phi_i\\).
 
 Le champ gravitationnel résultant va alors se calculer comme
 
-$$
-\mathbf g = - \vec \nabla \phi
-$$
+$$\mathbf g = - \vec \nabla \phi$$
 
-Dans la configuration considéré ici, on introduit 3 corps. Le premier est au centre du repère, le second à une distance $d$ sur l'axe $(Ox)$ (coordonnées polaire $(d,0)$) et le troisième afin des coordonnées polaires $(d, 2\pi/3)$.
+Dans la configuration considéré ici, on introduit 3 corps. Le premier est au centre du repère, le second à une distance \\(d\\) sur l'axe \\((Ox)\\) (coordonnées polaire \\((d,0)\\)) et le troisième afin des coordonnées polaires \\((d, 2\pi/3)\\).
 
 Pour simplifier et pour favoriser une représentation graphique agréable, on ne simule pas ici le mouvement de chacun des trois corps, qu'on représente fixes dans le repère.
 
@@ -43,11 +41,9 @@ x = var('x')
 y = var('y')
 ```
 
-Le champ gravitationnel en $(r, \theta)$ peut s'exprimer pour un corps de coordonnées polaires $(d, \theta_0)$ et de masse $M$, :
+Le champ gravitationnel en \\((r, \theta)\\) peut s'exprimer pour un corps de coordonnées polaires \\((d, \theta_0)\\) et de masse \\(M\\), :
 
-$$
-\dfrac{M}{\sqrt{r^2 + d^2 - 2 rd \cos(\theta - \theta_0)}}
-$$
+$$\dfrac{M}{\sqrt{r^2 + d^2 - 2 rd \cos(\theta - \theta_0)}}$$
 
 ```
 # Fonction phi, exprimant le potentiel gravitationnel en fonction
