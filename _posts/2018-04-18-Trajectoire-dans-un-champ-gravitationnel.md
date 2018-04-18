@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trajectoire dans un champ gravitationnel"
-date: 2017-11-17
+date: 2018-04-18
 category: [physique]
 tags: [physique, gravitation]
 ---
