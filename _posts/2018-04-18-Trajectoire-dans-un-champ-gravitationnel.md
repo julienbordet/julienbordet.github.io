@@ -10,6 +10,8 @@ Mes explorations du moment m'ont permis de "jouer" avec [Sagemath](http://www.sa
 
 Le fichier Jupyter associé est disponible [ici](https://github.com/julienbordet/Divers/blob/master/Physique/Trajectoire%20dans%20un%20potentiel%20gravitationnel%20de%20plusieurs%20corps.ipynb), mais ce billet est destiné à le résumer.
 
+<!--more-->
+
 L'objectif de ce petit notebook jupyter est de montrer qu'il est aisé de calculer la trajectoire d'un corps dans un potentiel gravitationnel quelconque.
 
 Pour rappel, le potentiel gravitationnel global $\phi$ va être égal à la somme de chacun des potentiels gravitationnels individuels $\phi_i$ : $\phi = \sum \phi_i$.
@@ -19,6 +21,7 @@ Le champ gravitationnel résultant va alors se calculer comme
 $$
 \mathbf g = - \vec \nabla \phi
 $$
+
 Dans la configuration considéré ici, on introduit 3 corps. Le premier est au centre du repère, le second à une distance $d$ sur l'axe $(Ox)$ (coordonnées polaire $(d,0)$) et le troisième afin des coordonnées polaires $(d, 2\pi/3)$.
 
 Pour simplifier et pour favoriser une représentation graphique agréable, on ne simule pas ici le mouvement de chacun des trois corps, qu'on représente fixes dans le repère.
