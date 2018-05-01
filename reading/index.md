@@ -10,10 +10,31 @@ Copyright [timetrax23](https://www.flickr.com/photos/timetrax/)
 
 
 
-### Février 2016 ###
+### Août 2017
+
+**Histoire des grands courants de la pensée politique** (Jean-Jacques Raynal)
+
+### Juin 2017
+
+**Comprendre l'Islam** (Adrien Candiard) : passionnante courte synthèse de l'Islam, par un spécialiste français qui est aussi moine dominicain. Il commence par une présentation de la diversité de l'Islam, qui ne se limite pas au sunnisme et au chiisme, ainsi que ses spécificités et le Coran comme parole divine. Puis il continue avec les crises contemporaines de l'Islam, et notamment l'adaptation au monde moderne, la lutte pour la prééminence du monde musulman et le salafisme. Il conclut par les problèmes ouverts quant à la coéxistence de l'Islam et de la démocratie telle qu'elle est entendue en Occident, et sur la nécessité de réinventer un Islam conforme à la tradition musulman et adapté au monde moderne.
+
+### Mai 2017
+
+**Histoire, Géographie et Géopolitique de la mondialisation** (Pierre Verluise) : une compilation d'articles sous la direction de Pierre Verluise. L'ensemble est relativement inégal, mais j'ai retenu :
+
+-  "Un monde multipolaire, vraiment ?", qui explique que le monde actuel n'est pas multipolaire, ce serait trop simple : il est particulièrement flou.
+- "Quelle Guerre Froide ? Du recyclage anachronique d'un concept" : le concept de guerre froide n'est d'aucune utilité pour décrire le monde d'ajourd'hui
+- "La réhabilitation de l'État à la faveur de la lutte contre le terrorisme" : l'émergence du terrorisme augmente la demande des citoyens d'un État protecteur. Intéressant mais insuffisamment étayé.
+
+### Avril 2017
+
+**Sapiens, une brève histoire de l'humanité** : par Noah Harari. Un livre qu'on en lit tous les 5 ans, avec la capacité à transformer la vision de ses lecteurs. Passionnant et très fortement recommandé.
+
+### Février 2017 ###
+
 **Lexicon** : par Max Barry
 
-### Janvier 2016 ###
+### Janvier 2017 ###
 **Géopolitique de l'Iran** : par Bernard Hourcade, grand spécialiste du monde iranien. Passionnant et particulièrement à jour, ce livre fournit un éclairage sur l'histoire et l'actualité de ce grand pays qu'est l'Iran.
 
 ### Novembre 2016 ###
