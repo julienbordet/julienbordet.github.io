@@ -11,6 +11,8 @@ Tous les ans, l’institut “The Economist Intelligence Unit” produit un [rap
 
 Cette étude examine la qualité des démocraties sur la base de 5 familles de critères, synthétisant 60 questions : ouverture du système politique ouvert, efficacité du gouvernement, participation politique, culture politique et libertés publiques.
 
+<!--more-->
+
 **Le France dispose-t-elle d’un système politique ouvert et multiparti ?**
 
 Les questions posées ici sont, en synthèse :
