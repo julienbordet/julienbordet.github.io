@@ -134,4 +134,4 @@ Enfin, il convient de noter qu’on n’a parlé ici que des fonctions **cogniti
 A l’exception du premier (intelligence kinesthésique), ces intelligences ne me semblent pas de la même nature que celles décrites dans cet article. Il s’agit moins de capacités cognitives que d’un ensemble de traitement plus complexe et plus « haut niveau », s’appuie sur d’autres mécanismes moins orientés vers la « résolution de problèmes ».
 
 #### Notes ####
-[^1]: Too Much Crystallized Thinking Lowers Fluid Intelligence, Psychology Today, 26 décembre 2013, [[https://www.psychologytoday.com/us/blog/the-athletes-way/201312/too-much-crystallized-thinking-lowers-fluid-intelligence]]
+[^1]: [Too Much Crystallized Thinking Lowers Fluid Intelligence, Psychology Today, 26 décembre 2013](https://www.psychologytoday.com/us/blog/the-athletes-way/201312/too-much-crystallized-thinking-lowers-fluid-intelligence)
