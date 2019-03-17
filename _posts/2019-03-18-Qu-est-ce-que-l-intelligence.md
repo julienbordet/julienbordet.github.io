@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Qu’est ce que l’intelligence »
+title: "Qu’est ce que l’intelligence"
 date: 2019-03-17
 category: [intelligence](#)
 tags: [intelligence, neurosciences](#)
