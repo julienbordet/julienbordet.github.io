@@ -6,8 +6,6 @@ category: [intelligence]
 tags: [intelligence, neurosciences]
 ---
 
-# Qu’est-ce que l’intelligence ?
-
 _Intelligence_. Ce mot est partout, utilisé à toutes les sauces. Nos enfants sont qualifiés d’« intelligents » s’ils réussissent à l’école. Les capacités de calcul mental de notre voisin éveillent notre admiration. Les raisonnements d’un major de l’X sont certainement dignes de respect.
 
 Néanmoins, lorsqu’il s’agit de déterminer ce qu’est l’intelligence, c’est tout de suite sensiblement plus compliqué. Disons-le tout de go : il n’existe pas de manière unique, uniformément admise de définir l’intelligence. 
