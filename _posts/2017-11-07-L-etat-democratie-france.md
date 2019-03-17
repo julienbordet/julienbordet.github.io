@@ -96,11 +96,11 @@ A la lumière de cet éclairage, je voudrais rappeler quelques éléments import
 
 Oui, la **France est une démocratie**. Il faut ne pas lever le nez de son clavier et ne pas regarder comment fonctionne le monde pour ne pas comprendre que la France dispose d’un système électoral qui fonctionne, où les fraudes sont rares, où il est possible à chacun de s’exprimer, de monter un partie politique, où aucune partie de la population s’est discriminée dans la loi.
 
-La France dispose globalement des structures politiques lui permettant d’être une démocratie aboutie, mais c’est la pratique politique du pays qui est défaillante**. La démocratie est un ensemble de **règles et de loi**, mais est incarnée par les** actions des hommes et des femmes politiques, des citoyens ou des institutions.
+La France dispose globalement des structures politiques lui permettant d’être une démocratie aboutie, mais **c’est la pratique politique du pays qui est défaillante**. La démocratie est un ensemble de **règles et de lois**, mais est incarnée par les**actions des hommes et des femmes politiques, des citoyens ou des institutions.**
 
 Le diagnostic optimiste consiste donc à dire que puisque la base est là, il est possible de corriger les défaillances de la démocratie à la française. **Il “suffit” d’ajuster ce qui ne fonctionne pas **: transparence et contrôle, indépendance des élus, lutte contre les conflits d’intérêt, séparation des pouvoirs plus aboutie, lutte contre la corruption, …
 
-La version pessimiste est que ce même si nous avons la chance de vivre dans une démocratie,** les changements à apporter sont justement ceux qui sont les plus difficiles à réaliser**.
+La version pessimiste est que ce même si nous avons la chance de vivre dans une démocratie,**les changements à apporter sont justement ceux qui sont les plus difficiles à réaliser**.
 
 Tout d’abord, il existe une certaine culture de l’ivresse du pouvoir, à tous les échelons (sans aller chercher très loin, ils suffit de voir le comportement de certains “petits maires”). Ceci conduit bien souvent à l’oubli de l’intérêt général. A titre d’illustration, est-il imaginable en France que le premier ministre aille au travail en tram ou en vélo ? Non, ce serait une “atteinte à la fonction” … No comment.
 

@@ -6,7 +6,7 @@ category: [intelligence]
 tags: [intelligence, neurosciences]
 ---
 
-_Intelligence_. Ce mot est partout, utilisé à toutes les sauces. Nos enfants sont qualifiés d’« intelligents » s’ils réussissent à l’école. Les capacités de calcul mental de notre voisin éveillent notre admiration. Les raisonnements d’un major de l’X sont certainement dignes de respect.
+_Intelligence_. Ce mot est partout, utilisé à toutes les sauces. Nos enfants sont qualifiés d’« intelligents » s’ils réussissent à l’école. Les capacités de calcul mental de notre voisin éveillent notre admiration. Nous espérons tous être, un minimum, intelligent, et certains surestiment leur propre capacité cognitive.
 
 Néanmoins, lorsqu’il s’agit de déterminer ce qu’est l’intelligence, c’est tout de suite sensiblement plus compliqué. Disons-le tout de go : il n’existe pas de manière unique, uniformément admise de définir l’intelligence. 
 
@@ -70,7 +70,7 @@ Cette intelligence est qualifiée de « cristallisée » car elle est matéria
 
 Les deux formes d’intelligence, **Gf** et **Gc** sont bien entendus souvent corrélées entre elles, mais les scientifiques considèrent bien souvent que l’intelligence fluide comporte une part importante d’inné, tant que l’intelligence cristallisée doit se construire sur de l’acquis.
 
-De manière intéressante, des études {1} ont permis de montrer que si **Gc** est trop importante (par exemple qu’au cours des études on a trop instillé les mêmes méthodologiques, à tel point que la résolution de problème n’est plus une compétence mais un savoir), alors **Gf** va diminuer. C’est aussi pour cela qu’il est intéressant de consulter des experts de domaine différents du sien : ils vont pouvoir mobiliser leur intelligence fluide sans s’appuyer sur l’intelligence cristallisée associée au domaine, et ainsi ouvrir de nouveaux horizons.
+De manière intéressante, des études [^1] ont permis de montrer que si **Gc** est trop importante (par exemple qu’au cours des études on a trop instillé les mêmes méthodologiques, à tel point que la résolution de problème n’est plus une compétence mais un savoir), alors **Gf** va diminuer. C’est aussi pour cela qu’il est intéressant de consulter des experts de domaine différents du sien : ils vont pouvoir mobiliser leur intelligence fluide sans s’appuyer sur l’intelligence cristallisée associée au domaine, et ainsi ouvrir de nouveaux horizons.
 
 #### La mobilisation des connaissances mathématiques
 
@@ -132,3 +132,6 @@ Enfin, il convient de noter qu’on n’a parlé ici que des fonctions **cogniti
 4. intelligence naturaliste (sensibilité à ce qui est vivant et capacité à comprendre l’environnement dans lequel l’homme évolue)
 
 A l’exception du premier (intelligence kinesthésique), ces intelligences ne me semblent pas de la même nature que celles décrites dans cet article. Il s’agit moins de capacités cognitives que d’un ensemble de traitement plus complexe et plus « haut niveau », s’appuie sur d’autres mécanismes moins orientés vers la « résolution de problèmes ».
+
+#### Notes ####
+[^1]: Too Much Crystallized Thinking Lowers Fluid Intelligence, Psychology Today, 26 décembre 2013, [https://www.psychologytoday.com/us/blog/the-athletes-way/201312/too-much-crystallized-thinking-lowers-fluid-intelligence]
