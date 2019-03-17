@@ -5,11 +5,9 @@ layout: page
 
 # A propos
 
-#### Je suis Directeur Administratif et Financier dans une PME en croissance à la ville, pianiste, photographe et scientifique amateur aux champs.
+#### Je suis Directeur Général Délégué dans une PME en croissance à la ville, pianiste, photographe et scientifique amateur aux champs.
 
 
-<a class="graybutton" href="/about/CV-Julien_Bordet.pdf">CV</a>
-&nbsp;&nbsp;
 <a class="graybutton" href="https://www.linkedin.com/in/julienbordet" target="_blank">linkedin</a>
 <hr/>
 
