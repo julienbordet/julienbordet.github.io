@@ -11,7 +11,7 @@ _Intelligence_. Ce mot est partout, utilisé à toutes les sauces. Nos enfants s
 Néanmoins, lorsqu’il s’agit de déterminer ce qu’est l’intelligence, c’est tout de suite sensiblement plus compliqué. Disons-le tout de go : il n’existe pas de manière unique, uniformément admise de définir l’intelligence. 
 
 <!--more-->
-## Quelques définitions usuels de l’intelligence
+## Quelques définitions usuelles de l’intelligence
 
 Bien sûr, l’on pourrait partir du dictionnaire. L’intelligence y est définie comme (Larousse) l’« ensemble des fonctions mentales ayant pour objet la connaissance conceptuelle et rationnelle », mais aussi l’« aptitude d’un être humain à s’adapter à une situation, à choisir des moyens d’action et fonction des circonstances ». 
 
@@ -19,7 +19,7 @@ Ces définitions donnent des premières pistes : tout d’abord, l’intelligenc
 
 Intuitivement, ma propre définition de l’intelligence, il y a 20 ans, la « capacité à faire des liens », à discerner des motifs, des répétitions, des logiques là où on n’en aperçoit pas forcément au premier coup d’œil. Une manière habituelle dont on qualifie quelqu’un d’intelligent est aussi qu’il « comprend ou réfléchit vite », et qu’il dispose d’une capacité importante à « traiter de l’information ».
 
-## Une approche scientifique de l’intelligence
+## Une approche scientifique 
 
 L’intelligence est bien entendue étudiée de manière plus scientifique. La psychologie, depuis le début du XXè siècle, commence à explorer le domaine de manière rigoureuse, à l’aide de la psychométrie, qui est la branche de la psychologie s’appuyant sur des tests normalisés. Plus récemment, l’imagerie cérébrale et les neurosciences ont permis d’avancer encore sur notre compréhension du sujet.
 
