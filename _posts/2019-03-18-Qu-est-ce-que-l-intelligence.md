@@ -123,7 +123,7 @@ En synthèse, si je devais retenir résumer en quelques phrases les caractérist
 - La vitesse de traitement des tâches connues (**Gs**)
 - La capacité à mobiliser les informations sensorielles visuelles et auditifs pour analyser les perceptions.
 
-<img src="/images/blog/Synthèse-intelligence.png" />
+<img src="/images/blog/Synthese-intelligence.png" />
 
 Parmi ces fonctions cognitives, seules quelques-unes sont évaluées par les tests « classiques de QI », comme le WAIS IV (Gf, Gsm, Gc, Gs).
 
