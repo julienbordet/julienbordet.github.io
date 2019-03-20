@@ -123,7 +123,9 @@ En synthèse, si je devais retenir résumer en quelques phrases les caractérist
 - La vitesse de traitement des tâches connues (**Gs**)
 - La capacité à mobiliser les informations sensorielles visuelles et auditifs pour analyser les perceptions.
 
-Parmi ces fonctions cognitives, seules quelques-unes sont évaluées par les tests « classiques de QI », comme le WAIS IV.
+<img src="/images/blog/Synthèse-intelligence.png" />
+
+Parmi ces fonctions cognitives, seules quelques-unes sont évaluées par les tests « classiques de QI », comme le WAIS IV (Gf, Gsm, Gc, Gs).
 
 Enfin, il convient de noter qu’on n’a parlé ici que des fonctions **cognitives**, mais qu’il existe de nombreuses autres capacités qui ne sont pas mentionnées et qui pourtant jouent un rôle très important, car l’homme est avant un animal complexe. Howard Earl Gardner (psychologue du développement né en 1943) ajoute donc d’autres types : 
 1. intelligence kinesthésique (habilité à utiliser son corps)
