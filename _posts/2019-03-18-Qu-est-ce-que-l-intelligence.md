@@ -60,7 +60,7 @@ Dans la vie de tous les jours, cette fonction est par exemple utilisée pour ré
 ### L’utilisation des connaissances
 
 #### L’intelligence cristallisée 
-Notée **Gc**, l’intelligence cristallisée l’importance et la profondeur des connaissances acquises, de manière théorique ou via l’expérience. 
+Notée **Gc**, l’intelligence cristallisée mesure l’importance et la profondeur des connaissances acquises, de manière théorique ou via l’expérience. 
 
 Cette fonction cognitive est visible dans le niveau de vocabulaire d’une personne, dans sa capacité à aborder un vaste éventail de sujets ou dans la mobilisation d’une importante culture générale.
 
