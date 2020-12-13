@@ -42,9 +42,9 @@ Il est possible de me contacter à l'adresse suivante
 
 ```julien.bordet at gmail.com```
 
-<hr>
-
 Ma [clé publique RSA](/about/julienbordet-asc.gpg) pour les échanges sensibles.
+
+<hr>
 
 # A propos de ce site
 
