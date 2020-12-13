@@ -5,7 +5,7 @@ layout: page
 
 # A propos
 
-#### Je suis Directeur Général Délégué dans une PME en croissance à la ville, pianiste, photographe et scientifique amateur aux champs.
+#### Je suis Directeur Général Délégué dans une PME en croissance à la ville, pianiste, persanophile, amateur de géopolitique et scientifique amateur aux champs.
 
 
 <a class="graybutton" href="https://www.linkedin.com/in/julienbordet" target="_blank">linkedin</a>
