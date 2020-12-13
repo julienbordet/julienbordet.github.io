@@ -26,14 +26,14 @@ Le monde est complexe et change très rapidement, et les idées simplistes, auss
 
 > On ne transforme par une entreprise, un groupe, en le faisant contre les hommes et les femmes qui le compose.
 
-Trop souvent le dirigeant conçoit seul sa vision, et se met en croisade pour la porter et la réaliser. Mais le succès ne repose pas sur un seul individu, et les transformations qui réussissent sont celles qui partent du bas de la pyramide.
+Trop souvent le dirigeant conçoit seul sa vision, et se met en croisade pour la porter et la réaliser. Mais le succès ne repose pas sur un seul individu, et les transformations qui réussissent sont celles qui embarquent l'ensemble de l'organisation, accueillant les contributions de chacun.
 
 ## Centres d'intérêt
 
 Au delà du professionnel, j'ai trois centres d'intérêt principaux :
  
 - La musique, et particulièrement le piano, que je pratique depuis quelques années.
-- La photographie, à laquelle je m'essaye en amateur
+- La géopolitique, particulièrement celle du Moyen-Orient et de l'Iran
 - La physique, et particulièrement la cosmologie. Mon rêve de petit garçon était de devenir astrophysicien
 
 ## Contact
@@ -43,6 +43,8 @@ Il est possible de me contacter à l'adresse suivante
 ```julien.bordet at gmail.com```
 
 <hr>
+
+Ma [clé publique RSA](/about/julienbordet-asc.gpg) pour les échanges sensibles.
 
 # A propos de ce site
 
