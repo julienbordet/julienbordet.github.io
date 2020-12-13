@@ -33,7 +33,7 @@ Trop souvent le dirigeant conçoit seul sa vision, et se met en croisade pour la
 Au delà du professionnel, j'ai trois centres d'intérêt principaux :
  
 - La musique, et particulièrement le piano, que je pratique depuis quelques années.
-- La géopolitique, particulièrement celle du Moyen-Orient et de l'Iran
+- La géopolitique, particulièrement celle du Moyen-Orient et de l'Iran. فارسی صحبت می کنم
 - La physique, et particulièrement la cosmologie. Mon rêve de petit garçon était de devenir astrophysicien
 
 ## Contact
