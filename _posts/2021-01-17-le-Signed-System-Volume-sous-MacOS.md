@@ -6,7 +6,7 @@ category: [mac]
 tags: [mac, ssv, sécurité]
 ---
 
-Depuis plusieurs années, Apple a mis une énergie considérable dans le développement d'un macOS plus sécurisé, avec notamment GateKeeper, Kernel Integrity Protection
+Depuis plusieurs années, Apple a mis une énergie considérable dans le développement d'un macOS plus sécurisé, avec notamment GateKeeper, Kernel Integrity Protection ou encore System Integrity Protection (SIP).
 
 macOS Big Sur amène, du point de vue de la sécurité, un nombre intéressant de nouveautés, comme par exemple la "suppression" des extensions Kernel hors de l'espace noyau ou des améliorations de la notarisaton des applications. Avec l'arrivée des puces M1, l'intégrité du processus de boot a été amélioré, et d'autres améliorations sont déployées progressivement, notamment, l'authentification des pointeurs.
 
