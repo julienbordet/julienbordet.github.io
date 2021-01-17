@@ -30,10 +30,11 @@ Trop souvent le dirigeant conçoit seul sa vision, et se met en croisade pour la
 
 ## Centres d'intérêt
 
-Au delà du professionnel, j'ai trois centres d'intérêt principaux :
+Au delà du professionnel, j'ai de nombreux centres d'intérêt :
  
 - La musique, et particulièrement le piano, que je pratique depuis quelques années.
 - La géopolitique, particulièrement celle du Moyen-Orient et de l'Iran.  فارسی صحبت می کنم. سطح من متوسط است
+- La cybersécurité, où j'ai commencé ma carrière (chez <a href="https://www.intrinsec.com">Intrinsec</a>)
 - La physique, et particulièrement la cosmologie. Mon rêve de petit garçon était de devenir astrophysicien
 
 ## Contact
