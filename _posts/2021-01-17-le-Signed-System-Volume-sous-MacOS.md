@@ -42,7 +42,7 @@ Howard Noakley ([@howardnoakley](https://twitter.com/howardnoakley)) a fait une 
 
 *Copyright @Howard Noakley (2021)*
 
-Ce qui est particulièrement intéressant à noter, c'est qu'avec APFS il est possible de monter *plusieurs systèmes de fichiers* derrière un **même répertoire** : ainsi, le répertoire `/Applications`contient à la fois des applications Apple issues du volume *System* **et** les applications ajoutées par l'utilisateur et stockées dans le volume *Data*.
+Ce qui est particulièrement intéressant à noter, c'est qu'avec APFS il est possible de monter *plusieurs systèmes de fichiers* derrière un **même répertoire** : ainsi, le répertoire `/Library` contient à la fois des bibliothèques Apple issues du volume *System* **et** les bibliothèques ajoutées par l'utilisateur et stockées dans le volume *Data*.
 
 ## SSV et Snapshots
 
