@@ -42,6 +42,8 @@ Howard Noakley ([@howardnoakley](https://twitter.com/howardnoakley)) a fait une 
 
 *Copyright @Howard Noakley (2021)*
 
+Ce qui est particulièrement intéressant à noter, c'est qu'avec APFS il est possible de monter *plusieurs systèmes de fichiers* derrière un **même répertoire** : ainsi, le répertoire `/Applications`contient à la fois des applications Apple issues du volume *System* **et** les applications ajoutées par l'utilisateur et stockées dans le volume *Data*.
+
 ## SSV et Snapshots
 
 Depuis l'introduction d'APFS (Apple File System), il est possible de faire des "snapshots" du système de fichier : il s'agit d'un "instantané" de l'état du système de fichier à un moment donné. Ceci est souvent particulièrement utile pour les sauvegardes notamment, ou pour prévenir les problèmes lors des mises à jour système : il sera toujours possible de revenir à l'état *stable* précédent.
