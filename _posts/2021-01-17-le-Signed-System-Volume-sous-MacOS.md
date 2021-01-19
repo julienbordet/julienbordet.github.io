@@ -18,7 +18,7 @@ L'objectif de cet article est de présenter l'une des nouveautés de macOS Big S
 
 Depuis macOS Mojave (10.14), les systèmes d'exploitation Mac ont fait l'objet d'évolutions significatives concernent le système de fichiers.
 
-Avec **Mojave**, il n'y a pas de différences entre les données du système et les données de l'utilisateur. Tout est mélanger dans un seul volume APFS (Apple File System). Les données sont protégées à l'aide des autorisations UNIX classiques, auxquels macOS rajoute System Integrity Protection (SIP).
+Avec **Mojave**, il n'y a pas de différences entre les données du système et les données de l'utilisateur. Tout est mélangé dans un seul volume APFS (Apple File System). Les données sont protégées à l'aide des autorisations UNIX classiques, auxquels macOS rajoute System Integrity Protection (SIP).
 
 Lors de l'introduction de **Catalina**, le volume de boot est séparé en deux : le volume système (*System*) et le volume données (*Data*), au sein d'un même *Volume Group*. L'ensemble continue à bénéficier des protections du SIP, mais le volume *System* est monté en mode lecture seule.
 

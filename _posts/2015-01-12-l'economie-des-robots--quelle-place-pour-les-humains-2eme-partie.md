@@ -21,7 +21,7 @@ De manière plus pragmatique, comment éviter qu’une partie de la population n
 
 Soyons clairs : la réflexion sur le sujet n’a été qu’ébauchée. Mais quelques pistes valent la peine d’être explorées.
 
-##Fiction : le scenario du pire
+## Fiction : le scenario du pire
 
 Projetons-nous quelques instants en 2050, et envisageons le pire. Face à l’avancée des technologies, le nombre d’êtres humains travaillant a drastiquement réduits entre 2015 et 2040. Les gouvernements, n’ayant que trop peu anticipé, ont vu le taux de chômage durablement augmenter, et s’installer entre 20 et 30% de la population.
 
@@ -33,13 +33,13 @@ Les « sachants », ceux qui continuent à tirer parti de la nouvelle économie 
 
 Le scenario décrit ici ressemble à beaucoup d’œuvre de Science-Fiction. Et même s’il est clair qu’il s’agit d’une vision extrême, il est tout simplement la prolongation des tendances décrites dans l’article précédent : augmentation des inégalités, émergence d’une catégorie de « sachants » et de « laissés pour compte », concentration de la richesse…
 
-##Refonder les bases de notre économie
+## Refonder les bases de notre économie
 
 Les deux enjeux principaux de l’économie du futur sont donc : comment garantir une employabilité maximale pour la population ? Comment fournir à chacun les moyens de vivre décemment ?
 
 Même si le tableau pourrait ressembler à celui décrit par Marx au XIXème siècle, aucun auteur n’appelle aujourd’hui à la mise en place d’une économie socialiste. Il s’agit plutôt de refonder les principes de l’économie de marché, mais en  s’appuyant par exemple sur les principes de John Rawls, le philosophe américain et auteur d’une *Théorie de la justice* dans laquelle il réfléchit sur le problème de la justice redistributive (comment assurer un développement économique favorable à tous).
 
-##A court terme, la formation
+## A court terme, la formation
 
 Pour lutter dans la course au travail avec les machines, il est critique pour les économies développées de renforcer la formation de la population. S’il est vrai que la mécanisation et l’automatisation gagne du terrain dans les emplois à valeur ajoutée, il n’en reste pas moins que ce sont les tâches plus répétitives, associées aux niveaux de formation les moins avancés, qui sont les plus menacés.
 
@@ -51,7 +51,7 @@ Avec l’augmentation critique de l’importance de l’enseignement dans le suc
 
 Mais cela devra s’accompagner aussi, en profondeur, d’une refonte des pratiques pédagogiques pour les adapter aux besoins nouveaux de la société. Tous les systèmes d’enseignement ne sont pas prêts pour répondre à ces défis.
 
-##A long terme, un revenu universel
+## A long terme, un revenu universel
 
 On l’a vu, une part croissante de la population se trouve exclue du marché du travail, face à la concurrence des robots. Si l’enseignement et la formation sont fondamentaux, il est peu probable que cela suffise dans cette course à l’emploi. Dans la situation pessimiste mais envisageable décrite plus haut, les progrès techniques et la croissance finirait par ne plus bénéficié qu’à une petite élite, tandis que le reste de la population pourrait se retrouver incapable de subvenir à ses besoins élémentaires. On aurait alors un système fondamentalement injuste, et donc l’instabilité sociale serait bien évidemment critique.
 
@@ -63,11 +63,11 @@ Bien entendu, ce revenu minimum serait suffisant pour vivre décemment, mais ne 
 
 Pour contourner le problème de l’incitation au travail, Erik Brynjolfsonn et Andrew McAfee imagine un impôt sur le revenu négatif, comme le crédit d’impôt en France sur les travaux de rénovation d’une maison. Les foyers les moins aisés seraient ainsi éligibles à une compensation par l’État d’une partie de la différence entre leurs revenus et le revenu de référence. Ainsi si le revenu de référence fixé par l’état est de 3000 €, et si le foyer gagne 1500 €, alors l’État pourra couvrir 50% de la différence, soit ici 2250 €. Ceci permet de maintenir un niveau de revenu minimum (ici 1500 € tout compris), tout en incitant les membres du foyer à travailler.
 
-##Conclusion
+## Conclusion
 
 Les robots et l’automatisation, on l’a vu, sont de nature à très profondément  transformer la fonction de notre économie, et plus largement de notre société. Si le progrès qu’ils apportent est réel, il conviendra d’en comprendre les impacts, les anticiper et de proposer les réponses permettant à tous d’en tirer les fruits. Nul doute que de nouveaux luddistes ne manqueront pas de se manifester. Mais c’est bel et bien une nouvelle société que nous devons imaginer et inventer.
 
-###Quelques sources complémentaires :
+### Quelques sources complémentaires :
 
 Livres
 
