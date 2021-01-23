@@ -1,6 +1,6 @@
 ---
 layout: post
-title: macOS vs malware : tour d'horizon - Gatekeeper
+title: "macOS vs malware : Fonctionnement de Gatekeeper"
 date: 2021-01-23
 category: [mac]
 tags: [mac, ssv, sécurité]
