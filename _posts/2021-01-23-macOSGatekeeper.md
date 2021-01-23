@@ -16,7 +16,7 @@ Pour commencer, une petite présentation de Gatekeeper.
 
 ## Présentation
 
-Remontant à Mac OS X Lion et introduite pour la première fois en (2011-12), Gatekeeper est, de manière très synthétique, une solution de signature électronique et de contrôle des applications téléchargées et exécutées par l'utilisateur.  Une application non signée est alors considérée comme moins sûre qu'une application non signée, et nécessitera une action supplémentaire de l'utilisateur pour être installée.
+Remontant à Mac OS X Lion et introduite pour la première fois en 2011-12, Gatekeeper est, de manière très synthétique, une solution de signature électronique et de contrôle des applications téléchargées et exécutées par l'utilisateur.  Une application non signée est alors considérée comme moins sûre qu'une application non signée, et nécessitera une action supplémentaire de l'utilisateur pour être installée.
 
 Mais qu'apporte la **signature** d'une application pour l'utilisateur ? Deux éléments principaux :
 
@@ -71,8 +71,6 @@ La vérification réalisée sur les systèmes macOS depuis Catalina suit la tram
   2. Validation de la signature et du certificat
   3. Validations complémentaires
   4. Exécution de l'application
-
-TODO : suivre la trame ci-dessous
 
 ### Vérification du statut de quarantaine
 
@@ -297,6 +295,6 @@ et ainsi Gatekeeper ne s'activerait simplement pas.
 ### Sources
 
 - [Apple - macOS Code Signing In Depth](https://developer.apple.com/library/archive/technotes/tn2206/_index.html)
-- https://eclecticlight.co/2019/05/27/is-a-mac-os-x-gatekeeper-bypass-what-it-says/
-- https://eclecticlight.co/2020/07/08/will-macos-protect-you-from-ransomware-like-thiefquest/
-- https://eclecticlight.co/2020/11/16/checks-on-executable-code-in-catalina-and-big-sur-a-first-draft/
+- [https://eclecticlight.co/2019/05/27/is-a-mac-os-x-gatekeeper-bypass-what-it-says/](https://eclecticlight.co/2019/05/27/is-a-mac-os-x-gatekeeper-bypass-what-it-says/)
+- [https://eclecticlight.co/2020/07/08/will-macos-protect-you-from-ransomware-like-thiefquest/](https://eclecticlight.co/2020/07/08/will-macos-protect-you-from-ransomware-like-thiefquest/)
+- [https://eclecticlight.co/2020/11/16/checks-on-executable-code-in-catalina-and-big-sur-a-first-draft/](https://eclecticlight.co/2020/11/16/checks-on-executable-code-in-catalina-and-big-sur-a-first-draft/)
