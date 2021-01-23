@@ -3,7 +3,7 @@ layout: post
 title: "macOS vs malware : Fonctionnement de Gatekeeper"
 date: 2021-01-23
 category: [mac]
-tags: [mac, ssv, sécurité]
+tags: [mac, Gatekeeper, sécurité]
 ---
 
 Apple apporte un soin particulier à la sécurisation de son système d'exploitation, désigné d'abord sous le nom de MacOS X, puis macOS 10 et macOS 11. Cette suite d'articles a pour vocation à réaliser un tour d'horizon des solutions que l'éditeur a implémenté, progressivement, pour prévenir la compromission du système par un logiciel malveillant (*malware*).
