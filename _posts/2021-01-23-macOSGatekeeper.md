@@ -251,32 +251,7 @@ Pas de `com.apple.quarantine` ici, et il en sera de même pour l'application ext
 
 ### Contourner la protection contre le lancement en ligne de commande d'une application en quarantaine 
 
-Le système qui empêche l'exécution *via* `open VLC.app` vu ci-dessus est particulièrement imparfait. Même si une application et l'ensemble de son contenu sont sous quarantaine, et il est tout de même possible de lancer directement le binaire contenu dans l'arborescence de l'application : 
-
-```
-$ /VLC.app/Contents/MacOS/VLC
-VLC media player 3.0.12 Vetinari (revision 3.0.12-1-0-gd147bb5e7e)
-[00007ff4f7c24e10] main libvlc: Lancement de vlc avec l'interface par défaut. Utiliser « cvlc » pour démarrer VLC sans interface.
-[...]
-```
-
-L'effet pour l'attaquant est alors nul...
-
-Par ailleurs, un tel lancement a aussi pour effet de rendre inopérant la validation de l'utilisateur exigée lors de l'ouverture normale de l'application. Après avoir réalisé l'opération ci-dessous, il est possible de faire tout simplement :
-
-```
-$ open VLC.app
-```
-
-ou lancer simplement l'application depuis le Finder
-
-Ceci n'est de toute façon que peu surprenant : l'utilisateur courant est le propriétaire des applications installées, comme on peut le voir ici :
-
-```
-$ ls -l /Applications/VLC.app
-total 0
-drwxr-xr-x@ 8 julien  admin  256 16 déc 19:06 Contents
-```
+*Cette section décrit une vulnérabilité potentielle signalée à Apple, de gravité que je qualifierais de faible. En attendant leur réponse, je supprime ce paragraphe*
 
 ### Contourner la protection en supprimant le drapeau de quarantaine
 
