@@ -30,8 +30,20 @@
 		<link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen, projection" />
-        <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
+        <script type="text/javascript">
+        window.MathJax = {
+          tex: {
+            packages: ['base', 'ams']
+          },
+          loader: {
+            load: ['ui/menu', '[tex]/ams']
+          }
+        };
+        </script>
+        <script type="text/javascript" id="MathJax-script" async
+                src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+        </script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
