@@ -16,6 +16,8 @@ Défi difficile, d’autant plus que la République Islamique d’Iran impose de
 
 Dans ce contexte, le travail que le _[Center for International & Security Studies](https://cissm.umd.edu)_ de l’Université du Maryland (CISSM) effectue depuis 2013 est remarquable : organiser, sur une base régulière (au moins une fois par an), un sondage d’opinion traitant un large ensemble de sujets. En posant régulièrement des questions identiques, ce sondage permet aussi un véritable suivi des évolutions et des courants qui traversent l’opinion publique du pays.
 
+<!--more-->
+
 Afin de fournir des résultats le plus précis possibles, les équipes du CISSM font preuve d’une grande rigueur dans leur approche, cherchant à contourner les obstacles et conscient des problèmes qu’elle peut poser (ex : Quelle représentativité de la population ? Quel degré de sincérité dans les réponses ?). On verra quelles réponses le CISSM apporte en fin d’article.
 
 La dernière mouture de ces travaux a été publiée en février 2021 et couvre deux périodes : la fin de l’administration de Donald Trump (octobre 2020) et le début de celle de Joe Biden (février 2021).
