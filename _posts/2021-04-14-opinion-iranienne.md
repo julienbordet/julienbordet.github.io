@@ -6,8 +6,6 @@ category: [iran]
 tags: [iran]
 ---
 
-# Introduction
-
 Pour beaucoup d’occidentaux, l’opinion publique Iranienne est un mystère.  L’Iran est un pays traversé de courants profonds et divers, qui s’expriment dans la société civile, même si c’est de manière contrainte.
 
 Société profondément islamique, comme l’est son régime politique ? Moderne et aspirant à une plus grande ouverture sur le monde, s’exprimant à travers le mouvement vert (جنبش سبز ایران‎) ? Comment embrasser d’un seul regard Téhéran la ville moderne, Qom la religieuse, Tabriz l’Azeri, Ispahan qui garde la trace des empires glorieux ? Les citadins ou les ruraux ? Les Persans, les Kurdes, les Azeris, les Arabes, les Lors ou encore les Baloutchs ?
