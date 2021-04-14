@@ -1,9 +1,9 @@
 ---
 layout: post
-title: « Un aperçu de l’opinion publique Iranienne »
+title: "Un aperçu de l’opinion publique Iranienne"
 date: 2021-04-14
-category: [iran](#)
-tags: [iran](#)
+category: [iran]
+tags: [iran]
 ---
 
 # Introduction
