@@ -57,7 +57,7 @@ Toutes les relations humaines sont basées sur la confiance, et on peut simpleme
 
 Missiles balistiques, soutiens aux Houthis au Yemen, et au régime d’Assad en Syrie, autant de sujets que les Occidentaux souhaiteraient intégrer dans la fenêtre de discussion actuellement entre-ouverte depuis l’élection de Joe Biden.
 
-La position des Iraniens interrogés est très alignée, sur ce point, avec celle du gouvernement de Rohani et du guide suprême Khomeini : l’Iran ne devrait même pas parler avec les Occidentaux avant que les Américains n’appliquent eux-même les dispositions du JCPOA, telles qu’elles ont été définies en 2015.
+La position des Iraniens interrogés est très alignée, sur ce point, avec celle du gouvernement de Rohani et du guide suprême Khamenei : l’Iran ne devrait même pas parler avec les Occidentaux avant que les Américains n’appliquent eux-même les dispositions du JCPOA, telles qu’elles ont été définies en 2015.
 
 Si la politique de « pression maximale » (« _Maximum pressure_ ») de Trump visait de manière claire à faire pression sur le peuple iranien pour qu’il renverse ses dirigeants, ce type de réponse montre les limites de l’approche : les Iraniens sont nationalistes, attachés avec fierté à leur pays, et refusent de céder sous la pression. 
 
