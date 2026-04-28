@@ -1,13 +1,18 @@
 author: Julien Bordet
-name : Bloc note
-description: Bloc note de Julien Bordet
-url: http://www.bordet.info
+name: Julien Bordet
+title: Julien Bordet — Directeur Général · Direction opérationnelle
+description: >
+  Dirigeant industriel, 20 ans d'expérience en transformation stratégique
+  et pilotage d'organisations complexes. Nantes.
+url: https://www.bordet.info
 highlighter: rouge
 permalink: /blog/:year/:month/:day/:title.html
 
 markdown: kramdown
 
-exclude: ["Rmd", ".DS_Store", "README.md"]
+exclude: ["Rmd", ".DS_Store", "README.md", "docs/", "vendor/"]
 excerpt_separator: <!--more-->
-gems:
+
+plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
