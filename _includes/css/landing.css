@@ -318,14 +318,16 @@
 }
 
 .contact-links a {
-  color: rgba(255,255,255,0.75);
+  color: var(--gold);
   font-family: 'Inter', sans-serif;
   font-size: 0.95em;
-  text-decoration: none;
-  transition: color 0.2s ease;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease, opacity 0.2s ease;
 }
 
 .contact-links a:hover {
-  color: var(--gold);
-  text-decoration: none;
+  color: var(--white);
+  text-decoration: underline;
 }
