@@ -1,12 +1,10 @@
-
-<h1><a href="/">Mon bloc note</a></h1>
-<div id="nav">
-	<ul>
-		<li><a href="/blog" class="{% if page.url contains 'blog' and page.url != '/blog/archive/index.html' %}current{% endif %}">Blog</a></li>
-		<li><a href="/iran" class="{% if page.url contains 'iran' %}current{% endif %}">Iran</a></li>
-		<li><a href="/reading" class="{% if page.url contains 'reading' %}current{% endif %}">Lectures</a></li>
-		<li><a href="/physique" class="{% if page.url contains 'physique' %}current{% endif %}">Physique</a></li>
-        <li><a href="/mac" class="{% if page.url contains 'mac' %}current{% endif %}">Mac</a></li>
-		<li><a href="/about" class="{% if page.url contains 'A propos' %}current{% endif %}">A propos</a></li>
-	</ul>
+<div class="header-page">
+  <nav id="nav">
+    <a class="site-title" href="/">Julien Bordet</a>
+    <ul>
+      <li><a href="/parcours" class="{% if page.url contains 'parcours' %}current{% endif %}">Parcours</a></li>
+      <li><a href="/blog" class="{% if page.url contains 'blog' %}current{% endif %}">Réflexions</a></li>
+      <li><a href="/#contact">Contact</a></li>
+    </ul>
+  </nav>
 </div>
