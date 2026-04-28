@@ -1,67 +1,58 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-	<head>
-        <title>{{ page.title }} | {{ site.author }}</title>
-	<link rel="alternate" type="application/rss+xml" title="Flux du blog" href="http://www.bordet.info/feed.xml" />
-        <meta charset="utf-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-        <meta name="keywords" content="iran, mac, trends, tendance, leadership, développement, decision marking, décision, analyse, prospective" />
-        <meta name="author" content="Julien Bordet" />
-        <meta name="description" content="Blog consacré à l'Iran, le leadership, à la créativité et à la prospective" />
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <title>{{ page.title }} | {{ site.author }}</title>
+    <link rel="alternate" type="application/rss+xml" title="Flux du blog" href="https://www.bordet.info/feed.xml" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <meta property="og:locale" content="fr_FR" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="{{ page.title }}" />
-        {% if page.excerpt %}
-        <meta property="og:description" content="{{ page.excerpt | xml_escape }}" />
-        {% endif %}
-        <meta property="og:url" content="{{site.url}}{{ page.url }}" />
-        <meta property="og:site_name" content="Bloc-note" />
-        {% if page.image %}
-        <meta property="og:image" content="{{site.url}}/images/blog/{{ page.image }}" />
-        {% endif %}
+    {% seo %}
 
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
 
-        <meta name="viewport" content="width=640px, initial-scale=1.0, maximum-scale=1.0">	
-        <!-- favicon -->
-        <link rel="shortcut icon" href="/images/favicon.ico">
-        <!-- Google Fonts -->
-		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400,600" rel="stylesheet" type="text/css">
-		<link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen, projection" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen, projection" />
 
-        <script type="text/javascript">
-        window.MathJax = {
-          tex: {
-            packages: ['base', 'ams']
-          },
-          loader: {
-            load: ['ui/menu', '[tex]/ams']
-          }
-        };
-        </script>
-        <script type="text/javascript" id="MathJax-script" async
-                src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-        </script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <script type="text/javascript">
+      window.MathJax = {
+        tex: { packages: ['base', 'ams'] },
+        loader: { load: ['ui/menu', '[tex]/ams'] }
+      };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async
+            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+    </script>
 
-  ga('create', 'UA-55862-2', 'auto');
-  ga('send', 'pageview');
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-55862-2', 'auto');
+      ga('send', 'pageview');
+    </script>
 
-</script>
-	</head>
-	<body>
-
-
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-556c54dc04c57896" async="async"></script>
-
-
-		{{content}}
-
-	</body>
+    <!-- JSON-LD Person -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Julien Bordet",
+      "jobTitle": "Directeur Général",
+      "url": "https://www.bordet.info",
+      "email": "julien@bordet.info",
+      "sameAs": [
+        "https://www.linkedin.com/in/julienbordet/"
+      ]
+    }
+    </script>
+  </head>
+  <body>
+    {{ content }}
+  </body>
 </html>
