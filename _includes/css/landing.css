@@ -73,10 +73,35 @@
   text-align: center;
   padding: 60px 24px;
   position: relative;
+  overflow: hidden;
+}
+
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  background-image: url('/images/website/hero-bg.png');
+  background-size: cover;
+  background-position: center 40%;
+  background-repeat: no-repeat;
+  /* légère désaturation pour fondre avec la palette navy/gold */
+  filter: saturate(0.85) brightness(0.9);
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(15, 28, 52, 0.52) 0%,
+    rgba(15, 28, 52, 0.42) 45%,
+    rgba(15, 28, 52, 0.65) 100%
+  );
 }
 
 .hero-content {
   max-width: 700px;
+  position: relative;
+  z-index: 2;
 }
 
 .hero-name {
