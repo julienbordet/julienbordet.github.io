@@ -23,10 +23,6 @@ lede: Quelques livres marquants, année par année.
 
 **Intuition Pumps and Other Tools for Thinking** (Daniel Dennett)
 
-### Mai
-
-**Géopolitique de l'Iran** (Bernard Hourcade)
-
 ### Mars
 
 **Contact** (Carl Sagan)
