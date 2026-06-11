@@ -31,4 +31,4 @@ La différence entre ces livres et celui de Daniel Tammet est l'absence de conce
 Le livre est donc probablement à recommander à ceux qui découvrent le sujet de "intelligence hors norme" et qui sont intéressés par de nombreuses anectodes sur le fonctionnement du cerveau. Mais si on cherche un témoignage unique de quelqu'un disposant d'une position "spéciale", ou d'une compréhension avancées sur le fonctionnement du cerveau, on passera son chemin.
 
 {: style="font-size: 60%"}
-Pour avoir un aperçu de mes autres lectures, voir [ici](http://www.bordet.info/reading/) 
+Pour avoir un aperçu de mes autres lectures, voir [ici](/reading/)
