@@ -184,7 +184,7 @@
 }
 
 /* 02 — chronologie de revue */
-.chrono { display: grid; grid-template-columns: 130px 1fr; }
+.chrono { display: grid; grid-template-columns: 130px 1fr; align-items: baseline; }
 
 .chrono-years {
   font-family: 'Inter', sans-serif;
@@ -193,7 +193,7 @@
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--gold-deep);
-  padding: 16px 0;
+  padding: 14px 0;
   font-feature-settings: "onum";
 }
 
