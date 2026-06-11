@@ -1,0 +1,465 @@
+/* ============================================ *\
+   Éditorial — header, footer, landing, kickers
+\* ============================================ */
+
+/* Header */
+.header-page {
+  background: var(--paper);
+  border-bottom: 1px solid var(--rule);
+}
+
+.header-page #nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 18px 32px;
+}
+
+.header-page .site-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.header-page .site-title:hover { color: var(--gold-deep); text-decoration: none; }
+
+.header-page #nav ul { list-style: none; display: flex; gap: 28px; margin: 0; padding: 0; }
+.header-page #nav li { margin: 0; line-height: 1; }
+
+.header-page #nav li a {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold-deep);
+  text-decoration: none;
+  padding-bottom: 3px;
+  background-image: linear-gradient(var(--gold-deep), var(--gold-deep));
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  background-position: left bottom;
+  transition: background-size 0.2s ease, color 0.2s ease;
+}
+
+.header-page #nav li a:hover,
+.header-page #nav li a.current {
+  color: var(--ink);
+  background-size: 100% 1px;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+  .header-page #nav { padding: 14px 20px; }
+  .header-page #nav ul { gap: 18px; }
+}
+
+/* Kickers — petites capitales or */
+.kicker {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold-deep);
+  margin: 0 0 14px;
+  text-align: left;
+}
+
+/* Hero */
+.hero-ed {
+  position: relative;
+  overflow: hidden;
+  background: var(--paper);
+}
+
+.hero-ed .hero-map {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+}
+
+.hero-ed-grid {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 32px;
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 96px 32px 84px;
+}
+
+.hero-ed-tagline {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(2em, 4.5vw, 3.1em);
+  font-weight: 500;
+  line-height: 1.12;
+  color: var(--ink);
+  margin: 0;
+  text-wrap: balance;
+}
+
+.hero-ed-aside {
+  border-left: 1px solid var(--sepia);
+  padding-left: 24px;
+  align-self: end;
+}
+
+.hero-ed-aside p {
+  font-size: 0.85em;
+  line-height: 1.65;
+  color: var(--body-color);
+  margin: 0 0 16px;
+  text-align: left;
+}
+
+@media screen and (max-width: 700px) {
+  .hero-ed-grid { grid-template-columns: 1fr; padding: 64px 24px 56px; }
+}
+
+/* Sections numérotées */
+.sec { border-top: 1px solid var(--rule); padding: 56px 32px 64px; }
+.sec-inner { max-width: 1080px; margin: 0 auto; }
+.sec-deep { background: var(--paper-deep); }
+
+.sec-head { display: flex; align-items: baseline; gap: 18px; margin-bottom: 36px; }
+
+.sec-num {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 1.15em;
+  color: var(--gold-deep);
+}
+
+.sec-head h2 {
+  font-size: 1.5em;
+  font-weight: 500;
+  margin: 0;
+  border: none;
+  padding: 0;
+  color: var(--ink);
+}
+
+.sec-head .sec-rule { flex: 1; border-bottom: 1px solid var(--rule); }
+.sec-deep .sec-head .sec-rule { border-color: var(--rule-deep); }
+
+.sec-lede {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 1.05em;
+  color: var(--muted-italic);
+  margin: -20px 0 32px;
+  text-align: left;
+}
+
+/* 01 — trois colonnes de journal */
+.cols-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; }
+
+.cols-3 .col { padding: 0 26px; border-left: 1px solid var(--rule); }
+.cols-3 .col:first-child { padding-left: 0; border-left: none; }
+.cols-3 .col:last-child { padding-right: 0; }
+
+.cols-3 h3 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.1em;
+  font-weight: 500;
+  color: var(--ink);
+  margin: 0 0 10px;
+}
+
+.cols-3 p { font-size: 0.85em; line-height: 1.7; color: var(--muted); margin: 0; text-align: left; }
+
+@media screen and (max-width: 700px) {
+  .cols-3 { grid-template-columns: 1fr; }
+  .cols-3 .col { padding: 18px 0; border-left: none; border-top: 1px solid var(--rule); }
+  .cols-3 .col:first-child { border-top: none; padding-top: 0; }
+}
+
+/* 02 — chronologie de revue */
+.chrono { display: grid; grid-template-columns: 130px 1fr; align-items: baseline; }
+
+.chrono-years {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--gold-deep);
+  padding: 14px 0;
+  font-feature-settings: "onum";
+}
+
+.chrono-entry { padding: 14px 0; border-bottom: 1px solid var(--rule-deep); }
+.chrono-entry.last { border-bottom: none; }
+
+.chrono-entry .org {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.05em;
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.chrono-entry .role { font-style: italic; font-size: 0.9em; color: var(--muted-italic); }
+
+.chrono-entry p { font-size: 0.85em; color: var(--muted); line-height: 1.65; margin: 6px 0 0; text-align: left; }
+
+.lk-more { display: inline-block; margin-top: 26px; }
+
+@media screen and (max-width: 700px) {
+  .chrono { grid-template-columns: 1fr; }
+  .chrono-years { padding: 16px 0 0; }
+  .chrono-entry { padding-top: 4px; }
+}
+
+/* Vignettes gravées (carnets, planches) */
+.vignette { width: 54px; height: 40px; display: block; color: var(--gold-deep); }
+
+/* 03 — carnets & bibliothèque */
+.carnets-grid { display: grid; grid-template-columns: 1fr 1fr; }
+
+.carnet {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 18px 26px;
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+}
+
+.carnet .vignette { flex-shrink: 0; opacity: 0.85; }
+.carnet-body { display: block; }
+
+.carnet:nth-child(odd) { padding-left: 0; }
+.carnet:nth-child(even) { border-left: 1px solid var(--rule); }
+.carnet:last-child,
+.carnet:nth-last-child(2):nth-child(odd) { border-bottom: none; }
+
+.carnet .kicker { font-size: 10.5px; letter-spacing: 0.14em; margin: 0 0 6px; }
+
+.carnet-t {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1em;
+  color: var(--ink);
+  transition: color 0.2s ease;
+}
+
+.carnet-t .arrow { color: var(--gold-deep); }
+.carnet:hover { text-decoration: none; }
+.carnet:hover .carnet-t { color: var(--gold-deep); }
+
+@media screen and (max-width: 700px) {
+  .carnets-grid { grid-template-columns: 1fr; }
+  .carnet,
+  .carnet:nth-child(odd),
+  .carnet:nth-child(even) { padding-left: 0; border-left: none; border-bottom: 1px solid var(--rule); }
+  .carnet:last-child { border-bottom: none; }
+}
+
+/* Planches gravées (page Notes) */
+.planches {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin: 1.8em 0 1.6em;
+}
+
+.planche {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid var(--sepia);
+  border-radius: 2px;
+  background: var(--paper-deep);
+  padding: 20px 14px 16px;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.planche:hover { border-color: var(--gold-deep); text-decoration: none; }
+.planche.active { border-color: var(--gold-deep); background: #EDE6D3; }
+
+.planche .vignette { margin: 0 auto 10px; }
+
+.planche-t {
+  display: block;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1em;
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.25;
+}
+
+.planche-n {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold-deep);
+  margin-top: 6px;
+}
+
+.planche-fleche { display: inline-block; transition: transform 0.2s ease; }
+.planche.active .planche-fleche { transform: rotate(180deg); }
+
+/* Rubriques de notes */
+.rubrique { margin-top: 1.8em; }
+.rubrique-head .kicker { margin-bottom: 2px; }
+
+.rubrique-desc {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 0.95em;
+  color: var(--muted-italic);
+  margin: 0 0 8px;
+}
+
+.rubrique ul { margin-top: 0.3em; list-style: none; }
+.rubrique li { margin-left: 0; padding: 7px 0; border-bottom: 1px solid var(--rule); line-height: 1.5; }
+.rubrique li:last-child { border-bottom: none; }
+.rubrique li a { font-family: 'Playfair Display', Georgia, serif; font-size: 1.02em; color: var(--ink); }
+.rubrique li a:hover { color: var(--gold-deep); text-decoration: none; }
+
+.js-planches .rubrique { display: none; border-left: 2px solid var(--gold-deep); padding-left: 18px; }
+.js-planches .rubrique.open { display: block; }
+
+@media screen and (max-width: 700px) {
+  .planches { grid-template-columns: 1fr; }
+  .planche { display: flex; align-items: center; gap: 16px; text-align: left; padding: 14px 16px; }
+  .planche .vignette { margin: 0; flex-shrink: 0; }
+  .planche-n { margin-top: 2px; }
+}
+
+/* Lectures — navigation par année */
+.year-nav {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  background: var(--paper);
+  border-bottom: 1px solid var(--rule);
+  padding: 12px 0;
+  margin: 1.4em 0 0.5em;
+  font-family: 'Inter', sans-serif;
+}
+
+.year-nav-label {
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.year-nav a {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--ink);
+  text-decoration: none;
+  padding-bottom: 11px;
+  margin-bottom: -13px;
+  border-bottom: 2px solid transparent;
+  font-feature-settings: "onum";
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.year-nav a:hover { color: var(--gold-deep); text-decoration: none; }
+.year-nav a.current { color: var(--gold-deep); border-bottom-color: var(--gold-deep); }
+
+.year { scroll-margin-top: 64px; }
+
+.year-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.7em;
+  font-weight: 500;
+  color: var(--gold-deep);
+  border: none;
+  padding: 0;
+  margin: 1.2em 0 0.4em;
+  font-feature-settings: "onum";
+}
+
+.reading h3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold-deep);
+  border: none;
+  margin: 1.6em 0 0.5em;
+}
+
+.reading .year-title + h3 { margin-top: 0.8em; }
+
+/* Contact + colophon (landing) */
+.contact-ed { background: var(--ink); padding: 72px 32px 36px; text-align: center; }
+.contact-ed .kicker { color: var(--gold); text-align: center; }
+
+.contact-lede {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 1.5em;
+  line-height: 1.4;
+  color: var(--cream-text);
+  margin: 0 0 28px;
+  text-align: center;
+}
+
+.contact-links-ed { font-family: 'Inter', sans-serif; font-size: 0.9em; text-align: center; margin: 0; }
+
+.contact-links-ed a {
+  color: var(--gold);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.5);
+  padding-bottom: 2px;
+}
+
+.contact-links-ed a:hover { color: var(--cream-text); text-decoration: none; }
+.contact-links-ed .sep { color: rgba(242, 237, 223, 0.6); margin: 0 16px; }
+
+.colophon {
+  max-width: 1080px;
+  margin: 56px auto 0;
+  padding-top: 18px;
+  border-top: 1px solid rgba(201, 168, 76, 0.2);
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(242, 237, 223, 0.62);
+}
+
+/* Footer pages intérieures */
+#footer { background: var(--ink); padding: 26px 32px; clear: both; }
+
+#footer .footer-inner {
+  max-width: 1080px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: rgba(242, 237, 223, 0.62);
+}
+
+#footer a { color: var(--gold); text-decoration: none; }
+#footer a:hover { color: var(--cream-text); text-decoration: none; }
+
+/* Reveal au scroll */
+.js-reveal .reveal { opacity: 0; transform: translateY(8px); transition: opacity 0.25s ease, transform 0.25s ease; }
+.js-reveal .reveal.is-visible { opacity: 1; transform: none; }

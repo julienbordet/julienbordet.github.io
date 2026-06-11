@@ -15,7 +15,7 @@ L'Univers, à large échelle, est en expansion. C'est ce qu'à découvert Hubble
 
 Parmi les découvertes clés de la cosmologie au XXème siècle, l'expansion de l'Univers occupe une place particulière. Observée pour la première fois par Edwin Hubble, c'est ce constat qui est à l'origine de la théorie du Big Bang : si toutes les galaxies (lointaines) s'éloignent les unes des autres, que se passe-t-il si on remonte dans le passé ? Elles convergent en un "point", qu'un des détracteurs de la théorie, Fredd Hoyle, a désigné pour s'en moquer sous le nom de  "Big Bang". Le nom est resté, et les théories de l'Univers stationnaires de son inventeur ont été oubliées.
 
-Pour aller vite, l'expansion de l'Univers, telle qu'elle est comprise aujourd'hui, correspond à une déformation de l'espace-temps : ce ne sont pas les galaxies qui s'éloignent les unes des autres, mais l'espace-temps situé entre elle qui s'agrandit. J'en avais parlé dans mon [précédent billet](http://www.bordet.info/blog/2016/10/15/Mesurer-l-expansion-de-l-univers.html) sur la mesure de l'expansion de l'Univers.
+Pour aller vite, l'expansion de l'Univers, telle qu'elle est comprise aujourd'hui, correspond à une déformation de l'espace-temps : ce ne sont pas les galaxies qui s'éloignent les unes des autres, mais l'espace-temps situé entre elle qui s'agrandit. J'en avais parlé dans mon [précédent billet](/blog/2016/10/15/Mesurer-l-expansion-de-l-univers.html) sur la mesure de l'expansion de l'Univers.
 
 
 ### La vitesse d'expansion varie en fonction de la distance ###

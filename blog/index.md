@@ -1,50 +1,127 @@
 ---
-title: Réflexions
+title: Carnets — notes durables
 layout: page
 ---
 
-<div id="posts">
+<div class="notes-index" id="notes-index">
 
-    {% for post in site.posts offset: 0 limit: 10 %}
+  <h1>Réflexions &amp; notes</h1>
+  <p class="sec-lede">Quelques réflexions posées sur le papier.</p>
 
-    	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-
-        <h5>
-                {% assign m = post.date | date: "%-m" %}
-                {{ post.date | date: "%-d" }}
-                {% case m %}
-                  {% when '1' %}Janvier
-                  {% when '2' %}Février
-                  {% when '3' %}Mars
-                  {% when '4' %}Avril
-                  {% when '5' %}Mai
-                  {% when '6' %}Juin
-                  {% when '7' %}Juillet
-                  {% when '8' %}Aout
-                  {% when '9' %}Septembre
-                  {% when '10' %}Octobre
-                  {% when '11' %}Novembre
-                  {% when '12' %}Décembre
-                {% endcase %}
-                {{ post.date | date: "%Y" }}
-                &nbsp;({{ post.content | number_of_words }} mots)
-        </h5>
-	    {% if post.image %}
-	    <p>
-	    	<a href="{{ post.url }}"><img class="centered" src="/images/blog/{{post.image}}" alt="" width="450px" /></a>
-	    </p>
-	    {% endif %}
-        <p>{{ post.excerpt }} </p>
-        <p>	<a class="graybutton" href="{{ post.url }}">Suite</a></p>
-        <br/>
-        <hr/>
-
+  <div class="planches" role="list">
+    {% for rubrique in site.data.rubriques %}
+    {% assign nb = 0 %}
+    {% for post in site.posts %}
+      {% assign in_rubrique = false %}
+      {% for c in post.categories %}
+        {% if rubrique.categories contains c %}{% assign in_rubrique = true %}{% endif %}
+      {% endfor %}
+      {% if in_rubrique %}{% assign nb = nb | plus: 1 %}{% endif %}
     {% endfor %}
+    <a class="planche" role="listitem" href="#{{ rubrique.slug }}" data-rubrique="{{ rubrique.slug }}" aria-expanded="false">
+      {% assign vignette = rubrique.slug | prepend: 'vignettes/' | append: '.svg' %}
+      {% include {{ vignette }} %}
+      <span class="planche-t">{{ rubrique.titre }}</span>
+      <span class="planche-n">{{ nb }} notes <span class="planche-fleche" aria-hidden="true">▾</span></span>
+    </a>
+    {% endfor %}
+  </div>
 
+  {% for rubrique in site.data.rubriques %}
+  <section class="rubrique" id="{{ rubrique.slug }}">
+    <div class="rubrique-head">
+      <p class="kicker">{{ rubrique.titre }}</p>
+      <p class="rubrique-desc">{{ rubrique.description }}</p>
+    </div>
+    <ul>
+      {% for post in site.posts %}
+        {% assign in_rubrique = false %}
+        {% for c in post.categories %}
+          {% if rubrique.categories contains c %}{% assign in_rubrique = true %}{% endif %}
+        {% endfor %}
+        {% if in_rubrique %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
 
-	<p>
-	<a class="greenbutton" href="/blog/archive/" title="an archive of all posts">Voir tous les posts &rarr;</a>
-	</p>
-	
+  {% assign autres = "" | split: "" %}
+  {% for post in site.posts %}
+    {% assign matched = false %}
+    {% for rubrique in site.data.rubriques %}
+      {% for c in post.categories %}
+        {% if rubrique.categories contains c %}{% assign matched = true %}{% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% unless matched %}{% assign autres = autres | push: post %}{% endunless %}
+  {% endfor %}
+  {% if autres.size > 0 %}
+  <section class="rubrique rubrique-autres" id="autres">
+    <div class="rubrique-head">
+      <p class="kicker">Autres notes</p>
+    </div>
+    <ul>
+      {% for post in autres %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
 </div>
 
+<script>
+(function () {
+  var index = document.getElementById('notes-index');
+  if (!index) return;
+  index.classList.add('js-planches');
+  var planches = index.querySelectorAll('.planche');
+  var rubriques = index.querySelectorAll('.rubrique');
+
+  function ouvrir(slug, scroll) {
+    rubriques.forEach(function (r) { r.classList.toggle('open', r.id === slug); });
+    planches.forEach(function (p) {
+      var actif = p.dataset.rubrique === slug;
+      p.classList.toggle('active', actif);
+      p.setAttribute('aria-expanded', actif ? 'true' : 'false');
+    });
+    if (scroll) {
+      var cible = document.getElementById(slug);
+      if (cible) cible.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+  }
+
+  function fermer() {
+    rubriques.forEach(function (r) { r.classList.remove('open'); });
+    planches.forEach(function (p) { p.classList.remove('active'); p.setAttribute('aria-expanded', 'false'); });
+  }
+
+  planches.forEach(function (p) {
+    p.addEventListener('click', function (e) {
+      e.preventDefault();
+      var slug = p.dataset.rubrique;
+      if (p.classList.contains('active')) {
+        fermer();
+        history.replaceState(null, '', location.pathname);
+      } else {
+        ouvrir(slug, true);
+        history.replaceState(null, '', '#' + slug);
+      }
+    });
+  });
+
+  function depuisHash(scroll) {
+    var hash = location.hash.replace('#', '');
+    if (hash && document.getElementById(hash)) {
+      ouvrir(hash, scroll);
+    } else if (planches.length) {
+      ouvrir(planches[0].dataset.rubrique, false);
+    }
+  }
+
+  window.addEventListener('hashchange', function () { depuisHash(true); });
+  depuisHash(true);
+})();
+</script>

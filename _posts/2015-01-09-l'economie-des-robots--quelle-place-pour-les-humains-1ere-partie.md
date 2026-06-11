@@ -17,7 +17,7 @@ En 2014, même si Foxconn est loin d'avoir remplacé tous ses salariés par des 
 
 Cependant la question est devenue brûlante depuis quelques années : quelle place pour les humains dans l'industrie manufacturière, mais plus généralement dans une économie au sein de laquelle les robots et les intelligences artificielles seraient partout.
 
-##L'innovation technologique durant la révolution industrielle : entre progrès technique et menace pour l'emploi
+## L'innovation technologique durant la révolution industrielle : entre progrès technique et menace pour l'emploi
 
 Depuis l'invention des technologies permettant d'accumuler et d'utiliser de l'énergie (moulin à vent, à eau, puis machines à vapeurs et électricité), la question du remplacement au travail de l'homme par la machine est posée.  Les progrès technologiques allaint-ils rendre obsolète la main d'œuvre ?
 
@@ -27,7 +27,7 @@ Dans le même temps, la révolution industrielle est à l'origine de progrès ph
 
 Cependant Thomas Piketty montre dans Le Capital au XXIème siècle que durant une partie importante du XVIIIè siècle l'augmentation de la création de richesse dans les économies occidentales n'a pas été associée à une amélioration des revenus et du niveau de vie des classes ouvrières. Il faudra atteindre la fin du siècle pour voir les conditions des ouvriers s'améliorer. L'histoire montre donc que les progrès technologiques peuvent ne pas bénéficier à tous.
 
-##La troisième révolution industrielle : une accélération à partir des années 50
+## La troisième révolution industrielle : une accélération à partir des années 50
 
 La première révolution industrielle avait permis à la production mondiale de doubler entre les années 1700 et 1820. La seconde révolution industrielle verra une multiplication par 4 entre 1820 et 1910. La troisième révolution industrielle, qui s'appuie notamment sur les nouvelles technologies numériques, est l'occasion pour le PIB mondial d'être multiplié par 50 entre 1960 et 2010. Le progrès technologique permet une croissance exponentielle, après des siècles de stagnation.
 
@@ -36,7 +36,7 @@ Parmi les innovations, l'industrialisation de masse, la mécanisation et les pro
 
 Depuis les années 90, les robots ont faits des progrès phénoménaux. Il suffit de voir une chaîne de montage d'une voiture ou d'équipements électroniques dans une usine moderne pour s'en rendre compte. A l'origine limités aux tâches simples (vissage), les robots sont maintenant capables d'opérations complexes, nécessitant par exemple une adaptation à la surface de la pièce (et donc de la "voir") ou des niveaux de précisions (localisation, pression) très avancés.
 
-##L'économie digitale : un élargissement de la compétition
+## L'économie digitale : un élargissement de la compétition
 
 Il existe donc dès maintenant une compétition entre la machine et l'humain pour le travail, qui a dans un premier temps révolutionné les secteurs agricole et industriel. Les décideurs comparent tout naturellement les ouvriers à la production équivalente par une machine et prennent leur décision d'investissement sur ces critères.
 
@@ -51,7 +51,7 @@ Dans le même temps, contrairement aux premières révolutions, les nouvelles te
  
 Émerge donc une "seconde économie", terme inventé par l'économiste Brian Arthur, et correspondant à un monde parallèle à l'économie "classique", et constitué de l'ensemble des interactions complètement automatisées et échappant entièrement à l'homme : trading, réapprovisionnement des stocks, règlements automatisés, taxe de circulation dans les centres-villes (comme à Londres...). Cette économie se développe et créé de la richesse sans quasiment aucune intervention humaine. Dans son article, Brian Arthur calcule (de manière très approximative) que la seconde économie pourrait représenter, en 2025, l'équivalent de la "première" économie de 1995, soit environ 7,6 milliards de dollars.
 
-##Un avenir sans emploi ?
+## Un avenir sans emploi ?
 
 Si une économie d'une telle taille peut fonctionner quasiment sans intervention humaine, difficile d'imaginer que cela n'aura pas de répercussion sur l'emploi. A nouveau, une première approximation consiste à se demander à combien d'emplois sont associés ces 7,6 milliards de dollars. En comparant la taille de la seconde économie avec les valeurs actuelles du PIB / employé, cela représenterait entre 50 et 300 millions d'emplois, qui ne "seraient pas générés" par cette économie. Et il n'y a pas de raison pour que cela s'arrête.
 
@@ -67,7 +67,7 @@ Cette évolution poserait donc à moyen terme des problèmes majeurs, sur les fo
 
 Même si à ce stade il est très clair que personne ne dispose d'une vision complète de ce que pourrait être l'économie du futur, nous verrons dans la deuxième partie de cet article, quelques pistes de réflexion pour accompagner son développement.
 
-###Quelques sources complémentaires :
+### Quelques sources complémentaires :
 
 Livres
 

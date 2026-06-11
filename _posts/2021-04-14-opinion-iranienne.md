@@ -34,7 +34,7 @@ Pour qui regarde l’Iran de très loin, il est facile d’en avoir une vision c
 ## 1. La première source perçue des problèmes économiques est …. la mauvaise gestion et la corruption
 
 Là où certains aurait pu s’attendre à ce que les Iraniens citent en premier les sanctions américains, ils sont une majorité claire à citer en premier la mauvaise gestion et la corruption : 58% contre seulement 35%. 
-![](/images/blog/CISSM-1.jpg)
+![](/images/blog/CISSM-1.png)
 Cette tendance n’est pas nouvelle, comme on peut le voir dans le graphique ci-dessus : depuis que le sondage du CISSM existe, la mauvaise gestion et la corruption est citée en premier, avec une fourchette entre 58 et 64%. Les valeurs sont d’ailleurs stables depuis fin 2018.
 
 ## 2. Les Iraniens sont mieux « informés » sur l’élection américaine que les américains eux-même
@@ -47,7 +47,7 @@ Avec le retrait des Etats-Unis de Donald Trump du JCPOA (le nom du traité enté
 
 L’explication est simple : après l’euphorie quant aux perspectives d’une franche ouverture sur le monde, l’absence de progrès économiques concrets sur leur vie quotidienne a incité les Iraniens à la prudence. Lors des sondages d’octobre 2019 et 2020, une majorité des Iraniens interrogés désapprouvait même le traité.
 
-![](/images/blog/CISSM-2.jpg)
+![](/images/blog/CISSM-2.png)
 
 De la même manière, lorsqu’on pose la question de la confiance, une large, très large part (71%) des répondants pensent qu’il est inutile que l’Iran fasse des concessions dans le cadre des accords internationaux, puisque les puissances signataires ne tiennent pas leur engagement.   
 

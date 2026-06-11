@@ -9,10 +9,10 @@
 
     {% seo %}
 
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- Fonts auto-hébergées : préchargement des graisses critiques -->
+    <link rel="preload" href="/fonts/playfair-500.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/inter-500.woff2" as="font" type="font/woff2" crossorigin>
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css" type="text/css" media="screen, projection" />
@@ -27,16 +27,6 @@
             src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
     </script>
 
-    <!-- Google Analytics -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-55862-2', 'auto');
-      ga('send', 'pageview');
-    </script>
-
     <!-- JSON-LD Person -->
     <script type="application/ld+json">
     {
@@ -45,7 +35,6 @@
       "name": "Julien Bordet",
       "jobTitle": "Directeur Général",
       "url": "https://www.bordet.info",
-      "email": "julien@bordet.info",
       "sameAs": [
         "https://www.linkedin.com/in/julienbordet/"
       ]
@@ -54,5 +43,18 @@
   </head>
   <body>
     {{ content }}
+    <script>
+      if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        document.documentElement.classList.add('js-reveal');
+        window.addEventListener('DOMContentLoaded', function () {
+          var io = new IntersectionObserver(function (entries) {
+            entries.forEach(function (e) {
+              if (e.isIntersecting) { e.target.classList.add('is-visible'); io.unobserve(e.target); }
+            });
+          }, { rootMargin: '0px 0px -10% 0px' });
+          document.querySelectorAll('.reveal').forEach(function (el) { io.observe(el); });
+        });
+      }
+    </script>
   </body>
 </html>

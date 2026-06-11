@@ -4,7 +4,7 @@ title: "Why has the three-body problem not been solved?"
 date: 2015-09-07
 category: [physique]
 tags: [physique, anglais, physics]
-image: Restricted_3-Body.jpg
+image: Restricted_3-Body.png
 ---
 *Un petit post en anglais, issu d'une de mes contributions sur le site [Quora](http://www.quora.com/Julien-Bordet/answers)*
 

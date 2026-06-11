@@ -1,0 +1,17 @@
+<svg class="hero-map" viewBox="0 0 1200 480" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
+  <g fill="none" stroke="#C4B083" stroke-width="1">
+    <path d="M-20,300 C160,236 300,344 460,284 C620,224 760,176 920,236 C1040,280 1140,208 1220,256"/>
+    <path d="M-20,344 C160,284 300,388 460,332 C620,276 760,228 920,284 C1040,324 1140,260 1220,304" opacity="0.5"/>
+    <path d="M-20,256 C160,196 300,300 460,244 C620,188 760,136 920,196 C1040,240 1140,168 1220,216" opacity="0.5"/>
+    <path d="M140,390 Q520,110 980,176" stroke-dasharray="5 5"/>
+    <path d="M230,420 Q620,300 1060,348" stroke-dasharray="5 5" opacity="0.7"/>
+    <circle cx="140" cy="390" r="4" fill="#C4B083"/>
+    <circle cx="980" cy="176" r="4" fill="#C4B083"/>
+    <circle cx="1060" cy="348" r="3.5" fill="#C4B083"/>
+    <circle cx="1090" cy="84" r="26"/>
+    <circle cx="1090" cy="84" r="17" opacity="0.6"/>
+    <path d="M1090,52 L1090,116 M1058,84 L1122,84"/>
+    <path d="M80,40 L80,480 M300,20 L300,480 M600,20 L600,480 M900,20 L900,480" opacity="0.22"/>
+    <path d="M0,120 L1200,120 M0,240 L1200,240 M0,360 L1200,360" opacity="0.22"/>
+  </g>
+</svg>

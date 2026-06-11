@@ -1,0 +1,9 @@
+<svg class="vignette" viewBox="0 0 60 44" aria-hidden="true" focusable="false">
+  <g fill="none" stroke="currentColor" stroke-width="1.2">
+    <ellipse cx="30" cy="22" rx="22" ry="9"/>
+    <ellipse cx="30" cy="22" rx="22" ry="9" transform="rotate(60 30 22)" opacity="0.6"/>
+    <circle cx="30" cy="22" r="3" fill="currentColor" stroke="none"/>
+    <circle cx="49" cy="17" r="2" fill="currentColor" stroke="none"/>
+    <circle cx="20" cy="38" r="2" fill="currentColor" stroke="none" opacity="0.7"/>
+  </g>
+</svg>

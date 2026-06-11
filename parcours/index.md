@@ -27,43 +27,33 @@ layout: page
 
 ## Parcours professionnel
 
-### Directeur Général — Progicar *(2022 — actuel)*
-
-Optimisation opérationnelle pour l'industrie automobile. Nantes.
-
-- Pilote la conception de solutions logicielles avec 15+ grands donneurs d'ordre (distributeurs automobiles).
-- Développe une architecture modulaire conciliant exigences grands comptes et rationalisation industrielle.
-- Conçoit une plateforme d'optimisation des flux de reconditionnement de flottes, réduisant les temps d'immobilisation de 30%.
-- Impulse une dynamique d'innovation agile au sein d'une PME tech de 30 personnes.
-
-### Directeur Général Délégué & co-actionnaire — Stimio *(2017 — 2022)*
-
-Maintenance prédictive et optimisation industrielle. Nantes.
-
-- Développe une solution de maintenance prédictive pour infrastructures ferroviaires, optimisant le MCO et la continuité de service d'une activité d'importance vitale.
-- Mutualise des technologies entre ferroviaire haute exigence et bus grand public (technologies duales).
-- Élabore la stratégie de croissance et pilote deux levées de fonds (3 M€).
-- Met en place un écosystème d'innovation collaborative avec des partenaires industriels de tailles variées.
-
-### Manager — EY, Conseil en stratégie : infrastructures critiques, énergie, transport *(2011 — 2017)*
-
-Missions centrées sur des enjeux de souveraineté et d'intérêt national.
-
-- Élabore des plans stratégiques pour de grands ports maritimes et aéroports, intégrant les enjeux de sûreté, sécurité et cybersécurité d'infrastructures critiques.
-- Conduit l'analyse stratégique pour la Région du projet de reprise de l'aéroport de Toulouse.
-- Accompagne Bpifrance dans la sélection et l'évaluation de projets innovants à fort potentiel stratégique.
-
-### Consultant Senior — Wavestone, Conseil en transformation *(2004 — 2008 / 2009 — 2011)*
-
-- Pilote des projets de transformation d'envergure (>1 000 jours.homme).
-- Manage des équipes de 6 à 20 collaborateurs.
-
-### Manager & Business Developer — INTRINsec, Cybersécurité *(2002 — 2004)*
-
-Paris & Shanghai.
-
-- Conduit des missions de cybersécurité opérationnelle (tests d'intrusion, architecture sécurisée, réponse à incident).
-- Mène une mission en Chine intégrant les enjeux de sécurité économique et de protection contre l'espionnage industriel.
+<div class="chrono">
+  <div class="chrono-years">2022 — actuel</div>
+  <div class="chrono-entry">
+    <span class="org">Progicar</span><span class="role"> — Directeur Général</span>
+    <p>Optimisation opérationnelle pour l'industrie automobile. Nantes. Pilote la conception de solutions logicielles avec 15+ grands donneurs d'ordre (distributeurs automobiles) ; développe une architecture modulaire conciliant exigences grands comptes et rationalisation industrielle ; conçoit une plateforme d'optimisation des flux de reconditionnement de flottes, réduisant les temps d'immobilisation de 30 % ; impulse une dynamique d'innovation agile au sein d'une PME tech de 30 personnes.</p>
+  </div>
+  <div class="chrono-years">2017 — 2022</div>
+  <div class="chrono-entry">
+    <span class="org">Stimio</span><span class="role"> — Directeur Général Délégué &amp; co-actionnaire</span>
+    <p>Maintenance prédictive et optimisation industrielle. Nantes. Développe une solution de maintenance prédictive pour infrastructures ferroviaires, optimisant le MCO et la continuité de service d'une activité d'importance vitale ; mutualise des technologies entre ferroviaire haute exigence et bus grand public (technologies duales) ; élabore la stratégie de croissance et pilote deux levées de fonds (3 M€) ; met en place un écosystème d'innovation collaborative avec des partenaires industriels de tailles variées.</p>
+  </div>
+  <div class="chrono-years">2011 — 2017</div>
+  <div class="chrono-entry">
+    <span class="org">EY</span><span class="role"> — Manager, conseil en stratégie : infrastructures critiques, énergie, transport</span>
+    <p>Missions centrées sur des enjeux de souveraineté et d'intérêt national. Élabore des plans stratégiques pour de grands ports maritimes et aéroports, intégrant les enjeux de sûreté, sécurité et cybersécurité d'infrastructures critiques ; conduit l'analyse stratégique pour la Région du projet de reprise de l'aéroport de Toulouse ; accompagne Bpifrance dans la sélection et l'évaluation de projets innovants à fort potentiel stratégique.</p>
+  </div>
+  <div class="chrono-years">2004 — 2011</div>
+  <div class="chrono-entry">
+    <span class="org">Wavestone</span><span class="role"> — Consultant Senior, conseil en transformation (2004 — 2008 / 2009 — 2011)</span>
+    <p>Pilote des projets de transformation d'envergure (&gt;1 000 jours.homme) ; manage des équipes de 6 à 20 collaborateurs.</p>
+  </div>
+  <div class="chrono-years">2002 — 2004</div>
+  <div class="chrono-entry last">
+    <span class="org">INTRINsec</span><span class="role"> — Manager &amp; Business Developer, cybersécurité</span>
+    <p>Paris &amp; Shanghai. Conduit des missions de cybersécurité opérationnelle (tests d'intrusion, architecture sécurisée, réponse à incident) ; mène une mission en Chine intégrant les enjeux de sécurité économique et de protection contre l'espionnage industriel.</p>
+  </div>
+</div>
 
 <hr>
 

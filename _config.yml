@@ -10,7 +10,7 @@ permalink: /blog/:year/:month/:day/:title.html
 
 markdown: kramdown
 
-exclude: ["Rmd", ".DS_Store", "README.md", "docs/", "vendor/"]
+exclude: ["Rmd", ".DS_Store", "README.md", "CLAUDE.md", "docs/", "vendor/", "_posts/2021-01-23-macOSGatekeeper.md.complement"]
 excerpt_separator: <!--more-->
 
 plugins:
