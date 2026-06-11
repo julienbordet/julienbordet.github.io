@@ -6,9 +6,9 @@
   categories: [iran, politique, économie, actualité]
 - slug: sciences
   titre: Sciences & calcul
-  description: Physique, cosmologie, modèles
-  categories: [physique, modèle]
+  description: Physique, cosmologie
+  categories: [physique]
 - slug: esprit
   titre: Esprit & cognition
-  description: Intelligence, mémoire, apprentissage, littérature
-  categories: [intelligence, neuroscience, psychologie, mémoire, littérature, fastlink]
+  description: Intelligence, mémoire, apprentissage
+  categories: [intelligence, neuroscience, psychologie, mémoire, littérature, fastlink, modèle]
