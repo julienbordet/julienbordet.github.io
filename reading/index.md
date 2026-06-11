@@ -25,7 +25,7 @@ lede: Quelques livres marquants, année par année.
 
 ### Août
 
-**The Spy and the Traitor** (Ben Macintyre)
+**The Spy and the Traitor** (Ben Macintyre) : biographie d'Oleg Gordievsky, membre du KGB et agent du MI6 dans les années 80.
 
 ### Juillet
 
