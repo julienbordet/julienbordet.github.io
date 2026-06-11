@@ -45,7 +45,7 @@ lede: Quelques livres marquants, année par année.
 
 ### Février
 
-**La vie devant soi** (Romain Gary, sous le nom d'Émile Ajar) : le choc, de manière littéraire. C'est pour moi un très, très, très grand roman, porté par une maîtrise de son rythme, un détournement systématique des expressions de manière originale et rafraîchissante, soutenu par un récit qui émeut aux larmes face à la personnalité, à la fois profonde et naïve, de Momo.
+**La vie devant soi** (Romain Gary, sous le nom d'Émile Ajar) : le choc littéraire. C'est pour moi un très, très, très grand roman, porté par une maîtrise de son rythme, un détournement systématique des expressions de manière originale et rafraîchissante, soutenu par un récit qui émeut aux larmes face à la personnalité, à la fois profonde et naïve, de Momo.
 
 ## 2018
 
