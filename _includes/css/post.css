@@ -1,112 +1,63 @@
-/*****************************************************************************/
-/* Posts
-/*****************************************************************************/
+/* ============================================ *\
+   Notes (articles) et listes de notes
+\* ============================================ */
 
-/* standard */
-/* ==============
-.post pre {
-  border: 1px solid rgba(0,0,0,0.15);
-  background-color: #f5f5f5;
-  padding: 14.5px;
+.post .kicker { margin-bottom: 10px; }
+
+.post .post-title {
+  font-size: 1.9em;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 0 0 0.8em;
 }
 
-.post code {
-  border: 1px solid rgba(0,0,0,0.15);
-  background-color: #f5f5f5;
-  padding: 0 .2em;
-}
+.post pre { margin-top: 10px; }
+.post code { margin-top: 10px; }
 
-.post pre code {
-  border: none;
-}
-============== */
-
-.post pre {
-  margin-top: 10px;
-}
-
-.post code {
-  margin-top: 10px;
-}
-
-
-
-/* date */
-.post .date {
-  color: #ddd;
-  font-size: 80%;
-  font-family: Helvetica, Arial, sans-serif;
-}
-
-.post img {
-  max-width: 700px;
+.post img,
+.post img.centered,
+.post .post-img {
+  max-width: 100%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-/*  padding: 5px; */
-  -moz-border-radius: 3px; 
-  -webkit-border-radius: 3px; 
-  border-radius: 3px; 
+  margin: 1.5em auto;
+  border-radius: 3px;
 }
 
-.post img.centered {
-  max-width: 700px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-/*  padding: 5px; */
-  -moz-border-radius: 3px; 
-  -webkit-border-radius: 3px; 
-  border-radius: 3px; 
+.previous_next {
+  display: flex;
+  gap: 24px;
+  align-items: baseline;
+  flex-wrap: wrap;
+  margin-top: 48px;
+  padding-top: 18px;
+  border-top: 1px solid var(--rule);
+  font-size: 0.85em;
 }
 
-.categories, .tags, .previous_next {
+.previous_next a { color: var(--gold-deep); text-decoration: none; }
+.previous_next a:hover { color: var(--ink); }
+
+/* Index des notes par thème */
+.notes-theme { margin-top: 2.2em; }
+.notes-theme .kicker { margin-bottom: 4px; }
+.notes-theme ul { margin-top: 0.4em; list-style: none; }
+.notes-theme li { margin-left: 0; padding: 7px 0; border-bottom: 1px solid var(--rule); line-height: 1.5; }
+.notes-theme li:last-child { border-bottom: none; }
+.notes-theme li a { font-family: 'Playfair Display', Georgia, serif; font-size: 1.02em; color: var(--ink); }
+.notes-theme li a:hover { color: var(--gold-deep); text-decoration: none; }
+
+/* Archive (liste complète) */
+.listing-item { list-style: none; padding: 7px 0; border-bottom: 1px solid var(--rule); }
+.listing-item a { font-family: 'Playfair Display', Georgia, serif; color: var(--ink); }
+.listing-item a:hover { color: var(--gold-deep); text-decoration: none; }
+
+.meta, .categories, .tags, .archive-list, #tag_cloud {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 680px;
   font-size: 90%;
-  font-weight: lighter; 
-  color: #888;
-  float: center;
+  color: var(--muted);
 }
 
-/*
-.previous_next a {
-  font-size: 90%;
-  font-weight: lighter;  
-  float: center;
-}
-*/
-
-/* date */
-.archive-list .date {
-  color: #ddd;
-  font-size: 70%;
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight: lighter;
-}
-
-.listing-item,.listing-seperator{list-style-type:none;}
-.listing-item a{padding:.2em 1em;}
-.listing-item time{
-  color: #aaa; 
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 80%; }
-.listing-seperator{color: #444;}
-
-
-.meta, .categories, .tags, .previous_next, .archive-list, #tag_cloud {
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-}
-
-@media (min-width: 800px) {
-  .meta, .categories, .tags, .previous_next, .archive-list, #tag_cloud { 
-    width: 700px; 
-  }
-}
-
-
-/* used for teaching math13 */
-.lecture small{
-  color: #ddd; 
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 80%; }
+/* ancien cours math13 */
+.lecture small { color: var(--muted); font-family: 'Inter', Helvetica, Arial, sans-serif; font-size: 80%; }
