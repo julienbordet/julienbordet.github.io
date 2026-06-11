@@ -278,7 +278,7 @@
 }
 
 .contact-links-ed a:hover { color: var(--cream-text); text-decoration: none; }
-.contact-links-ed .sep { color: rgba(242, 237, 223, 0.35); margin: 0 16px; }
+.contact-links-ed .sep { color: rgba(242, 237, 223, 0.6); margin: 0 16px; }
 
 .colophon {
   max-width: 1080px;
@@ -291,7 +291,7 @@
   font-size: 10px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: rgba(242, 237, 223, 0.4);
+  color: rgba(242, 237, 223, 0.62);
 }
 
 /* Footer pages intérieures */
@@ -307,7 +307,7 @@
   font-family: 'Inter', sans-serif;
   font-size: 11px;
   letter-spacing: 0.06em;
-  color: rgba(242, 237, 223, 0.45);
+  color: rgba(242, 237, 223, 0.62);
 }
 
 #footer a { color: var(--gold); text-decoration: none; }

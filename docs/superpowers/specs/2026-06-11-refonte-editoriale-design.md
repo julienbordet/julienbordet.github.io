@@ -46,7 +46,7 @@ Registre « éditorial / presse économique » :
 | `--paper` | `#F6F2EA` | fond dominant |
 | `--paper-deep` | `#F1ECE0` | sections alternées (Parcours) |
 | `--ink` | `#0D1F2D` | texte titres, encre principale ; fond du bloc contact |
-| `--gold-deep` | `#8A6D2F` | accents texte sur fonds clairs (kickers, numéros, soulignés) |
+| `--gold-deep` | `#765D28` | accents texte sur fonds clairs (kickers, numéros, soulignés) |
 | `--gold` | `#C9A84C` | accents sur fond navy uniquement |
 | `--sepia` | `#C4B083` | gravure de la carte, filets du hero |
 | `--rule` | `#DDD5C4` | filets sur `--paper` (`#DCD3BE` sur `--paper-deep`) |
