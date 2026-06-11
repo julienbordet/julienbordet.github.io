@@ -5,6 +5,40 @@ published: true
 lede: Quelques livres marquants, année par année.
 ---
 
+## 2018
+
+### Novembre
+
+**21 leçons pour le XXIe siècle** (Yuval Harari) : légèrement moins pertinent que Sapiens, j'avoue avoir été un petit peu déçu par ce livre. C'est probablement parce que j'en attendais beaucoup.
+
+### Octobre
+
+**Terreur** (Dan Simmons)
+
+### Septembre
+
+**Fallen Dragon** (Peter F. Hamilton)
+
+### Juillet
+
+**Poor Charlie's Almanack** (Charlie Munger) : un indispensable de la culture business.
+
+### Juin
+
+**Une vérité si délicate** (John Le Carré)
+
+### Mai
+
+**Orgueil et Préjugés** (Jane Austen) : absolument pas mon type de livre en termes de sujets — les mondanités de l'Angleterre du XIXe siècle. Et dans le même temps, un petit bijou en termes d'écriture, d'ironie et de phrases ciselées.
+
+### Mars
+
+**Les Frères Karamazov** (Fiodor Dostoïevski) : là encore, un très grand classique de la littérature russe qui, il faut bien le dire, ne brille pas par son optimisme et son univers léger. Le rapport à la religion est particulièrement intéressant, et notamment la question qui est posée : l'homme se comporte-t-il de manière morale uniquement par crainte de Dieu ?
+
+### Janvier
+
+**Fondation** (Isaac Asimov) : un très grand classique de la littérature de science-fiction, et en même temps un livre que j'ai trouvé plutôt ennuyeux. Les personnages sont d'une profondeur tout à fait limitée. L'idée de psycho-histoire est intéressante, mais on bascule de période en période sans avoir un vrai fil narratif.
+
 ## 2017
 
 ### Août
