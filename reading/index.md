@@ -5,6 +5,52 @@ published: true
 lede: Quelques livres marquants, année par année.
 ---
 
+## 2020
+
+### Décembre
+
+**Confrontation en Ukraine — une analyse militaire** (Michel Goya)
+
+### Novembre
+
+**Armes de déstabilisation massive** (Pierre Gastineau, Philippe Vasseur)
+
+### Octobre
+
+**Soldat de l'ombre — au cœur des forces spéciales** (Christophe Gomart)
+
+### Septembre
+
+**12 leçons de rhétorique pour prendre le pouvoir** (Victor Ferry) : publié et lu avant que Victor Ferry ne dérive sur son délire zemmourien, mais intéressant néanmoins.
+
+### Août
+
+**The Spy and the Traitor** (Ben Macintyre)
+
+### Juillet
+
+**Histoire de l'Iran contemporain** (Mohammad-Reza Djalili, Thierry Kellner)
+
+### Juin
+
+**Gatsby le Magnifique** (Francis Scott Fitzgerald)
+
+### Mai
+
+**Measure What Matters** (John Doerr)
+
+### Avril
+
+**Sept jours avant la nuit** (Guy-Philippe Goldstein) : très bien écrit.
+
+### Mars
+
+**Red Storm Rising** (Tom Clancy) : même si le cœur concerne les années 1980, intéressant à lire comme tentative d'histoire alternative.
+
+### Janvier
+
+**Storyworthy** (Matthew Dicks) : des bonnes pratiques que j'utilise régulièrement lorsque je rédige des discours ou lorsque je dois concevoir une histoire courte.
+
 ## 2019
 
 ### Décembre
