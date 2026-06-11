@@ -12,7 +12,7 @@ Daniel Tammet, un des "autistes savants" les plus médiatiques, expose sa vision
 
 Le terme "savant" désigne ici très spécifiquement les capacités "hors-normes" de certains individus capables par exemple de calculer extrêmement rapidement, de réciter un grand nombre de décimal de Pi, de retenir des pages entières de livres... La caractéristique unique de Daniel Tammet est qu'il dispose à la fois de ces capacités "hors normes", mais aussi qui est capable d'exprimer ce qu'il ressent et d'essayer de les expliquer.
 
-###Un point de vue intéressant###
+### Un point de vue intéressant
 
 L'une de ses thèses principales de l'auteur est que le fonctionnement des cerveaux "ultra efficients" n'est fondamentalement pas différents de celui des cerveaux "normaux". Il s'agit plutôt de capacités utilisées différemment, ou de manière plus efficace, ou de rapprochements entre des concepts éloignés qui ne sont pas naturellement inhibés.
 
@@ -20,7 +20,7 @@ Il confirme aussi que chez les personnes à l'intelligence hors norme comme chez
 
 Néanmoins, chez les "autistes-savants", la nature des assocations est effectivement hors norme, d'une part du fait de la vitesse de fonctionnement, mais aussi de la nature des associations. Tammet explique que la vision d'un nombre génère chez lui des assocations quant à ses diviseurs, ses caractéristiques mathématiques propres... 
 
-###Mais globalement décevant###
+### Mais globalement décevant
 
 Le livre aurait pu être intéressant, mais est décevant à deux niveaux : d'abord il ne donne que peu de clés pour comprendre le fonctionnement "particulier" des autistes savants. Daniel Tammet ne prend que trop peu de fois le temps d'expliquer comment il explique son fonctionnement, ses raccourcis, sa spécificité, et on en sort relativement peu informé quant à ce qui fait la différence entre les "autistes savants" et le reste du monde.
 
