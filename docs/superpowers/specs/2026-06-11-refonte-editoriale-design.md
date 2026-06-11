@@ -30,12 +30,14 @@ Registre « éditorial / presse économique » :
   colonnes, soulignés de titres, lignes de chronologie.
 - **Sections numérotées** : `01`, `02`, `03` en italique or, titre serif, filet courant
   jusqu'à la marge.
-- **La carte stratégique en gravure sépia** : l'image hero actuelle
-  (`images/website/hero-bg.png`) est retraitée en planche d'atlas (sépia, lignes,
-  opacité ≈ 0,5) et posée sur le papier crème du hero. Plus d'overlay sombre.
-  Implémentation : retraitement à la build (GitHub Actions) en priorité ; si le rendu
-  photo retraité ne convainc pas, repli sur une gravure vectorielle SVG dessinée
-  (graticule, routes en pointillés, rose des vents) — plus légère et plus nette.
+- **La carte stratégique en gravure vectorielle sépia** : le fond du hero est un
+  **SVG dessiné** dans l'esprit des maquettes validées — lignes de côte en courbes,
+  routes maritimes en pointillés reliant des points-ports, graticule discret, rose
+  des vents — en traits `--sepia` (≈ 1 px, opacité ≈ 0,5) posés directement sur le
+  papier crème. Très sobre : la carte est une texture symbolique, pas une image.
+  L'inline SVG remplace l'image photo (`images/website/hero-bg.png`), qui est
+  retirée du hero. Plus d'overlay sombre. Avantages : poids quasi nul, netteté
+  parfaite à toutes densités, couleurs pilotées par les tokens CSS.
 
 ## 3. Palette (tokens CSS)
 
@@ -141,8 +143,9 @@ Bascule du build Pages « classique » vers **GitHub Actions** (workflow
 `jekyll build` + `actions/deploy-pages`), ce qui libère :
 
 - **Fonts** : sous-ensembles WOFF2 commités (générés une fois), préchargés.
-- **Images** : étape de build qui produit la version sépia de `hero-bg.png` et des
-  déclinaisons AVIF/WebP responsives (sharp ou ImageMagick).
+- **Images** : le hero étant vectoriel, plus aucun retraitement photo n'est requis
+  pour la page d'accueil. Étape optionnelle de compression AVIF/WebP des images
+  existantes (blog, photos) si le besoin apparaît — hors chemin critique.
 - **CSS** : un seul fichier minifié (Lightning CSS ou csso), plus de CSS inliné par
   `{% include %}` non minifié.
 - **Analytics** : suppression du `ga.js` obsolète (UA mort depuis 2023), sans
