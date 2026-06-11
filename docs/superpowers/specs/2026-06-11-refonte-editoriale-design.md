@@ -97,9 +97,10 @@ Cinq blocs, dans cet ordre :
 5. **03 — Carnets & bibliothèque** — phrase d'assise en italique (« Quelques
    réflexions posées sur le papier. » — sobre, première personne ou impersonnel,
    jamais de 3e personne ni de référence statutaire type « comités de direction »)
-   puis grille 2 × 2 à
-   filets : Lectures → `/reading`, Réflexions → index des notes, Physique & calcul →
-   `/physique`, Photographies → `/photos`. Kicker en petites capitales + intitulé serif.
+   puis grille 2 colonnes à
+   filets : Lectures → `/reading`, Réflexions → index des notes, Sciences →
+   `/physique`. Kicker en petites capitales + intitulé serif. La grille gère les
+   nombres impairs d'entrées (filet supprimé uniquement sur la dernière rangée).
 6. **Contact + colophon** — bloc navy : kicker `CONTACT`, phrase d'invitation en
    italique serif, liens or soulignés (email protégé anti-spam conservé, LinkedIn) ;
    filet or, puis colophon `© 2026 JULIEN BORDET — NANTES` / `BORDET.INFO`.

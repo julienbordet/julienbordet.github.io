@@ -231,7 +231,8 @@
 
 .carnet:nth-child(odd) { padding-left: 0; }
 .carnet:nth-child(even) { border-left: 1px solid var(--rule); }
-.carnet:nth-last-child(-n+2) { border-bottom: none; }
+.carnet:last-child,
+.carnet:nth-last-child(2):nth-child(odd) { border-bottom: none; }
 
 .carnet .kicker { font-size: 10.5px; letter-spacing: 0.14em; margin: 0 0 6px; }
 
