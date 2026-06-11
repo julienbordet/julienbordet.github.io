@@ -5,6 +5,36 @@ published: true
 lede: Quelques livres marquants, année par année.
 ---
 
+## 2021
+
+### Novembre
+
+**Damascus Station** (David McCloskey)
+
+### Octobre
+
+**Le Clocher de Kaliazine** (Alexandre Soljenitsyne)
+
+### Août
+
+**Difficult Conversations** (Douglas Stone, Bruce Patton, Sheila Heen)
+
+### Juin
+
+**Intuition Pumps and Other Tools for Thinking** (Daniel Dennett)
+
+### Mai
+
+**Géopolitique de l'Iran** (Bernard Hourcade)
+
+### Mars
+
+**Contact** (Carl Sagan)
+
+### Janvier
+
+**Now: The Physics of Time** (Richard Muller)
+
 ## 2020
 
 ### Décembre
