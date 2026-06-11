@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{% include header.html %}
+
+<main id="block">
+	<div class="prose reading" id="reading">
+		{% if page.lede %}<p class="sec-lede">{{ page.lede }}</p>{% endif %}
+		{{ content }}
+	</div>
+</main>
+
+{% include footer.html %}
+
+<script>
+(function () {
+  var reading = document.getElementById('reading');
+  if (!reading) return;
+
+  var slug = function (txt) { return 'a' + txt.replace(/\D/g, ''); };
+
+  // Regrouper chaque <h2> (année) et tout ce qui le suit jusqu'au prochain <h2>
+  // dans une <section> ancrable, et styler les titres.
+  var years = [];
+  Array.prototype.forEach.call(reading.querySelectorAll('h2'), function (h2) {
+    var id = slug(h2.textContent);
+    years.push({ id: id, label: h2.textContent.trim() });
+
+    var section = document.createElement('section');
+    section.className = 'year';
+    section.id = id;
+    h2.parentNode.insertBefore(section, h2);
+
+    var node = h2;
+    while (node && !(node !== h2 && node.tagName === 'H2')) {
+      var next = node.nextSibling;
+      section.appendChild(node);
+      node = next;
+      if (node && node.tagName === 'H2') break;
+    }
+    h2.classList.add('year-title');
+  });
+
+  if (!years.length) return;
+
+  // Construire la barre d'années et l'insérer avant la première section.
+  var nav = document.createElement('nav');
+  nav.className = 'year-nav';
+  nav.setAttribute('aria-label', 'Navigation par année');
+  var html = '<span class="year-nav-label">Année</span>';
+  years.forEach(function (y) { html += '<a href="#' + y.id + '">' + y.label + '</a>'; });
+  nav.innerHTML = html;
+  var firstSection = document.getElementById(years[0].id);
+  firstSection.parentNode.insertBefore(nav, firstSection);
+
+  var links = nav.querySelectorAll('a');
+  function activer(id) {
+    links.forEach(function (a) { a.classList.toggle('current', a.getAttribute('href') === '#' + id); });
+  }
+  activer(years[0].id);
+
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) { if (e.isIntersecting) activer(e.target.id); });
+    }, { rootMargin: '-20% 0px -70% 0px' });
+    years.forEach(function (y) { io.observe(document.getElementById(y.id)); });
+  }
+})();
+</script>
