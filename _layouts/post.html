@@ -15,6 +15,25 @@ layout: page
 
 	{{ content }}
 
+	{% if page.date %}
+	{% assign m = page.date | date: "%-m" %}
+	{% case m %}
+		{% when '1' %}{% assign mois = "janvier" %}
+		{% when '2' %}{% assign mois = "février" %}
+		{% when '3' %}{% assign mois = "mars" %}
+		{% when '4' %}{% assign mois = "avril" %}
+		{% when '5' %}{% assign mois = "mai" %}
+		{% when '6' %}{% assign mois = "juin" %}
+		{% when '7' %}{% assign mois = "juillet" %}
+		{% when '8' %}{% assign mois = "août" %}
+		{% when '9' %}{% assign mois = "septembre" %}
+		{% when '10' %}{% assign mois = "octobre" %}
+		{% when '11' %}{% assign mois = "novembre" %}
+		{% when '12' %}{% assign mois = "décembre" %}
+	{% endcase %}
+	<p class="post-date">Publié en {{ mois }} {{ page.date | date: "%Y" }}</p>
+	{% endif %}
+
 	<nav class="previous_next">
 		{% if page.previous %}
 		<a href="{{ page.previous.url }}" title="Note précédente">← précédente</a>
