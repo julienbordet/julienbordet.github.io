@@ -337,6 +337,70 @@
   .planche-n { margin-top: 2px; }
 }
 
+/* Lectures — navigation par année */
+.year-nav {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  background: var(--paper);
+  border-bottom: 1px solid var(--rule);
+  padding: 12px 0;
+  margin: 1.4em 0 0.5em;
+  font-family: 'Inter', sans-serif;
+}
+
+.year-nav-label {
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.year-nav a {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--ink);
+  text-decoration: none;
+  padding-bottom: 11px;
+  margin-bottom: -13px;
+  border-bottom: 2px solid transparent;
+  font-feature-settings: "onum";
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.year-nav a:hover { color: var(--gold-deep); text-decoration: none; }
+.year-nav a.current { color: var(--gold-deep); border-bottom-color: var(--gold-deep); }
+
+.year { scroll-margin-top: 64px; }
+
+.year-title {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.7em;
+  font-weight: 500;
+  color: var(--gold-deep);
+  border: none;
+  padding: 0;
+  margin: 1.2em 0 0.4em;
+  font-feature-settings: "onum";
+}
+
+.reading h3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--gold-deep);
+  border: none;
+  margin: 1.6em 0 0.5em;
+}
+
+.reading .year-title + h3 { margin-top: 0.8em; }
+
 /* Contact + colophon (landing) */
 .contact-ed { background: var(--ink); padding: 72px 32px 36px; text-align: center; }
 .contact-ed .kicker { color: var(--gold); text-align: center; }
