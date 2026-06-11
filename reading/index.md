@@ -5,6 +5,48 @@ published: true
 lede: Quelques livres marquants, année par année.
 ---
 
+## 2022
+
+### Décembre
+
+**Consciousness and the Brain** (Stanislas Dehaene)
+
+### Novembre
+
+**Mindstar Rising** (Peter F. Hamilton)
+
+### Octobre
+
+**Undercover, avoir vingt ans à la CIA** (Amaryllis Fox)
+
+### Septembre
+
+**Théorie des relations internationales** (Jean-Baptiste Jeangène Vilmer) : toujours intéressant de reposer les bases.
+
+### Août
+
+**Project Hail Mary** (Andy Weir) : après "Seul sur Mars", un très bon roman d'Andy Weir. Toujours aussi précis sur la physique sous-jacente, et un roman original en termes de scénario et peu prévisible, ce qui est toujours une grande qualité.
+
+### Juin
+
+**Dead or Alive** (Tom Clancy)
+
+### Mai
+
+**Threat Vector** (Tom Clancy)
+
+### Avril
+
+**Danse macabre** (Bozorg Alavi)
+
+### Mars
+
+**La chouette aveugle** (Sadegh Hedayat) : beaucoup plus obscur que دایی‌جان ناپلئون. Assez ésotérique et difficile d'accès.
+
+### Janvier
+
+**Mon oncle Napoléon** (Iradj Pezeshkzad) : un grand classique de la littérature iranienne du 20ème siècle. Très humoristique et satirique. Et aussi un point de vue sur l'Iran, notamment dans le courant de la seconde guerre mondiale, où peu de gens savent (en tout cas en France) que le pays a été doublement envahi par les Britanniques d'une part et par les Soviétiques de l'autre.
+
 ## 2021
 
 ### Novembre
