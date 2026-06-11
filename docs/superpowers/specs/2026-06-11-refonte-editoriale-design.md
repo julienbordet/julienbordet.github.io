@@ -94,9 +94,10 @@ Cinq blocs, dans cet ordre :
    sur la ligne, hairline entre les entrées. Sur la landing : entrées resserrées
    (organisme + rôle), le détail vit sur `/parcours`. Lien « Parcours complet,
    2002 — 2026 → ».
-5. **03 — Carnets & bibliothèque** — phrase d'assise en italique (« Ce que je lis,
-   calcule et observe en dehors des comités de direction. » — toujours à la première
-   personne, jamais de 3e personne pour parler de soi) puis grille 2 × 2 à
+5. **03 — Carnets & bibliothèque** — phrase d'assise en italique (« Quelques
+   réflexions posées sur le papier. » — sobre, première personne ou impersonnel,
+   jamais de 3e personne ni de référence statutaire type « comités de direction »)
+   puis grille 2 × 2 à
    filets : Lectures → `/reading`, Réflexions → index des notes, Physique & calcul →
    `/physique`, Photographies → `/photos`. Kicker en petites capitales + intitulé serif.
 6. **Contact + colophon** — bloc navy : kicker `CONTACT`, phrase d'invitation en
