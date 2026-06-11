@@ -5,6 +5,48 @@ published: true
 lede: Quelques livres marquants, année par année.
 ---
 
+## 2019
+
+### Décembre
+
+**Ne coupez jamais la poire en deux** (Chris Voss) : une lecture comme on en découvre tous les dix ans, révolutionnaire sur mon approche de la négociation, de l'échange, de la capacité à porter une conviction. C'est tellement différent et plus enrichissant que les fameux BATNA et ZOPA…
+
+### Novembre
+
+**Winston Churchill** (François Kersaudy) : biographie du grand homme.
+
+### Octobre
+
+**Drood** (Dan Simmons) : Dan Simmons fait le lien entre le grand Charles Dickens, auteur majeur du XIXe siècle britannique, et le roman d'horreur/fantastique tel qu'on l'écrit au début du XXIe siècle.
+
+### Septembre
+
+**God's Debris** (Scott Adams) : Scott Adams est l'auteur des nombreuses comic strips Dilbert. Assez peu intéressant, surtout lorsqu'on entre dans cette lecture en tant qu'athée.
+
+### Août
+
+**Là où est l'argent** (Maxime Renahy) : une levée du voile sur les paradis fiscaux que représentent les îles anglo-normandes.
+
+### Juillet
+
+**Déchets nucléaires, où est le problème** (Francis Sorin) : une approche scientifique et rigoureuse d'un problème qui a tendance à polariser très fortement en France.
+
+### Juin
+
+**Main basse sur l'information** (Laurent Mauduit) : la concentration des médias en France, notamment de la presse, et pourquoi c'est fortement problématique pour la démocratie.
+
+### Mai
+
+**Un Printemps à Téhéran** (Armin Arefi) : un aperçu de la vie à Téhéran dans la deuxième moitié des années 2010. On y voit la vraie diversité de la population iranienne : une partie plongée dans la religion et une autre très moderne, très tournée vers l'Occident, très désirante d'émancipation et de liberté. Et en même temps, un désenchantement très iranien.
+
+### Avril
+
+**Gros Câlin** (Romain Gary, sous le nom d'Émile Ajar) : de manière paradoxale, j'ai moins adhéré à celui-ci.
+
+### Février
+
+**La vie devant soi** (Romain Gary, sous le nom d'Émile Ajar) : le choc, de manière littéraire. C'est pour moi un très, très, très grand roman, porté par une maîtrise de son rythme, un détournement systématique des expressions de manière originale et rafraîchissante, soutenu par un récit qui émeut aux larmes face à la personnalité, à la fois profonde et naïve, de Momo.
+
 ## 2018
 
 ### Novembre
