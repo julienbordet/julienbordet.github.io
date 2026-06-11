@@ -69,17 +69,17 @@ $$ A = e^{(p \alpha - \beta) \mathrm{d}t}$$
 Dis avec des mots : la base utilisateur de *FaceBélier* dépend du taux de satisfaction (\\(\alpha\\)), de la probabilité de ne pas être tout seul sur l'outil (\\(p\\)) et du taux de départ. Si l'effet des deux premiers dépasse celui du dernier (c'est-à-dire si \\(p \alpha - \beta > 0\\)), alors la base va croître, et même de plus en plus vite. On aura alors une courbe utilisateur du type : 
 
 {: style="font-size: 60%; text-align: center"} 
-<img src="/images/blog/FaceBélier-croiss.jpg" width="350px" />
+<img src="/images/blog/FaceBélier-croiss.png" width="350px" />
 
 Si les deux se compensent (\\(p \alpha - \beta = 0\\)), on obtient une base stable :
 
 {: style="font-size: 60%; text-align: center"} 
-<img src="/images/blog/FaceBélier-plat.jpg" width="350px" />
+<img src="/images/blog/FaceBélier-plat.png" width="350px" />
 
 Si au contraire il y a plus de départ que d'arrivée (\\(p \alpha - \beta < 0\\)), la base décroît :
 
 {: style="font-size: 60%; text-align: center"} 
-<img src="/images/blog/FaceBélier-decroiss.jpg" width="350px" />
+<img src="/images/blog/FaceBélier-decroiss.png" width="350px" />
 
 **La masse critique**
 
