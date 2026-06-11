@@ -1,0 +1,14 @@
+# Rubriques éditoriales des notes — mapping vers les catégories historiques
+# des posts (le front matter des notes n'est pas modifié).
+- slug: monde
+  titre: Monde & stratégie
+  description: Géopolitique, économie, monde iranien
+  categories: [iran, politique, économie, actualité]
+- slug: sciences
+  titre: Sciences & calcul
+  description: Physique, cosmologie, modèles
+  categories: [physique, modèle]
+- slug: esprit
+  titre: Esprit & cognition
+  description: Intelligence, mémoire, apprentissage, littérature
+  categories: [intelligence, neuroscience, psychologie, mémoire, littérature, fastlink]

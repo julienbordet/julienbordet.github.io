@@ -97,9 +97,11 @@ Cinq blocs, dans cet ordre :
 5. **03 — Carnets & bibliothèque** — phrase d'assise en italique (« Quelques
    réflexions posées sur le papier. » — sobre, première personne ou impersonnel,
    jamais de 3e personne ni de référence statutaire type « comités de direction »)
-   puis grille 2 colonnes à
-   filets : Lectures → `/reading`, Réflexions → index des notes, Sciences →
-   `/physique`. Kicker en petites capitales + intitulé serif. La grille gère les
+   puis grille 2 × 2 à filets, chaque case avec sa **vignette gravée** (SVG trait
+   `--gold-deep`, style de la carte du hero) : Monde & stratégie (rose des vents)
+   → `/blog/#monde`, Sciences & calcul (orbites) → `/blog/#sciences`, Esprit &
+   cognition (arborescence) → `/blog/#esprit`, Lectures (livre ouvert) →
+   `/reading`. Kicker en petites capitales + intitulé serif. La grille gère les
    nombres impairs d'entrées (filet supprimé uniquement sur la dernière rangée).
 6. **Contact + colophon** — bloc navy : kicker `CONTACT`, phrase d'invitation en
    italique serif, liens or soulignés (email protégé anti-spam conservé, LinkedIn) ;
@@ -115,9 +117,15 @@ Les contenus de Carnets & bibliothèque sont des **notes durables**, pas un blog
 - **URLs inchangées** : le permalink actuel `/blog/:year/:month/:day/:title.html` est
   conservé pour ne casser ni liens entrants ni référencement. Les nouvelles notes
   pourront adopter un permalink thématique (`/notes/:title/`) sans toucher à l'existant.
-- **Classement thématique** : l'index des notes regroupe par rubrique (géopolitique,
-  technique, systèmes…) avec rubrique en petites capitales — plus de flux
-  antéchronologique en page d'accueil de rubrique.
+- **Classement thématique en 3 rubriques éditoriales** : les 13 catégories
+  historiques des posts sont consolidées via `_data/rubriques.yml` (le front matter
+  des notes n'est pas modifié) en Monde & stratégie / Sciences & calcul / Esprit &
+  cognition. La page Notes (`/blog/`) présente trois **planches gravées**
+  cliquables (vignette SVG, intitulé, nombre de notes) ; au clic, la liste de la
+  rubrique se déplie sous la grille (JavaScript léger ; sans JS, toutes les
+  rubriques sont visibles et les ancres `#monde`, `#sciences`, `#esprit`
+  fonctionnent). Une section « Autres notes » apparaît automatiquement si une
+  future note n'appartient à aucune rubrique. Plus de flux antéchronologique.
 - Le flux RSS (`feed.xml`) est conservé tel quel.
 
 ## 7. Pages intérieures

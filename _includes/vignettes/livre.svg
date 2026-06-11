@@ -1,0 +1,7 @@
+<svg class="vignette" viewBox="0 0 60 44" aria-hidden="true" focusable="false">
+  <g fill="none" stroke="currentColor" stroke-width="1.2">
+    <path d="M30,10 C25,6 17,5 12,7 L12,34 C17,32 25,33 30,37 C35,33 43,32 48,34 L48,7 C43,5 35,6 30,10 Z"/>
+    <path d="M30,10 L30,37"/>
+    <path d="M17,13 L26,15 M17,19 L26,21 M34,15 L43,13 M34,21 L43,19" opacity="0.5"/>
+  </g>
+</svg>
