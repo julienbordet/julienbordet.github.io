@@ -1,0 +1,170 @@
+# Spécification design — Refonte éditoriale de bordet.info (Direction A)
+
+Date : 2026-06-11
+Statut : validé sur maquettes, en attente de relecture finale
+
+## 1. Objectif et positionnement
+
+Le site est la **carte de visite exécutive** de Julien Bordet (Directeur Général, direction
+opérationnelle) : crédibiliser le profil auprès de chasseurs de têtes, conseils
+d'administration, investisseurs et partenaires.
+
+La différenciation repose sur deux piliers, identifiés par l'analyse concurrentielle
+(Collison, Evans, Roger Martin — aucun dirigeant français ne tient de site personnel
+soigné) :
+
+1. **Une signature éditoriale** : design de revue économique haut de gamme, là où les
+   sites de profils dirigeants sont soit des templates, soit des pages nues.
+2. **Une profondeur intellectuelle assumée** : tagline-thèse en hero, section
+   « Carnets & bibliothèque » qui transforme les pages existantes (lectures, physique,
+   photos, notes) en preuve de curiosité — contenu intemporel, sans dates affichées.
+
+## 2. Direction artistique
+
+Registre « éditorial / presse économique » :
+
+- **Le crème devient dominant, le navy devient l'encre.** Inversion de la logique
+  actuelle (hero navy + photo + overlay), qui faisait template.
+- **Asymétrie systématique** : plus aucun bloc centré hormis le pied de contact.
+- **Filets typographiques** (hairlines 1 px) comme ossature visuelle : séparations de
+  colonnes, soulignés de titres, lignes de chronologie.
+- **Sections numérotées** : `01`, `02`, `03` en italique or, titre serif, filet courant
+  jusqu'à la marge.
+- **La carte stratégique en gravure sépia** : l'image hero actuelle
+  (`images/website/hero-bg.png`) est retraitée en planche d'atlas (sépia, lignes,
+  opacité ≈ 0,5) et posée sur le papier crème du hero. Plus d'overlay sombre.
+  Implémentation : retraitement à la build (GitHub Actions) en priorité ; si le rendu
+  photo retraité ne convainc pas, repli sur une gravure vectorielle SVG dessinée
+  (graticule, routes en pointillés, rose des vents) — plus légère et plus nette.
+
+## 3. Palette (tokens CSS)
+
+| Token | Valeur | Usage |
+|---|---|---|
+| `--paper` | `#F6F2EA` | fond dominant |
+| `--paper-deep` | `#F1ECE0` | sections alternées (Parcours) |
+| `--ink` | `#0D1F2D` | texte titres, encre principale ; fond du bloc contact |
+| `--gold-deep` | `#8A6D2F` | accents texte sur fonds clairs (kickers, numéros, soulignés) |
+| `--gold` | `#C9A84C` | accents sur fond navy uniquement |
+| `--sepia` | `#C4B083` | gravure de la carte, filets du hero |
+| `--rule` | `#DDD5C4` | filets sur `--paper` (`#DCD3BE` sur `--paper-deep`) |
+| `--body` | `#4A4639` | corps de texte |
+| `--muted` | `#5C5749` / `#6B6452` | texte secondaire, italiques |
+| `--cream-text` | `#F2EDDF` | texte sur navy |
+
+Règle d'accessibilité : `--gold` (#C9A84C) ne sert **jamais** de couleur de texte sur
+fond clair (contraste insuffisant) ; sur clair on utilise `--gold-deep`, qui passe
+AA en petites capitales/labels.
+
+## 4. Typographie
+
+- **Playfair Display** : display et titres, italiques d'assise, tagline. Graisse 500
+  pour le display (la 400 actuelle manque d'autorité, la 700 est trop noire).
+- **Inter** : labels, kickers en petites capitales espacées (letter-spacing 0.1–0.22 em),
+  corps de texte UI, chapôs.
+- **Auto-hébergement** : WOFF2 sous-ensemblés (latin + latin-ext), `font-display: swap`,
+  préchargement des deux graisses critiques. Suppression des requêtes Google Fonts.
+- **Micro-typographie** : chiffres elzéviriens (`font-feature-settings: "onum"`) pour
+  les années de la chronologie ; espaces fines insécables avant ponctuations doubles ;
+  `text-wrap: balance` sur les titres ; justification abandonnée au profit du fer à
+  gauche (le `text-align: justify` actuel crée des lézardes).
+
+## 5. Structure de la page d'accueil
+
+Cinq blocs, dans cet ordre :
+
+1. **Header** — `JULIEN BORDET` en petites capitales à gauche ; navigation
+   `PARCOURS · CARNETS · CONTACT` à droite ; filet inférieur. Cibles : `/parcours`,
+   ancre `/#carnets`, ancre `/#contact`.
+2. **Hero** — carte sépia en fond ; grille 1.4fr / 1fr :
+   - colonne gauche : kicker `DIRECTEUR GÉNÉRAL — DIRECTION OPÉRATIONNELLE`, puis
+     tagline-thèse en serif ≈ 36 px : **« Une stratégie ne vaut que si elle survit au
+     contact du terrain. »**
+   - colonne droite, calée en pied sur un filet vertical : chapô (« Vingt ans à faire
+     ce trajet dans les deux sens — du conseil en infrastructures critiques à la
+     direction de PME industrielles. ») + lien souligné or « Lire le parcours → ».
+3. **01 — Ce que j'apporte** — trois colonnes de journal séparées par des filets
+   verticaux (plus de cartes) : Direction opérationnelle / Transformation & systèmes /
+   Stratégie & analyse. Titres serif, corps Inter.
+4. **02 — Parcours** — fond `--paper-deep`. Chronologie de revue : années en petites
+   capitales or dans une colonne de marge (120 px), organisme serif + rôle italique
+   sur la ligne, hairline entre les entrées. Sur la landing : entrées resserrées
+   (organisme + rôle), le détail vit sur `/parcours`. Lien « Parcours complet,
+   2002 — 2026 → ».
+5. **03 — Carnets & bibliothèque** — phrase d'assise en italique (« Ce qu'un dirigeant
+   lit, calcule et observe en dehors des comités de direction. ») puis grille 2 × 2 à
+   filets : Lectures → `/reading`, Réflexions → index des notes, Physique & calcul →
+   `/physique`, Photographies → `/photos`. Kicker en petites capitales + intitulé serif.
+6. **Contact + colophon** — bloc navy : kicker `CONTACT`, phrase d'invitation en
+   italique serif, liens or soulignés (email protégé anti-spam conservé, LinkedIn) ;
+   filet or, puis colophon `© 2026 JULIEN BORDET — NANTES` / `BORDET.INFO`.
+
+## 6. Contenu intemporel — règle « sans dates »
+
+Les contenus de Carnets & bibliothèque sont des **notes durables**, pas un blog :
+
+- **Aucune date affichée** : suppression du rendu de la date dans les listings et dans
+  le layout des articles (`_layouts/post.html`). La date reste dans le front matter
+  (tri interne, sitemap) mais n'est plus rendue.
+- **URLs inchangées** : le permalink actuel `/blog/:year/:month/:day/:title.html` est
+  conservé pour ne casser ni liens entrants ni référencement. Les nouvelles notes
+  pourront adopter un permalink thématique (`/notes/:title/`) sans toucher à l'existant.
+- **Classement thématique** : l'index des notes regroupe par rubrique (géopolitique,
+  technique, systèmes…) avec rubrique en petites capitales — plus de flux
+  antéchronologique en page d'accueil de rubrique.
+- Le flux RSS (`feed.xml`) est conservé tel quel.
+
+## 7. Pages intérieures
+
+Toutes les pages adoptent le même langage (header/footer communs, papier crème,
+filets, kickers) :
+
+- **/parcours** : chronologie éditoriale complète (même grille que la section 02,
+  avec descriptions).
+- **Pages de notes** : layout `post` sans date, rubrique en petites capitales or
+  au-dessus du titre serif, largeur de lecture ≈ 680 px, fer à gauche.
+- **/reading, /photos, /physique, /iran, /mac** : habillage via les layouts communs ;
+  pas de refonte de leur contenu dans ce périmètre.
+
+## 8. Micro-interactions et finition
+
+- Soulignés or animés : le filet s'étend de 0 à 100 % au survol (`background-size`,
+  200 ms).
+- Apparition douce des sections au scroll : `IntersectionObserver`, translation 8 px +
+  fondu 250 ms, désactivée si `prefers-reduced-motion`.
+- États de focus visibles (liserés `--gold-deep`) sur tous les liens.
+- Pas de carrousel, pas de parallaxe, pas d'animation décorative.
+
+## 9. Chaîne technique (GitHub Pages + Actions)
+
+Bascule du build Pages « classique » vers **GitHub Actions** (workflow
+`jekyll build` + `actions/deploy-pages`), ce qui libère :
+
+- **Fonts** : sous-ensembles WOFF2 commités (générés une fois), préchargés.
+- **Images** : étape de build qui produit la version sépia de `hero-bg.png` et des
+  déclinaisons AVIF/WebP responsives (sharp ou ImageMagick).
+- **CSS** : un seul fichier minifié (Lightning CSS ou csso), plus de CSS inliné par
+  `{% include %}` non minifié.
+- **Analytics** : suppression du `ga.js` obsolète (UA mort depuis 2023), sans
+  remplacement par défaut. L'ajout ultérieur d'un outil léger (GoatCounter) restera
+  possible mais ne fait pas partie de cette refonte.
+- **Qualité** : job de vérification des liens internes (lychee) en CI.
+
+Budget de performance : Lighthouse ≥ 95 sur les quatre axes, zéro requête
+tierce bloquante.
+
+## 10. Hors périmètre
+
+- Réécriture du contenu des notes existantes.
+- Refonte du contenu de /reading, /photos, /physique (habillage seulement).
+- Nouveau CMS, commentaires, newsletter.
+- Changement d'hébergement ou de domaine.
+
+## 11. Critères de succès
+
+- La page d'accueil ne ressemble à aucun template : asymétrie, filets, numérotation,
+  gravure sépia visibles dès le premier écran.
+- Aucune date visible dans Carnets & bibliothèque ; URLs existantes intactes.
+- Lighthouse ≥ 95 partout ; aucune requête Google Fonts/Analytics au runtime.
+- Le site se lit correctement sur mobile (colonnes empilées, chronologie en marge
+  réduite, hero asymétrique conservé).
