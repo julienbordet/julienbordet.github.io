@@ -112,11 +112,16 @@ layout: page
     });
   });
 
-  var hash = location.hash.replace('#', '');
-  if (hash && document.getElementById(hash)) {
-    ouvrir(hash, true);
-  } else {
-    ouvrir(planches.length ? planches[0].dataset.rubrique : '', false);
+  function depuisHash(scroll) {
+    var hash = location.hash.replace('#', '');
+    if (hash && document.getElementById(hash)) {
+      ouvrir(hash, scroll);
+    } else if (planches.length) {
+      ouvrir(planches[0].dataset.rubrique, false);
+    }
   }
+
+  window.addEventListener('hashchange', function () { depuisHash(true); });
+  depuisHash(true);
 })();
 </script>
