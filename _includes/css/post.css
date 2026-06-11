@@ -4,6 +4,24 @@
 
 .post .kicker { margin-bottom: 10px; }
 
+.post .kicker-back {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 7px;
+  text-decoration: none;
+  color: var(--gold-deep);
+  transition: color 0.2s ease;
+}
+
+.post .kicker-back:hover { color: var(--ink); text-decoration: none; }
+
+.post .kicker-arrow {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.post .kicker-back:hover .kicker-arrow { transform: translateX(-3px); }
+
 .post .post-title {
   font-size: 1.9em;
   font-weight: 500;
