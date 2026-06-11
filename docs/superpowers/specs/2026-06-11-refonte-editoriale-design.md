@@ -82,9 +82,10 @@ Cinq blocs, dans cet ordre :
    - colonne gauche : kicker `DIRECTEUR GÉNÉRAL — DIRECTION OPÉRATIONNELLE`, puis
      tagline-thèse en serif ≈ 36 px : **« Une stratégie ne vaut que si elle survit au
      contact du terrain. »**
-   - colonne droite, calée en pied sur un filet vertical : chapô (« Vingt ans à faire
-     ce trajet dans les deux sens — du conseil en infrastructures critiques à la
-     direction de PME industrielles. ») + lien souligné or « Lire le parcours → ».
+   - colonne droite, calée en pied sur un filet vertical : chapô (« Vingt ans
+     d'allers-retours entre la stratégie et sa mise en œuvre sur le terrain — en
+     conseil comme à la direction de PME industrielles. ») + lien souligné or
+     « Lire le parcours → ».
 3. **01 — Ce que j'apporte** — trois colonnes de journal séparées par des filets
    verticaux (plus de cartes) : Direction opérationnelle / Transformation & systèmes /
    Stratégie & analyse. Titres serif, corps Inter.
