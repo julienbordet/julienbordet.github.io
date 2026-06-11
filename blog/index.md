@@ -1,50 +1,37 @@
 ---
-title: Réflexions
+title: Carnets — notes durables
 layout: page
 ---
 
-<div id="posts">
+<div class="notes-index">
 
-    {% for post in site.posts offset: 0 limit: 10 %}
+  <h1>Réflexions &amp; notes</h1>
+  <p class="sec-lede">Notes durables, classées par thème — géopolitique, technique, systèmes, sciences.</p>
 
-    	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {% assign sorted_categories = site.categories | sort %}
+  {% for category in sorted_categories %}
+  <section class="notes-theme">
+    <p class="kicker">{{ category[0] | capitalize }}</p>
+    <ul>
+      {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
 
-        <h5>
-                {% assign m = post.date | date: "%-m" %}
-                {{ post.date | date: "%-d" }}
-                {% case m %}
-                  {% when '1' %}Janvier
-                  {% when '2' %}Février
-                  {% when '3' %}Mars
-                  {% when '4' %}Avril
-                  {% when '5' %}Mai
-                  {% when '6' %}Juin
-                  {% when '7' %}Juillet
-                  {% when '8' %}Aout
-                  {% when '9' %}Septembre
-                  {% when '10' %}Octobre
-                  {% when '11' %}Novembre
-                  {% when '12' %}Décembre
-                {% endcase %}
-                {{ post.date | date: "%Y" }}
-                &nbsp;({{ post.content | number_of_words }} mots)
-        </h5>
-	    {% if post.image %}
-	    <p>
-	    	<a href="{{ post.url }}"><img class="centered" src="/images/blog/{{post.image}}" alt="" width="450px" /></a>
-	    </p>
-	    {% endif %}
-        <p>{{ post.excerpt }} </p>
-        <p>	<a class="graybutton" href="{{ post.url }}">Suite</a></p>
-        <br/>
-        <hr/>
+  {% assign uncategorized = site.posts | where_exp: "p", "p.categories == empty" %}
+  {% if uncategorized.size > 0 %}
+  <section class="notes-theme">
+    <p class="kicker">Autres notes</p>
+    <ul>
+      {% for post in uncategorized %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
 
-    {% endfor %}
+  <p style="margin-top: 2.5em;"><a class="lk" href="/blog/archive/">Liste complète des notes →</a></p>
 
-
-	<p>
-	<a class="greenbutton" href="/blog/archive/" title="an archive of all posts">Voir tous les posts &rarr;</a>
-	</p>
-	
 </div>
-

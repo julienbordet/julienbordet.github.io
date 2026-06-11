@@ -1,21 +1,15 @@
 ---
 layout: page
-title: Archive
+title: Toutes les notes
 ---
 
 <div class="archive-list">
-	<p>
-	  <h3>Archive</h3>
-	</p>
+	<h1>Toutes les notes</h1>
 	<ul class="listing">
 		{% for post in site.posts %}
-
-                   {% unless post.category == "physique" %}
-		      <li class="listing-item">
-		         <time datetime="{{ post.date | date: "%m-%d-%Y" }}">{{ post.date | date: "%m-%d-%Y" }}</time>
-		         <a href="{{ post.url }}" class="title">{{ post.title }}</a>
-		     </li>
-                   {% endunless %}
+		<li class="listing-item">
+			<a href="{{ post.url }}" class="title">{{ post.title }}</a>
+		</li>
 		{% endfor %}
 	</ul>
 </div>
