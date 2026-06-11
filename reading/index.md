@@ -9,7 +9,7 @@ lede: Quelques livres marquants, année par année.
 
 ### Décembre
 
-**Confrontation en Ukraine — une analyse militaire** (Michel Goya)
+**Confrontation en Ukraine — une analyse militaire** (Michel Goya) : particulièrement intéressant pour l'histoire de l'annexion de la Crimée par la Russie.
 
 ### Novembre
 
