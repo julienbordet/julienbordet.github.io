@@ -60,7 +60,7 @@ Ebbinghaus [^1] a ainsi synthétisé la qualité de la mémoire au fur et à mes
 {: style="font-size: 60%; text-align: center"} 
 <img src="/images/blog/ForgettingCurve.png" width="350px" />
 
-Plus le temps passe, plus on oublie. Mais, plus important, on oublie d'autant plus vite que la mémoire est fraiche. Il est donc important de mobiliser rapidement la mémoire après l'avoir acquise, pour bien la fixer, puis d'espacer ces mobilisations en fonction du temps passé et de la qualité de la fixation. Les applications destinées à stimuler la mémoire, comme [memrise](www.memrise.com), fonctionnent d'ailleurs sur ce principe.
+Plus le temps passe, plus on oublie. Mais, plus important, on oublie d'autant plus vite que la mémoire est fraiche. Il est donc important de mobiliser rapidement la mémoire après l'avoir acquise, pour bien la fixer, puis d'espacer ces mobilisations en fonction du temps passé et de la qualité de la fixation. Les applications destinées à stimuler la mémoire, comme [memrise](https://www.memrise.com), fonctionnent d'ailleurs sur ce principe.
 
 {: style="font-size: 60%; text-align: center"} 
 <img src="/images/blog/arya.jpg" width="400px" />
