@@ -47,6 +47,11 @@ tags: [mot-clé, autre-mot-clé]
   `les modèles` → `les-mode-les`) ; vérifier l'URL réelle dans `_site/` après build.
   (Le tag `{% post_url %}` échoue sur les noms de fichiers accentués avec cette
   version de Jekyll — utiliser le chemin relatif en dur.)
+- **Slug ASCII pour les notes au titre accentué.** Une URL accentuée est fragile
+  (encodage NFC/NFD, translittération Jekyll surprise, %-encoding). Quand le titre
+  d'une note contient des accents, forcer un slug ASCII dans le front matter
+  (`slug: modele-la-masse-critique`) : l'URL devient stable et propre, le `title:`
+  reste accentué. Les liens internes pointent alors vers cette URL ASCII.
 
 ## Page Lectures (`reading/index.md`)
 
