@@ -37,7 +37,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         continue-on-error: true
         with:
-          args: --offline --no-progress _site
+          args: --offline --no-progress --base _site _site
 
       - uses: actions/upload-pages-artifact@v3
         with:
