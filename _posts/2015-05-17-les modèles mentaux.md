@@ -2,6 +2,7 @@
 layout: post
 title: "Les modèles mentaux"
 date: 2015-05-17
+slug: les-modeles-mentaux
 category: psychologie
 tags: [psychologie, modèle, physique, biologie, système, ingénierie, mathématiques]
 ---
@@ -35,7 +36,7 @@ Quelques billets sur ce blog tenteront par la suite de donner quelques exemples 
 	* Tout action entraine une réaction de même intensité dans la direction opposée 
 * **Quantité de mouvement** : la quantité <span>$$\vec p = m \vec v$$</span> est conservée dans les chocs élastiques
 * **Mécanique quantique** : le monde de l'infiniment petit n'est pas déterministe, mais gouverné par des lois de probabilité.
-* **[Masse critique](/blog/2015/08/17/Mode-le-la-masse-critique.html)**, qui entraine une réaction en chaîne. C’est le point qui lorsqu’il est atteint entraine un phénomène critique et irréversible.[^1]
+* **[Masse critique](/blog/2015/08/17/modele-la-masse-critique.html)**, qui entraine une réaction en chaîne. C’est le point qui lorsqu’il est atteint entraine un phénomène critique et irréversible.[^1]
 * **Point d'équilibre**
 * **Relativité Générale** : c'est la géométrie elle-même de l'espace qui est courbe.
 
